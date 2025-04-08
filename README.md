@@ -217,8 +217,45 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 
 **Logo del Startup:**
 
-<p align="left"><img src="images/logo-servicio.png" alt="PixelMasters Logo" width="60%" height="40%"></p>
+<p align="left"><img src="images/logo-servicio.png" alt="PixelMasters Logo" width="30%" height="40%"></p>
 
 **Logo del Producto:**
 
-<p align="left"><img src="images/logo-producto.png" alt="RepairLink Logo" width="60%" height="40%"></p>
+<p align="left"><img src="images/logo-producto.png" alt="RepairLink Logo" width="20%" height="40%"></p>
+
+### 1.1.2 Perfiles de integrantes del equipo
+
+<TABLE BORDER>
+	<TR>
+		<TH><h2>Intregantes</h2></TH> 
+		<TH><h2>Descripción</h2></TH>
+		<TH><h2>Conocimientos</h2></TH>
+	</TR>
+  	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Sebastian Cordova Valdivia - U20  <img src="images/fotoCristian.jpeg" alt="Foto Sebastian" width="40%"> </p></td> 
+		<td style="text-align: center" align="center"></td>
+		<td style="text-align: center" align="center"> </td>
+	</TR>
+  	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Stanley Jeremy Gutierrez Tume - U20  <img src="images/fotoMelina.jpg" alt="Foto Stanley" width="45%"> </p></td> 
+		<td style="text-align: center" align="center"></td>
+		<td style="text-align: center" align="center"></td>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Edson Diego Llamozas Diaz - U20  <img src="images/fotoCristian.jpeg" alt="Foto Edson" width="40%"> </p></td> 
+		<td style="text-align: center" align="center"></td>
+		<td style="text-align: center" align="center"> </td>
+	</TR>
+  	<TR>
+		<td style="text-align: center" align="center"><p align="center"> José Luis Martinez Valdivia - U20  <img src="images/fotoMelina.jpg" alt="Foto José" width="45%"> </p></td> 
+		<td style="text-align: center" align="center"></td>
+		<td style="text-align: center" align="center"></td>
+	</TR>
+	<TR>
+		<td style="text-align: center" align="center"><p align="center"> Karen Ramos Carpio - U20201E493 <img src="images/fotoKaren.JPG" alt="Foto Karen" width="50%"> </p></td>
+		<td style="text-align: center" align="center">Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en 		equipo para poder llegar a los objetivos definidos por la empresa.Tengo un alto sentido del compromiso y la responsabilidad por lo que puedo garantizar que la tarea que me sea asignada será gestionada con 		diligencia.</td>
+		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, 		Angular, React y Kendo UI.Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se 		completen en el plazo establecido</td>
+	</TR>
+</TABLE>
+
+
