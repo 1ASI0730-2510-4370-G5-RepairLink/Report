@@ -258,4 +258,49 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 	</TR>
 </TABLE>
 
+## 1.2 Solution Profile
+### 1.2.1 Antecedentes y problemática
+Para identificar el contexto en el que se situa RepairLink, utilizaremos la técnica de las 5 W's y 2 H's.
+
+#### 1.2.1.1. Las 5 W's:
+
+- **What (Qué):**<br>
+RepairLink es una plataforma digital que conecta a personas con dispositivos o electrodomésticos dañados con técnicos independientes calificados. Los usuarios pueden subir fotos y descripciones de sus productos dañados para recibir presupuestos de reparación, comparar opciones y contratar directamente desde la app. La plataforma promueve la reparación como una alternativa sostenible al reemplazo.
+
+- **Why (Por qué):**<br>
+Porque actualmente muchas personas optan por reemplazar sus productos en lugar de repararlos, generando más residuos electrónicos y gasto innecesario. Al mismo tiempo, miles de técnicos independientes tienen poca visibilidad y dificultades para conseguir clientes. RepairLink surge para:
+	- Fomentar la economía circular.
+	- Reducir el impacto ambiental.
+	- Facilitar el acceso a reparaciones confiables y accesibles.
+	- Generar oportunidades para técnicos y reparadores locales.
+
+- **Who (Quién):**<br>
+El producto está dirigido a las personas que tienen electrodomésticos dañados y buscan una solución rápida y confiable sin desechar el productoy las personas que se desempeñan como técnicos que son reparadores y técnicos independientes que buscan ampliar su cartera de clientes y profesionalizar sus servicio.
+
+- **Where (Dónde):**<br>
+En zonas urbanas y suburbanas donde hay gran uso de electrodomésticos y falta de acceso a servicios técnicos rápidos, estaria disponible en formato app móvil y plataforma web, accesible desde cualquier dispositivo.
+
+- **When (Cuándo):**<br>
+	- Cuando un producto deja de funcionar y el usuario no sabe si vale la pena repararlo.
+	- Cuando un técnico desea mejorar su visibilidad y acceder a más oportunidades laborales.
+	- Durante campañas de concientización sobre reciclaje, sostenibilidad y economía circular.
+	- En cualquier momento en que se necesite reparar un dispositivo, de manera simple y confiable.
+
+#### 1.2.1.2. Las 2 H's:
+
+- **How (Cómo):**<br>
+El usuario se registra, publica una solicitud de reparación con una breve descripción y fotos del producto.
+Técnicos registrados pueden responder con presupuestos y detalles del servicio.
+El usuario compara las opciones y agenda la reparación con el técnico que mejor se ajuste a sus necesidades.
+El sistema incluye valoraciones, sistema de reputación, opción de garantía post-servicio y recompensas por reparaciones realizadas.
+Los técnicos cuentan con una interfaz para gestionar trabajos, historial de clientes y herramientas de comunicación directa.
+
+- **How much (Cuánto):**<br>
+El uso de la plataforma es gratuito, por otro lado solo pagan el servicio contratado, con precios accesibles gracias a la competencia entre técnicos.
+Plan gratuito con cobro de comisión por cada trabajo concretado.
+Plan premium mensual que ofrece mayor visibilidad, herramientas de gestión, acceso a cursos y participación en campañas promocionales.
+Ingresos de la plataforma:
+Comisión por servicios realizados.
+Suscripciones premium de técnicos.
+Espacio para venta de repuestos reutilizados (modelo marketplace).
 
