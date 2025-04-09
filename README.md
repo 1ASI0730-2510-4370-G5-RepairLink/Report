@@ -304,3 +304,54 @@ Comisión por servicios realizados.
 Suscripciones premium de técnicos.
 Espacio para venta de repuestos reutilizados (modelo marketplace).
 
+### 1.2.2 Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+RepairLink es una plataforma digital enfocada en la conexión entre usuarios con electrodomésticos dañados y técnicos independientes calificados. Su objetivo es brindar una solución eficiente, transparente y sostenible para la reparación de dispositivos, fomentando el cuidado del medio ambiente, el ahorro económico y el empoderamiento de profesionales técnicos.
+
+Hemos identificado que, en el contexto actual, muchas personas enfrentan dificultades a la hora de reparar sus electrodomésticos. La falta de acceso a técnicos confiables, los precios poco claros y la percepción de que “es mejor comprar que reparar” llevan al descarte prematuro de productos que aún podrían tener una larga vida útil. Al mismo tiempo, los técnicos y reparadores independientes encuentran barreras para visibilizar sus servicios y conectar con nuevos clientes de forma profesional y segura.
+Esto genera un ciclo problemático: mayor producción de residuos electrónicos, gastos innecesarios para las familias y pérdida de oportunidades laborales para los técnicos. Además, se debilita el concepto de economía circular, clave para un desarrollo más sustentable.
+
+¿Cómo podríamos resolver estos problemas mediante una herramienta digital que conecte de forma ágil, segura y transparente a usuarios y técnicos? La solución debe facilitar el proceso de solicitud de reparaciones, mejorar la confianza en el servicio técnico, promover la reparación como primera opción y ofrecer a los profesionales herramientas que los ayuden a gestionar su trabajo y crecer en el mercado.
+
+RepairLink propone así un entorno donde reparar sea fácil, accesible y socialmente valorado, generando impacto económico, social y ambiental positivo a largo plazo.
+
+#### 1.2.2.2. Lean UX Assumptions
+
+##### 1.2.2.2.1. Assumptions:
+
+Existe una demanda creciente por una solución digital que facilite la reparación de electrodomésticos, debido a los altos costos de reemplazo, la dificultad para encontrar técnicos confiables y la necesidad de alargar la vida útil de los productos.
+Las personas están dispuestas a subir información (fotos, descripciones, etc.) de sus aparatos dañados si eso les permite obtener presupuestos rápidos y opciones de reparación accesibles y seguras.
+Los técnicos y reparadores independientes están interesados en visibilizar sus servicios en una plataforma que les permita captar clientes, gestionar solicitudes y mejorar su reputación profesional.
+Una interfaz simple, transparente y confiable será clave para la adopción tanto por parte de los usuarios como de los técnicos.
+Se espera que el modelo de comisión por reparación y suscripción premium para técnicos sea sostenible y atractivo, ya que resuelve problemas reales de conectividad, visibilidad y confianza.
+Se asume que la plataforma será técnicamente viable y escalable, pudiendo manejar múltiples solicitudes, fotos, presupuestos y perfiles de técnicos simultáneamente.
+
+##### 1.2.2.2.2. Features:
+
+Permitir a los usuarios subir fotos y descripciones de sus electrodomésticos dañados, generando solicitudes públicas para que técnicos puedan enviar presupuestos.
+Ofrecer a los técnicos una sección de oportunidades donde puedan ver las solicitudes según su ubicación, experiencia y disponibilidad.
+Incorporar un sistema de reputación basado en calificaciones y comentarios de clientes para aumentar la confianza y profesionalización del servicio.
+Facilitar la comunicación directa entre usuarios y técnicos mediante un sistema de chat interno dentro de la plataforma.
+Integrar una pasarela de pago segura con opción a pago por adelantado, contraentrega o garantía post-servicio.
+Disponer de un área de gestión para técnicos suscritos, que incluya estadísticas de desempeño, agenda de trabajos, y herramientas administrativas básicas.
+Brindar soporte técnico y asistencia en caso de conflictos o problemas durante el servicio.
+
+#### 1.2.2.3. Lean UX Hypothesis Statements
+- **1st Hypothesis Statement:** <br>
+Nosotros creemos que si implementamos una funcionalidad donde los usuarios puedan subir fácilmente fotos y descripciones de sus productos dañados,
+Cuando los usuarios completen su solicitud en la plataforma,
+Veremos que se incrementa el número de presupuestos recibidos y la rapidez con la que los técnicos responden,
+Mediremos esto a través del tiempo promedio de respuesta, la cantidad de presupuestos generados por solicitud, y la tasa de conversión a reparaciones efectivas.
+
+- **2nd Hypothesis Statement:** <br>
+Nosotros creemos que si desarrollamos un sistema de reputación basado en calificaciones y comentarios después de cada reparación,
+Cuando los usuarios dejen su feedback y los técnicos acumulen evaluaciones públicas,
+Veremos que la confianza en la plataforma aumentará, generando más contrataciones recurrentes y reduciendo los conflictos por mala calidad del servicio,
+Mediremos esto a través de la tasa de repetición de contrataciones, la evolución del promedio de calificaciones, y encuestas de satisfacción general del servicio.
+
+- **3rd Hypothesis Statement:** <br>
+Nosotros creemos que si ofrecemos a los técnicos una sección premium con mayor visibilidad, herramientas administrativas y acceso prioritario a solicitudes,
+Cuando los técnicos se suscriban a esta modalidad y gestionen su trabajo desde la plataforma,
+Veremos una mejora en su desempeño, fidelización con la plataforma y aumento en sus ingresos mensuales,
+Mediremos esto mediante la tasa de conversión a planes pagos, el promedio de servicios contratados por técnico premium y la retención de suscriptores en un periodo de tres meses.
+
