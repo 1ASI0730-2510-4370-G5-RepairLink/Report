@@ -355,3 +355,15 @@ Cuando los técnicos se suscriban a esta modalidad y gestionen su trabajo desde 
 Veremos una mejora en su desempeño, fidelización con la plataforma y aumento en sus ingresos mensuales,
 Mediremos esto mediante la tasa de conversión a planes pagos, el promedio de servicios contratados por técnico premium y la retención de suscriptores en un periodo de tres meses.
 
+#### 1.2.2.4. Lean UX Canvas
+
+ <img src="images/Lean-UX-Canvas.png" alt="Imagen del Lean UX Canvas" style="width: 80%;">
+
+
+## 1.2 Segmento objetivo
+
+La plataforma está diseñada para ofrecer soluciones adaptadas a las necesidades específicas de cada grupo, asegurando una gestión efectiva y personalizada de sus necesidades, identificamos dos segmentos principales:
+
+- **Usuarios con dispositivos dañados** (electrodomésticos, electrónicos, herramientas, etc.).
+- **Técnicos y reparadores independientes** que buscan clientes y herramientas avanzadas para su negocio.
+
