@@ -74,6 +74,7 @@
 >
 ### 4.2.1.Organization Systems
 > **Home**
+<div>
 | Topico  | Definicion |
 |---------- ----------|
 | Home | Seccion principal en la cual se mostrara una descripicion del servicios, sus caracteristicas y el proceso de funcionamiento de la plataforma |
@@ -81,12 +82,15 @@
 | Be a technician    | Seccion en donde se mostrara los beneficios que se le brinda a un tecnico por unirse a la plataforma   |
 | Reviews    | Seccion en la cual se mostraran las opiniones tanto de los tecnicos, como de los usuarios con dispositivos a reparar  |
 | Log In    | Seccion por la cual el usaurio se registrara en la plataforma  |
+</div>
 
 > ** Reparations**
+<div>
 | Topico  | Definicion |
 |---------- ----------|
 | Appliances | Seccion en la cual se mostraran los dispositivos principales disponibles en nuestra plataforma  |
 | Locations   | Ciudades y distritos en donde nuestra plataforma esta disponible |
+</div>
 >  **Be a technician** <br>
 > En esta seccion se muestran las caracteristicas de la plataforma para los tecnicosm y la suscripcion opcional
 > a la cual pueden acceder.
@@ -94,15 +98,18 @@
 > <br> **Reviews** <br>
 > Esta seccion mostarara los comentarios dejado por los tecnicos y los clientes respecto a la calidad de plataforma web
 > <br> **Log In** <br>
+<div>
 | Topico  | Definicion |
 |---------- ----------|
 | Log In | Seccion en la cual se autenticaran las credenciales de un perfil ya existente para acceder a este  |
 | Sign Up   | Seccion en la caul se requerira llenar campos con datos personales para poder registrase tanto como Tecnico o Cliente |
+</div>
 > **Responsive Design** <br>
-? Sera posible tener una experiencia fluida y adaptable para los diferentes dispositivos por los cuales el usuario ingrese a la plataforma
+>Sera posible tener una experiencia fluida y adaptable para los diferentes dispositivos por los cuales el usuario ingrese a la plataforma
 ### 4.2.2.Labeling Systems
 > Se ha decidido usar etiquetas, estas permitiran organizar en grupos las secciones de la plataforma web. Estas seras accesibles dando click
 > a cada etiqueta
+<div>
 | Topico  | Definicion |
 |---------- ----------|
 | Home | Seccion principal en la cual se mostrara una descripicion del servicios, sus caracteristicas y el proceso de funcionamiento de la plataforma |
@@ -110,7 +117,7 @@
 | Be a technician    | Seccion en donde se mostrara los beneficios que se le brinda a un tecnico por unirse a la plataforma   |
 | Reviews    | Seccion en la cual se mostraran las opiniones tanto de los tecnicos, como de los usuarios con dispositivos a reparar  |
 | Log In    | Seccion por la cual el usaurio se registrara en la plataforma  |
-
+</div>
 ### 4.2.3.SEO Tags and Meta Tags
 ### 4.2.4.Searching Systems
 ### 4.2.5.Navigation Systems
