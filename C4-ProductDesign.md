@@ -7,13 +7,13 @@
 > Los **Style Guidelines** es una guia la cual reune las directrices para asegurar un diseño y presentacion coherente de sitios web y software.
 > Ahora se presentaran los parametros aplicados para el desarrollo del proyecto
 ### 4.1.1.General Style Guidelines
-> **Branding**#
+> **Branding**# <br>
 > Al momento de crear el logo de RepairLink, se decidio por un modelo minimalista el cual refleja nuestro compromiso de optar por reparar los gadgets en lugar de
 > desecharlos y contribuir a la contaminacion. Los colores utilizados son suaves, los cuales permiten que el usuario no tenga problema en identificarlo y se mantenga reconocible.
 >
 > <img src="images/logo-producto.png" alt="Brand Logo">
 >
-> **Typography**
+> **Typography** <br>
 > Para la tipografia de RepairLink, se ha elegido una fuente elegante y funcional que complementa la imagen general de la aplicacion.
 > La tipografia principal es Roboto, una fuente que ofrece execelente legibilidad en dipositivos moviles y proporciona un toque moderno y profesional al diseño.
 > Para mostrar contraste en los textos, se ha optado por la fuente RobotoSlab, la cual es llamativa. Esto permitira destacar informacion importante y captar la atencion del usuario.
@@ -30,7 +30,7 @@
 >
 > <img src="images/Colors.png" alt="Colors">
 >
->**Spacing**
+>**Spacing** <br>
 > El espaciado desempeña un papel fundamental en el diseño de RepairLink, ya que permite organizar la información de forma clara y coherente. Se ha aplicado una separación amplia
 > entre los elementos de la interfaz para mejorar la legibilidad y facilitar la navegación del usuario. Asimismo, se ha mantenido un espaciado constante en todo el diseño, lo que
 > aporta equilibrio y armonía a la composición.
@@ -43,12 +43,12 @@
 > Gracias a esto el contenido se mantendra intacto, mejorando la presentacion y la experiencia del usuario.
 > Se ha optado usar Material Design para la experiencia de usuario ya que este se enfoca en los elementos clave y enfoca la atencion del usuario asia la pagina.
 >
-> **Icons**
+> **Icons** <br>
 > Nos aseguraremos de la consistencia y capacidad de lectura de los iconos a las ves que se expresaran las caracteristicas esenciales de esta.
 >
 > <img src="images/Icons.png" alt="Icons">
 >
-> **Scale**
+> **Scale** <br>
 > Se usara un rango de 7 tipo de esquinas en las figuras:
 >- None
 >- Extra Small
@@ -61,10 +61,9 @@
 >
 > <img src="images/Shape.png" alt="Shape">
 >
->
 ### 4.1.3.Mobile Style Guidelines
 > Para el desarrollo de la version mobil se continuara con el uso de Material Design para mantener la uniformidad de platafoma web en diferentes dispositivos.
 >
-> **Transitions**
->
-> 
+> **Transitions** <br?
+> Se aplicaran transiciones la cuales permitan que la plataforma tenga una sensancion cohesiva y predecible al momento de usarla 
+> <img="images/Transition.png" alt="Transition">
