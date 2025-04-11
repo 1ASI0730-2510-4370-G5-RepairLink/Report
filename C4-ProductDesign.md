@@ -150,29 +150,29 @@
 > **Web Version - Home Page** <br>
 > Esta sera la seccion inicial a la cual el usuario sera enviado al momento de ingresar a nuestra plataforma. Aqui se mostrara proceso por el cual
 > nuestro servicio es ofrecido.
-> <img src="images/Wireframe-HomePage" alt="HomePage">
+> <img src="images/Wireframe-HomePage.png" alt="HomePage">
 > **Web Version - Reparations** <br>
 >En esta seccion se mostraran los productos a los cuales se le pueden realizar reparacion
-> <img src="images/Wireframe-Reparations" alt="Reparations">
+> <img src="images/Wireframe-Reparations.png" alt="Reparations">
 > ""Web Version - Be a technician** <br>
 > Seccion en la cual se mostraran los beneficios de unirte a nuestra plataforma como tecnico reparador
-> <img src="images/Wireframe-BeTechnician" alt="BeTechnician">
+> <img src="images/Wireframe-BeTechnician.png" alt="BeTechnician">
 > "Web Version - Reviews" <br>
 > Seccion en la cual se mmostraran las opiniones de nuestros usuarios, tanto clientes como tecnicos
-> <img src="images/Wireframe-Reviews" alt="Reviews">
+> <img src="images/Wireframe-Reviews.png" alt="Reviews">
 > **Mobile Web Version - Home Page** <br>
 >Esta sera la seccion inicial a la cual el usuario sera enviado al momento de ingresar a nuestra plataforma. Aqui se mostrara proceso por el cual
 > nuestro servicio es ofrecido.
-> <img src="images/Wireframe-MobileHomePage" alt="Wireframe-MobileHomePage">
+> <img src="images/Wireframe-MobileHomePage.png" alt="Wireframe-MobileHomePage">
 >""Mobile Web Version - Reparations** <br>
 >En esta seccion se mostraran los productos a los cuales se le pueden realizar reparacion
-><img src="images/Wireframe-MobileReparations" alt="Wireframe-MobileReparations">
+><img src="images/Wireframe-MobileReparations.png" alt="Wireframe-MobileReparations">
 >**Mobile Web Version - Be a technician** <br>
 > Seccion en la cual se mostraran los beneficios de unirte a nuestra plataforma como tecnico reparador
-> <img src="images/Wireframe-MobileBeTech" alt="Wireframe-MobileBeTech">
+> <img src="images/Wireframe-MobileBeTech.png" alt="Wireframe-MobileBeTech">
 >**Mobile Web Version - Reviews** <br>
 > Seccion en la cual se mmostraran las opiniones de nuestros usuarios, tanto clientes como tecnicos
-><img src="images/Wireframe-MobileReviews" alt="Wireframe-MobileReviews">
+><img src="images/Wireframe-MobileReviews.png" alt="Wireframe-MobileReviews">
 ### 4.3.2.Landing Page Mock-up
 ## 4.4.Web Applications UX/UI Design
 ### 4.4.1.Web Applications Wireframes
