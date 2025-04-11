@@ -237,7 +237,7 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 		<td style="text-align: center" align="center"> </td>
 	</TR>
   	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Stanley Jeremy Gutierrez Tume - U20  <img src="images/fotoMelina.jpg" alt="Foto Stanley" width="45%"> </p></td> 
+		<td style="text-align: center" align="center"><p align="center"> Stanley Jeremy Gutierrez Tume - U202118152  <img src="images/fotoMelina.jpg" alt="Foto Stanley" width="45%"> </p></td> 
 		<td style="text-align: center" align="center"></td>
 		<td style="text-align: center" align="center"></td>
 	</TR>
