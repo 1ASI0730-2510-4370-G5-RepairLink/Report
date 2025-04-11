@@ -238,8 +238,8 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 	</TR>
   	<TR>
 		<td style="text-align: center" align="center"><p align="center"> Stanley Jeremy Gutierrez Tume - U202118152  <img src="images/fotoMelina.jpg" alt="Foto Stanley" width="45%"> </p></td> 
-		<td style="text-align: center" align="center"></td>
-		<td style="text-align: center" align="center"></td>
+		<td style="text-align: center" align="center"> Soy una persona responsable, perseverante y comprometida con los objetivos que me propongo.Considero que cada experiencia es una oportunidad para crecer, y busco aplicar mis conocimientos contextos que implican análisis y solución de problemas. A lo largo de la carrera he aprendido a trabajar en equipo lo cuál me ayudó y me ayudará a ser mejor y a su vez aprender más cosas de cada uno de los miembros del equipo. </td>
+		<td style="text-align: center" align="center"> A lo largo de mi formación académica, he adquirido competencias en lógica de programación, estructuras de datos y desarrollo orientado a objetos. Estos aprendizajes me han permitido desarrollar un enfoque analítico para la resolución de problemas y una capacidad de adaptación frente a distintos entornos tecnológicos. Asimismo, he participado en diversos proyectos que han fortalecido mis habilidades para el trabajo en equipo y la gestión de tareas.</td>
 	</TR>
 	<TR>
 		<td style="text-align: center" align="center"><p align="center"> Edson Diego Llamozas Diaz - U20  <img src="images/fotoCristian.jpeg" alt="Foto Edson" width="40%"> </p></td> 
