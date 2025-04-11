@@ -74,23 +74,19 @@
 >
 ### 4.2.1.Organization Systems
 > **Home**
-<div>
 | Topico  | Definicion |
-|---------- ----------|
+|----------|----------|
 | Home | Seccion principal en la cual se mostrara una descripicion del servicios, sus caracteristicas y el proceso de funcionamiento de la plataforma |
 | Reparations    | Seccion en la cual se mostrara los tipos de reparaciones la cual la web provee  |
 | Be a technician    | Seccion en donde se mostrara los beneficios que se le brinda a un tecnico por unirse a la plataforma   |
 | Reviews    | Seccion en la cual se mostraran las opiniones tanto de los tecnicos, como de los usuarios con dispositivos a reparar  |
 | Log In    | Seccion por la cual el usaurio se registrara en la plataforma  |
-</div>
 
 > ** Reparations**
-<div>
 | Topico  | Definicion |
-|---------- ----------|
+|----------|----------|
 | Appliances | Seccion en la cual se mostraran los dispositivos principales disponibles en nuestra plataforma  |
 | Locations   | Ciudades y distritos en donde nuestra plataforma esta disponible |
-</div>
 >  **Be a technician** <br>
 > En esta seccion se muestran las caracteristicas de la plataforma para los tecnicosm y la suscripcion opcional
 > a la cual pueden acceder.
@@ -98,32 +94,80 @@
 > <br> **Reviews** <br>
 > Esta seccion mostarara los comentarios dejado por los tecnicos y los clientes respecto a la calidad de plataforma web
 > <br> **Log In** <br>
-<div>
 | Topico  | Definicion |
-|---------- ----------|
+|----------|----------|
 | Log In | Seccion en la cual se autenticaran las credenciales de un perfil ya existente para acceder a este  |
 | Sign Up   | Seccion en la caul se requerira llenar campos con datos personales para poder registrase tanto como Tecnico o Cliente |
-</div>
 > **Responsive Design** <br>
 >Sera posible tener una experiencia fluida y adaptable para los diferentes dispositivos por los cuales el usuario ingrese a la plataforma
 ### 4.2.2.Labeling Systems
 > Se ha decidido usar etiquetas, estas permitiran organizar en grupos las secciones de la plataforma web. Estas seras accesibles dando click
 > a cada etiqueta
-<div>
 | Topico  | Definicion |
-|---------- ----------|
+|----------|----------|
 | Home | Seccion principal en la cual se mostrara una descripicion del servicios, sus caracteristicas y el proceso de funcionamiento de la plataforma |
 | Reparations    | Seccion en la cual se mostrara los tipos de reparaciones la cual la web provee  |
 | Be a technician    | Seccion en donde se mostrara los beneficios que se le brinda a un tecnico por unirse a la plataforma   |
 | Reviews    | Seccion en la cual se mostraran las opiniones tanto de los tecnicos, como de los usuarios con dispositivos a reparar  |
 | Log In    | Seccion por la cual el usaurio se registrara en la plataforma  |
-</div>
 ### 4.2.3.SEO Tags and Meta Tags
+>Las Meta Tags permiten codificar y detallar los metadatos que una pagina web contiene. Estas son leidas por navegadores y no pueden ser vistos por los usuarios. Gracias
+>a estas etiquetas, se facilita la lectura y analisis de archivos HTML.
+><br>**Titulo**<br>
+>Las Meta Tags influyen en el posicionamiento de paginas dentro de los diferentes motores de busqueda existentes.
+>`<title>Repair your gadgets with us REPAIRLINK</title>` <br>
+>**Codificacion de caracteres**
+>Para el desarrollo se uso UFT-8. Esto debido a su eficiencia en termios de memoria para caracteres BMP (Plano Multingue Basico)
+>`<meta charset="utf-8">` <br>
+>**Descripcion**<br>
+>Nos permite brindar una breve despricion de lo que los usuarios pueden encontrar en la pagina web.
+>`<meta name="description" content="RepairLink is a web app that will help you find technicians capable of fixing your gadgets"/>`
+> <br>**Palabras Clave** <br>
+>Etiqueta la cual permite destacar palabras claves realcionadas con el proposito de la pagina web.
+>`<meta name="keywords" content="repair, gadgets, appliances, technicians, save"/>`
+> <br>**Autor y derechos de autor**<br>
+> Registra los dererchos de autor, propiedad y autor de la pagina web.
+>`<meta name="author" content="RepairLink"/>`
+>`<meta name="copyright" content="Copyright RepairLink Team"/>`
 ### 4.2.4.Searching Systems
+> El Searching System es de vital importancia para que los usuarios pueden encontrar los datos que buscan
+> <br>**Caracteristicas Claves** <br>
+>***Busqueda por producto:*** Los usuarios pueden busacr en base a que tipo de producto desean reparar
+> ***Busqueda por marca:*** Los usaurio pueden buscar la marca a la cual su producto a reparar pertenece
+> ***Busqueda por tecnico:*** Los usuarios pueden elegir que tecnino desean que repare su producto
+> ***Filtros Avanzados:*** Los usuarios pueden filtrar los tecnicos de reparacion en base al rating y precio promedio por el cual arreglan productos
+> ***Resultados Destacados:*** El sistema por defecto mostrara a los tecnicos mas solicitados y con mejor rating
 ### 4.2.5.Navigation Systems
+> El Navigation System permite a los usuarios desplazarase por las diferente secciones de la plaforma de forma fluida
+> <br>**Estructura de Navegacion:**
+> - Home
+> - Reparations
+> - Be a technician
+> - Reviews
+> - Log In
 ## 4.3.Landing Page UI Design
+> El diseño aimplementar en la Landing Page sera de suma importancia, ya que este sera el primer vistazo que los usuarios tendran de nuestro producto. Para esto debemos crear una experiencia que captura la atencion de los usuarios de la pagina y los incentive a regresar progresivamente.
 ### 4.3.1.Landing Page Wireframe
+> **Web version - Home Page** <br>
+> Esta sera la seccion inicial a la cual el usuario sera enviado al momento de ingresar a nuestra plataforma. Aqui se mostrara proceso por el cual
+> nuestro servicio es ofrecido.
+> <img src="">
 ### 4.3.2.Landing Page Mock-up
+## 4.4.Web Applications UX/UI Design
+### 4.4.1.Web Applications Wireframes
+### 4.4.2.Web Applications Wireflow Diagrams
+### 4.4.3.Web Applications Mock-ups
+### 4.4.4.Web Applications User Flow Diagrams
+## 4.5.Web Applications Prototyping
+## 4.6.Domain-Driven Software Architecture
+### 4.6.1.Software Architecture Context Diagram.
+### 4.6.2.Software Architecture Container Diagrams.
+### 4.6.3.Software Architecture Components Diagrams.
+## 4.7.Software Object-Oriented Design.
+### 4.7.1.Class Diagrams.
+### 4.7.2.Class Dictionary.
+## 4.8.Database Design.
+### 4.8.1.Database Diagram.
 
 
 
