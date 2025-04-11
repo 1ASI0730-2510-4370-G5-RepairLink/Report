@@ -32,8 +32,7 @@
 >
 >**Spacing** <br>
 > El espaciado desempeña un papel fundamental en el diseño de RepairLink, ya que permite organizar la información de forma clara y coherente. Se ha aplicado una separación amplia
-> entre los elementos de la interfaz para mejorar la legibilidad y facilitar la navegación del usuario. Asimismo, se ha mantenido un espaciado constante en todo el diseño, lo que
-> aporta equilibrio y armonía a la composición.
+> entre los elementos de la interfaz para mejorar la legibilidad y facilitar la navegación del usuario. Asimismo, se ha mantenido un espaciado constante en todo el diseño, >lo que aporta equilibrio y armonía a la composición.
 >
 > <img src="images/Spacing.png" alt="Spacing">
 >
@@ -64,7 +63,7 @@
 ### 4.1.3.Mobile Style Guidelines
 > Para el desarrollo de la version mobil se continuara con el uso de Material Design para mantener la uniformidad de platafoma web en diferentes dispositivos.
 >
-> **Transitions** <br?
+> **Transitions** <br>
 > Se aplicaran transiciones la cuales permitan que la plataforma tenga una sensancion cohesiva y predecible al momento de usarla 
 > <img src="images/Transition.png" alt="Transition">
 >
@@ -148,10 +147,32 @@
 ## 4.3.Landing Page UI Design
 > El diseño aimplementar en la Landing Page sera de suma importancia, ya que este sera el primer vistazo que los usuarios tendran de nuestro producto. Para esto debemos crear una experiencia que captura la atencion de los usuarios de la pagina y los incentive a regresar progresivamente.
 ### 4.3.1.Landing Page Wireframe
-> **Web version - Home Page** <br>
+> **Web Version - Home Page** <br>
 > Esta sera la seccion inicial a la cual el usuario sera enviado al momento de ingresar a nuestra plataforma. Aqui se mostrara proceso por el cual
 > nuestro servicio es ofrecido.
-> <img src="">
+> <img src="images/Wireframe-HomePage" alt="HomePage">
+> **Web Version - Reparations** <br>
+>En esta seccion se mostraran los productos a los cuales se le pueden realizar reparacion
+> <img src="images/Wireframe-Reparations" alt="Reparations">
+> ""Web Version - Be a technician** <br>
+> Seccion en la cual se mostraran los beneficios de unirte a nuestra plataforma como tecnico reparador
+> <img src="images/Wireframe-BeTechnician" alt="BeTechnician">
+> "Web Version - Reviews" <br>
+> Seccion en la cual se mmostraran las opiniones de nuestros usuarios, tanto clientes como tecnicos
+> <img src="images/Wireframe-Reviews" alt="Reviews">
+> **Mobile Web Version - Home Page** <br>
+>Esta sera la seccion inicial a la cual el usuario sera enviado al momento de ingresar a nuestra plataforma. Aqui se mostrara proceso por el cual
+> nuestro servicio es ofrecido.
+> <img src="images/Wireframe-MobileHomePage" alt="Wireframe-MobileHomePage">
+>""Mobile Web Version - Reparations** <br>
+>En esta seccion se mostraran los productos a los cuales se le pueden realizar reparacion
+><img src="images/Wireframe-MobileReparations" alt="Wireframe-MobileReparations">
+>**Mobile Web Version - Be a technician** <br>
+> Seccion en la cual se mostraran los beneficios de unirte a nuestra plataforma como tecnico reparador
+> <img src="images/Wireframe-MobileBeTech" alt="Wireframe-MobileBeTech">
+>**Mobile Web Version - Reviews** <br>
+> Seccion en la cual se mmostraran las opiniones de nuestros usuarios, tanto clientes como tecnicos
+><img src="images/Wireframe-MobileReviews" alt="Wireframe-MobileReviews">
 ### 4.3.2.Landing Page Mock-up
 ## 4.4.Web Applications UX/UI Design
 ### 4.4.1.Web Applications Wireframes
