@@ -3,7 +3,7 @@
 ## 5.1. Software Configuration Management
 En el marco de este proyecto, se han tomado decisiones clave para garantizar la consistencia y eficiencia durante todo el ciclo de vida de la solución web distribuida. Estas decisiones aseguran que la aplicación web sea  escalable y fácil de mantener a lo largo de su ciclo de desarrollo y despliegue. Los principales aspectos de configuración incluyen:
 
--Control de Versiones con GitHub: La gestión del código fuente se lleva a cabo mediante GitHub, una plataforma de control de versiones distribuido que facilita la colaboración entre los miembros del equipo. Utilizamos el modelo GitFlow, que define un flujo de trabajo claro con las siguientes ramas:
+-CONTROL DE VERSIONES DE GITHUB: La gestión del código fuente se lleva a cabo mediante GitHub, una plataforma de control de versiones distribuido que facilita la colaboración entre los miembros del equipo. Utilizamos el modelo GitFlow, que define un flujo de trabajo claro con las siguientes ramas:
 
 *main (producción): contiene el código de la versión estable de la aplicación.
 
@@ -13,16 +13,16 @@ En el marco de este proyecto, se han tomado decisiones clave para garantizar la 
 
 *Ramas hotfix: utilizadas para corregir errores urgentes en producción.
 
-*Semantic Versioning: Adoptamos el versionado semántico (Semantic Versioning) para asegurar que las versiones del producto sean claras y fáciles de entender para el equipo y los stakeholders. Esto facilita la gestión de la evolución del producto, permitiendo versiones como 1.0.0, 1.1.0, 2.0.0 para reflejar los cambios en la funcionalidad o la corrección de errores.
+*SEMANTIC VERSIONING: Adoptamos el versionado semántico (Semantic Versioning) para asegurar que las versiones del producto sean claras y fáciles de entender para el equipo y los stakeholders. Esto facilita la gestión de la evolución del producto, permitiendo versiones como 1.0.0, 1.1.0, 2.0.0 para reflejar los cambios en la funcionalidad o la corrección de errores.
 
-*Convenciones de Commit: Para mejorar la comunicación del equipo, se sigue el estándar de Conventional Commits para los mensajes de commit. Esto establece una estructura uniforme en los mensajes.
+*CONVENCIONES DE COMMITS: Para mejorar la comunicación del equipo, se sigue el estándar de Conventional Commits para los mensajes de commit. Esto establece una estructura uniforme en los mensajes.
 Feat para nuevas características , fix, para corrección de errores,docs, para documentación.
 
-*Entorno de Desarrollo: La configuración del entorno de desarrollo se basa en tecnologías open-source, utilizando herramientas que faciliten la implementación y el mantenimiento del código. El uso de Docker para la creación de contenedores y la replicación del entorno de producción asegura que todos los miembros del equipo trabajen en condiciones similares.
+*ENTORNO DE DESARROLLO: La configuración del entorno de desarrollo se basa en tecnologías open-source, utilizando herramientas que faciliten la implementación y el mantenimiento del código. El uso de Docker para la creación de contenedores y la replicación del entorno de producción asegura que todos los miembros del equipo trabajen en condiciones similares.
 
-*Documentación de Servicios: La solución emplea una API RESTful como arquitectura principal, y se utiliza OpenAPI para documentar todos los endpoints, lo que garantiza que la documentación esté actualizada y sea fácilmente accesible para los desarrolladores y otros stakeholders.
+*OCUMENTACIÓN DE SERVICIOS: La solución emplea una API RESTful como arquitectura principal, y se utiliza OpenAPI para documentar todos los endpoints, lo que garantiza que la documentación esté actualizada y sea fácilmente accesible para los desarrolladores y otros stakeholders.
 
-*Despliegue en la Nube: Utilizamos plataformas de Cloud Computing para el despliegue, asegurando que la solución sea escalable y accesible a través de diferentes dispositivos, manteniendo la consistencia entre el Landing Page y la Web Application.
+*DESPLIEGUE EN LA NUBE: Utilizamos plataformas de Cloud Computing para el despliegue, asegurando que la solución sea escalable y accesible a través de diferentes dispositivos, manteniendo la consistencia entre el Landing Page y la Web Application.
 
 ### 5.1.1. Software Development Environment Configuration
 El entorno de desarrollo para el proyecto ha sido configurado utilizando diversas herramientas y tecnologías que permiten una colaboración eficiente y una implementación efectiva durante todo el ciclo de vida del producto. A continuación, se detallan las herramientas y su propósito de uso:
@@ -39,7 +39,7 @@ Estas herramientas permiten una gestión eficiente del proyecto, cubriendo desde
 ### 5.1.2. Source Code Management
 El equipo ha decidido utilizar GitHub como plataforma para la gestión del código fuente y el control de versiones, garantizando la colaboración eficiente y el seguimiento de todas las modificaciones realizadas a lo largo del proyecto. El repositorio de GitHub se encuentra en el siguiente enlace:https://github.com/1ASI0730-2510-4370-G5-RepairLink
 
-Esquema de Control de Versiones:
+ESQUEMA DE CONTROL DE VERSIONES:
 
 -Rama principal (main): Contendrá siempre la versión estable de la aplicación.
 
@@ -51,7 +51,7 @@ Esquema de Control de Versiones:
 
 -Ramas de liberación (release branches): Para preparar las versiones estables y nuevas funcionalidades, se creará una rama release/<version> para realizar pruebas y ajustes finales antes de la liberación.
 
-Convenciones de Nombres y Versionado:
+CONVENCIONES DE NOMBRES Y VERSIONES:
 
 Se aplicará el modelo Semantic Versioning (SemVer) para nombrar las versiones de los productos, asegurando claridad y coherencia en la gestión de las versiones. Por ejemplo:
 
@@ -61,7 +61,7 @@ Se aplicará el modelo Semantic Versioning (SemVer) para nombrar las versiones d
 
 -2.0.0: Cambios importantes que rompen la compatibilidad con versiones anteriores.
 
-GitFlow y Convenciones de Commits:
+GITFLOW Y CONVENCIONES DE COMMITS:
 
 El equipo implementará el flujo de trabajo GitFlow como modelo para el control de versiones. Además, se utilizarán las convenciones Conventional Commits para los mensajes de commit, siguiendo las siguientes directrices:
 
