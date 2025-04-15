@@ -4,9 +4,13 @@
 En el marco de este proyecto, se han tomado decisiones clave para garantizar la consistencia y eficiencia durante todo el ciclo de vida de la solución web distribuida. Estas decisiones aseguran que la aplicación web sea  escalable y fácil de mantener a lo largo de su ciclo de desarrollo y despliegue. Los principales aspectos de configuración incluyen:
 
 -CONTROL DE VERSIONES DE GITHUB: La gestión del código fuente se lleva a cabo mediante GitHub, una plataforma de control de versiones distribuido que facilita la colaboración entre los miembros del equipo. Utilizamos el modelo GitFlow, que define un flujo de trabajo claro con las siguientes ramas:
+
 *main (producción): contiene el código de la versión estable de la aplicación.
+
 *develop (desarrollo): integrador para nuevas características y cambios no verificados aún.
+
 *Ramas feature: para el desarrollo de características específicas del producto.
+
 *Ramas hotfix: utilizadas para corregir errores urgentes en producción.
 
 *SEMANTIC VERSIONING: Adoptamos el versionado semántico (Semantic Versioning) para asegurar que las versiones del producto sean claras y fáciles de entender para el equipo y los stakeholders. Esto facilita la gestión de la evolución del producto, permitiendo versiones como 1.0.0, 1.1.0, 2.0.0 para reflejar los cambios en la funcionalidad o la corrección de errores.
