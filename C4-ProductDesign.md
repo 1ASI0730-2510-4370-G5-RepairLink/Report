@@ -22,8 +22,9 @@
 > Ahora, se mostraran las tipografias respectivas:
 > <img src="images/Roboto.png" alt="Roboto">
 >
-> <img src="images/RobotoSlab.png" alt="RobotoSlab">
+> <img src="images/RobotoSlab.png" alt="RobotoSlab"> <br>
 >
+> **Colors**
 > La paleta de colores de RepairLink está compuesta por tonos que evocan vitalidad, tranquilidad y motivación, alineados con un estilo de vida activo y equilibrado.
 > Los colores seleccionados son brillantes y estimulantes, lo que permite captar la atención del usuario y reflejar la esencia de un producto innovador y lleno de energía.
 > A continuación, se detallan los colores elegidos:
@@ -153,7 +154,7 @@
 > **Web Version - Reparations** <br>
 >En esta seccion se mostraran los productos a los cuales se le pueden realizar reparacion <br>
 > <img src="images/Wireframe-Reparations.png" alt="Reparations"> <br>
-> ""Web Version - Be a technician** <br>
+> **Web Version - Be a technician** <br>
 > Seccion en la cual se mostraran los beneficios de unirte a nuestra plataforma como tecnico reparador <br>
 > <img src="images/Wireframe-BeTechnician.png" alt="BeTechnician"> <br>
 > "Web Version - Reviews" <br>
@@ -180,28 +181,28 @@
 ## 4.5.Web Applications Prototyping
 ## 4.6.Domain-Driven Software Architecture
 ### 4.6.1.Software Architecture Context Diagram.<br>
-> <img src="images/DDD-ContextDiagram" alt="ContextDiagram"> <br>
+> <img src="images/DDD-ContextDiagram.png" alt="ContextDiagram"> <br>
 ### 4.6.2.Software Architecture Container Diagrams. <br>
-> <img src="images/DDD-ContainerDiagram" alt="ContainerDiagram"> <br>
+> <img src="images/DDD-ContainerDiagram.png" alt="ContainerDiagram"> <br>
 ### 4.6.3.Software Architecture Components Diagrams. <br>
 > **APIRest - Component** <br>
-> <img src="images/DDD-APIRest" alt="APIRest"> <br>
+> <img src="images/DDD-APIRest.png" alt="APIRest"> <br>
 > **Booking - Component** <br>
-> <img src="images/DDD-Booking" alt="Booking"> <br>
+> <img src="images/DDD-Booking.png" alt="Booking"> <br>
 > **LocationRouting - Component** <br>
-> <img src="images/DDD-LocationRouting" alt="LocationRouting"> <br>
+> <img src="images/DDD-LocationRouting.png" alt="LocationRouting"> <br>
 > **Notification - Component** <br>
-> <img src="images/DDD-Notification" alt="Notification"> <br>
+> <img src="images/DDD-Notification.png" alt="Notification"> <br>
 > **Payment - Component** <br>
-> <img src="images/DDD-Payment" alt="Payment"> <br>
+> <img src="images/DDD-Payment.png" alt="Payment"> <br>
 > **Review - Component** <br>
-> <img src="images/DDD-Review" alt="Review"> <br>
+> <img src="images/DDD-Review.png" alt="Review"> <br>
 > **Scheduling - Component** <br>
-> <img src="images/DDD-Scheduling" alt="Scheduling"> <br>
+> <img src="images/DDD-Scheduling.png" alt="Scheduling"> <br>
 > **ServiceCatalog - Component** <br>
-> <img src="images/DDD-ServiceCatalog" alt="ServiceCatalog"> <br>
+> <img src="images/DDD-ServiceCatalog.png" alt="ServiceCatalog"> <br>
 > **UserManagement - Component** <br>
-> <img src="images/DDD-UserManagement" alt="UserManagement"> <br>
+> <img src="images/DDD-UserManagement.png" alt="UserManagement"> <br>
 ## 4.7.Software Object-Oriented Design.
 ### 4.7.1.Class Diagrams.
 ### 4.7.2.Class Dictionary.
