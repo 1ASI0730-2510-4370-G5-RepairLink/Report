@@ -180,11 +180,16 @@
 ### 4.4.4.Web Applications User Flow Diagrams
 ## 4.5.Web Applications Prototyping
 ## 4.6.Domain-Driven Software Architecture
-### 4.6.1.Software Architecture Context Diagram.<br>
+> En esta seccion se presentaran los tres niveles del modelo C4 aplicando Domain Driven Design.
+### 4.6.1.Software Architecture Context Diagram.
+> El diagrama de contexto nos muestra los tipos de usuario que interactuan con el aplicativo web, y a la vez los servicios y/o con los que la plataforma interactua.  <br>
 > <img src="images/DDD-ContextDiagram.png" alt="ContextDiagram"> <br>
 ### 4.6.2.Software Architecture Container Diagrams. <br>
+> Este diagram nos permite tener una vision enfocada al desarrollo. Se muestra la forma en la que los usuarios interactuan con la Landing Page, Web App y Mobile App.
+> A la vez que se muestra como estas plataformas interactuan con los servicios externos vinculados. <br>
 > <img src="images/DDD-ContainerDiagram.png" alt="ContainerDiagram"> <br>
 ### 4.6.3.Software Architecture Components Diagrams. <br>
+>En esta seccion se muestra los diagramas de comppnentes de cada uno de los bounded contexts definidos. <br>
 > **APIRest - Component** <br>
 > <img src="images/DDD-APIRest.png" alt="APIRest"> <br>
 > **Booking - Component** <br>
