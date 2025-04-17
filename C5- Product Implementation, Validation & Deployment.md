@@ -150,8 +150,8 @@ Para asegurar una experiencia de usuario consistente e intuitiva, se diseñaron 
 El desarrollo se organizó en sprints conforme a un enfoque ágil, permitiendo iterar y validar avances progresivamente con base en el Product Backlog. A continuación, se detallan los avances realizados por sprint, incluyendo las tareas ejecutadas, funcionalidades implementadas, pruebas realizadas y despliegues correspondientes.
 
 ### 5.2.1. Sprint 1
-
 #### 5.2.1.1. Sprint Planning 1
+
 
 #### 5.2.1.2. Sprint Backlog 1
 
