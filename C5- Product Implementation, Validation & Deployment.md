@@ -186,7 +186,8 @@ Sprint #1
 
 User story    Work-item/task
 
-id   title    id  tittle  estimation(hours)  assigned to  status
+id                  title               id                          tittle                                          estimation(hours)          assigned to              status
+US-006    Registro rápido de usuario    w1  crear una cuenta fácilmente para acceder a los servicios de reparación           3          Sebastian Cordova Valdivia         done
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
