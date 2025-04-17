@@ -151,9 +151,39 @@ El desarrollo se organizó en sprints conforme a un enfoque ágil, permitiendo i
 
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
+SPRINT 1:
+
+SPRINT PLANNING BACKGROUND
+
+Date: 06-04-2025
+
+Time: 8:00 pm
+
+Location: Via virtual por Google Meet
+
+Prepared By: Karen Stephanie Ramos Carpio
+
+Attendees (to planning meeting): Sebastian Cordova Valdivia,Stanley Jeremy Gutierrez Tume,Edson Diego Llamozas Diaz,José Luis Martinez Valdivia,Karen Stephanie Ramos Carpio.
+
+Sprint 1 - Review Summary: Durante la primera reunión del Sprint, el equipo se enfocó en definir las tareas y responsabilidades de cada miembro, asegurando que todos estuvieran alineados con los objetivos del informe a desarrollar y cualquier duda acerca del desarrollo hacernoslo saber por nuestro chat de whatsapp.
+
+Sprint 1– Retrospective Summary: En esta retrospectiva, el equipo discutió cómo se llevó a cabo la planificación del Sprint y la distribución de tareas.Todos los participantes lograron hacer su parte del trabajo , ya que corregimos algunos puntos que nos parecían que se podían mejorar.
+
+Sprint Goal & User Stories:
+
+Sprint 1 goal: 
+
+Sprint 1 Velocity:
+
+Sum of Story Points:
 
 
 #### 5.2.1.2. Sprint Backlog 1
+En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura del trello y el link del tablero.
+Enlace trello: https://trello.com/invite/b/680047bc1475a699e1fdd74d/ATTI898007e03e65fc1f955c95981381d097EB4EC5B8/apps
+Sprint #1
+User story    Work-item/task
+id   title    id  tittle  estimation(hours)  assigned to  status
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
