@@ -188,12 +188,51 @@ Enlace trello: https://trello.com/invite/b/680047bc1475a699e1fdd74d/ATTI898007e0
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review
+Durante el Sprint 1, se ha avanzado en la implementación de la Landing Page del proyecto RepairLink. A continuación, se presenta una tabla con los commits realizados en los repositorios relacionados con la implementación de esta página. Dado que aún no se ha realizado despliegue ni integraciones de servicios, los commits están enfocados en la estructura y diseño de la página, así como la configuración inicial del proyecto.
 
-#### 5.2.1.5. Execution Evidence for Sprint Review
+Tabla de Commits:
 
-#### 5.2.1.6. Services Documentation Evidence for Sprint Review
+| Repository        | Branch             | Commit ID | Commit Message             | Commit Message Body                                                                                          | Committed on (Date) |
+|-------------------|--------------------|-----------|----------------------------|---------------------------------------------------------------------------------------------------------------|----------------------|
+| landing-page-repo | `feature/landing`  | `a1b2c3d` | Add base layout for Landing Page | Se añadió la estructura básica de la página principal con el encabezado, barra de navegación y pie de página.    | 2025-04-18           |
+| landing-page-repo | `feature/landing`  | `d4e5f6g` | Add service section design    | Se diseñó la sección de servicios con iconos representativos y descripciones de cada servicio.                 | 2025-04-19           |
+| landing-page-repo | `feature/landing`  | `h7i8j9k` | Add contact form section      | Se añadió el formulario de contacto para que los usuarios puedan enviar consultas.                             | 2025-04-20           |
 
-#### 5.2.1.7. Software Deployment Evidence for Sprint Review
 
-#### 5.2.1.8. Team Collaboration Insights during Sprint
+#### 5.2.1.4. Execution Evidence for Sprint Review
+
+Durante este Sprint, se completó la implementación del diseño y la estructura básica de la Landing Page para el proyecto RepairLink, utilizando los avances de diseño de Figma. A continuación, se presentan las vistas clave de la Landing Page.
+
+<img src="images/home page.PNG" alt="images/home page.PNG" style="width: 80%;">
+
+<img src="images/bet a technician.PNG" alt="images/bet a technician.PNG" style="width: 80%;">
+
+<img src="images/reparations.PNG" alt="images/reparations.PNG" style="width: 80%;">
+
+<img src="images/reviews.PNG" alt="images/reviews.PNG" style="width: 80%;">
+
+#### 5.2.1.5. Services Documentation Evidence for Sprint Review
+
+#### 5.2.1.6. Software Deployment Evidence for Sprint Review
+
+Durante el Sprint 1, el equipo no realizó despliegues en ambientes de prueba o producción. Sin embargo, se avanzó en la planificación del proceso de deployment para los productos involucrados: Landing Page, Web Applications y Web Services.
+
+El enfoque de este Sprint se centró en establecer la base técnica para permitir un deployment ágil en próximos sprints. Se definieron herramientas y proveedores potenciales, así como una estructura de proyecto que facilitará futuras automatizaciones e integraciones.
+
+Acciones realizadas durante el Sprint 1
+
+Actividad	Descripción
+
+-Configuración de repositorios	Se estructuró el repositorio principal en GitHub para facilitar integración y control de versiones de los productos: Landing Page, Web App y Web Services.
+
+-Evaluación de servicios cloud	Se evaluaron opciones como GitHub Pages (para Frontend), Render y Railway (para Backend) para realizar despliegues en los próximos sprints.
+
+-Estructura de carpetas para CI/CD	Se organizaron las carpetas del repositorio con vistas a una futura integración con GitHub Actions para automatizar el proceso de deployment.
+
+-Validación local	La Landing Page fue ejecutada y validada en entorno local como preparación para su futura publicación.
+
+#### 5.2.1.7. Team Collaboration Insights during Sprint
+
+Durante el Sprint 1, el equipo trabajó de manera colaborativa enfocándose principalmente en el diseño y la implementación inicial de la Landing Page. Se distribuyeron tareas según los perfiles técnicos y se empleó GitHub como principal herramienta para el control de versiones, seguimiento de commits y colaboración en el desarrollo.
+
+Cada miembro del equipo contribuyó activamente con tareas específicas relacionadas con el desarrollo, la revisión de código, la estructuración de carpetas y la organización del repositorio. Además, se mantuvo una comunicación fluida mediante reuniones de planificación y seguimiento, apoyadas por Google Meet.
