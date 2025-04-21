@@ -209,8 +209,187 @@
 > **UserManagement - Component** <br>
 > <img src="images/DDD-UserManagement.png" alt="UserManagement"> <br>
 ## 4.7.Software Object-Oriented Design.
-### 4.7.1.Class Diagrams.
-### 4.7.2.Class Dictionary.
+### 4.7.1.Class Diagrams
+> **Booking** <br>
+> <img src="images/ClassDiagram-BookingDomain.png" alt="Booking"> <br>
+> **LocationRouting** <br>
+> <img src="images/ClassDiagram-LocationRouting.png" alt="LocationRouting"> <br>
+> **Notification** <br>
+> <img src="images/ClassDiagram-Notification.png" alt="Notification"> <br>
+> **Payment** <br>
+> <img src="images/ClassDiagram-Payment.png" alt="Payment"> <br>
+> **Review** <br>
+> <img src="images/ClassDiagram-Review.png" alt="Review"> <br>
+> **Scheduling** <br>
+> <img src="images/ClassDiagram-SchedulingDomain.png" alt="Scheduling"> <br>
+> **ServiceCatalog** <br>
+> <img src="images/ClassDiagram-ServiceCatalog.png" alt="ServiceCatalog"> <br>
+> **UserManagement** <br>
+> <img src="images/ClassDiagram-UserManagement.png" alt="UserManagement"> <br>
+> 
+### 4.7.2.Class Dictionary
+>**User Management Context**
+
+#### `User`
+- **Descripción**: Representa a un usuario registrado en la plataforma (cliente, técnico o administrador).
+- **Atributos**:
+  - `id`: Identificador único (UUID)
+  - `name`: Nombre del usuario
+  - `email`: Correo electrónico
+  - `passwordHash`: Contraseña encriptada
+  - `role`: Rol del usuario (`UserRole`)
+  - `addressId`: Identificador de dirección
+
+#### `UserRole` (enum)
+- **Valores**:
+  - `Customer`, `Technician`, `Admin`
+
+#### `UserRepository` (interface)
+- Métodos para acceder a los usuarios en la base de datos.
+
+#### `UserService`
+- Servicios relacionados al registro y autenticación de usuarios.
+
+
+###  2. **Booking Context**
+
+#### `Booking`
+- **Descripción**: Representa una reserva de servicio con un técnico.
+- **Atributos**:
+  - `id`: Identificador único
+  - `customerId`: ID del cliente
+  - `technicianId`: ID del técnico
+  - `serviceId`: ID del servicio reservado
+  - `scheduledTime`: Fecha y hora de la reserva
+  - `status`: Estado de la reserva (`BookingStatus`)
+  - `addressId`: Dirección donde se realizará el servicio
+
+#### `BookingStatus` (enum)
+- `Requested`, `Confirmed`, `Completed`, `Cancelled`
+
+#### `BookingRepository` (interface)
+- Métodos para guardar y buscar reservas.
+
+#### `BookingService`
+- Lógica de negocio para crear, cancelar y gestionar reservas.
+
+
+
+### 3. **Location & Routing Context**
+
+#### `Address`
+- **Descripción**: Representa una dirección geográfica.
+- **Atributos**:
+  - `id`, `street`, `city`, `zipCode`, `lat`, `lng`
+
+#### `AddressRepository` (interface)
+- Acceso a las direcciones.
+
+#### `RoutingService`
+- Servicios para calcular distancias y estimar tiempos de llegada.
+
+
+### 4. **Service Catalog Context**
+
+#### `Service`
+- **Descripción**: Un tipo de servicio de reparación ofrecido.
+- **Atributos**:
+  - `id`, `name`, `description`, `basePrice`
+
+#### `ServiceRepository` (interface)
+- Permite listar y obtener servicios.
+
+#### `ServiceCatalog`
+- Permite buscar servicios y ver detalles.
+
+
+
+###  5. **Payment Context**
+
+#### `Payment`
+- **Descripción**: Representa el pago realizado por una reserva.
+- **Atributos**:
+  - `id`, `bookingId`, `amount`, `paymentMethod`, `status`, `timestamp`
+
+#### `PaymentStatus` (enum)
+- `Pending`, `Completed`, `Failed`, `Refunded`
+
+#### `PaymentMethod` (enum)
+- `CreditCard`, `PayPal`, `Wallet`
+
+#### `PaymentRepository` (interface)
+- Acceso a los datos de pagos.
+
+#### `PaymentService`
+- Lógica para procesar pagos.
+
+
+###  6. **Review Context**
+
+#### `Review`
+- **Descripción**: Evaluación de un cliente a un técnico.
+- **Atributos**:
+  - `id`, `bookingId`, `technicianId`, `customerId`, `rating`, `comments`, `createdAt`
+
+#### `ReviewRepository` (interface)
+- Almacena y recupera reseñas.
+
+#### `ReviewService`
+- Permite enviar y consultar reseñas.
+
+
+### 🔷 7. **Notification Context**
+
+#### `Notification`
+- **Descripción**: Representa una notificación enviada a un usuario.
+- **Atributos**:
+  - `id`, `recipientId`, `message`, `type`, `status`, `createdAt`
+
+#### `NotificationType` (enum)
+- `Email`, `SMS`, `Push`
+
+#### `NotificationStatus` (enum)
+- `Pending`, `Sent`, `Failed`
+
+#### `NotificationService`
+- Envía notificaciones y maneja reintentos en caso de error.
+
+
+
+### 🔷 8. **Availability Context**
+
+#### `AvailabilitySlot`
+- **Descripción**: Rango de tiempo donde un técnico está disponible.
+- **Atributos**:
+  - `id`, `technicianId`, `startTime`, `endTime`, `isRecurring`, `daysOfWeek`
+
+#### `AvailabilityRepository` (interface)
+- Permite guardar y consultar disponibilidades.
+
+#### `AvailabilityService`
+- Lógica para gestionar y consultar la disponibilidad de técnicos.
+
+#### `DayOfWeek` (enum)
+- `Monday`, `Tuesday`, `Wednesday`, `Thursday`, `Friday`, `Saturday`, `Sunday`
+
+
+
+### 🔁 Relaciones entre Contextos (en español)
+
+| Desde → Hacia                     | Tipo de Relación       | Descripción                                                   |
+|-----------------------------------|-------------------------|---------------------------------------------------------------|
+| `User` → `Address`                | Agregación              | Un usuario tiene una dirección.                              |
+| `Booking` → `User`                | Asociación              | La reserva enlaza cliente y técnico mediante sus IDs.         |
+| `Booking` → `Address`             | Asociación              | La reserva ocurre en una dirección específica.                |
+| `Booking` → `Service`             | Asociación              | Define el servicio reservado.                                 |
+| `Booking` → `Payment`             | Uno a uno               | Cada reserva tiene un pago asociado.                          |
+| `Review` → `Booking`              | Asociación              | La reseña se vincula a una reserva.                           |
+| `Review` → `User`                 | Asociación              | El cliente reseña al técnico.                                 |
+| `Notification` → `User`           | Asociación              | Las notificaciones se envían a los usuarios.                  |
+| `AvailabilitySlot` → `User`       | Asociación              | La disponibilidad pertenece a un técnico.                     |
+| `BookingService` → `AvailabilityService` | Dependencia       | El servicio de reservas consulta disponibilidad antes de crearla. |
+
+
 ## 4.8.Database Design.
 ### 4.8.1.Database Diagram.
 
