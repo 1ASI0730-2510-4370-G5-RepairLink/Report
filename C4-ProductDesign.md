@@ -391,7 +391,8 @@
 
 
 ## 4.8.Database Design.
-### 4.8.1.Database Diagram.
+### 4.8.1.Database Diagram
+> <img src="images/DBdiagram.png" alt="DBdiagram">
 
 
 
