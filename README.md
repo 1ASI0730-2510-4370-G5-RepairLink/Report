@@ -85,6 +85,8 @@ Abril 2025
 <br>
 
 # **Student Outcomes**
+- ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
+
 <table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
   <thead>
     <tr style="border-bottom: 1px solid black;">
@@ -100,7 +102,7 @@ Abril 2025
         <ul>
           <p><strong>TB1</strong></p>
         </ul>
-          <td> </td>
+          <td> - Jose Martinez: La realizacion de la TB1 me ha permitido trabajar en un ambiente nuevo, el cual ha requerido de mejorar mi habilidad de adaptacion a los cambios. Esto sera de gran ayuda en el futuro al colaborar en nuevos proyectos con diferentes desarrolladores.</td>
       <br>
      </tr>
       <tr style="border-bottom: 1px solid black;">
@@ -109,7 +111,7 @@ Abril 2025
         <ul>
           <p><strong>TB1</strong></p>
         </ul>
-	        <td> </td>
+	        <td> - Jose Martinez: Gracias a la elaboracion del trabajo he logrado mejorar mis habilidades de trabajo en equipo, delegar tareas y poder cumplir mis metas trazadas en un rango de tiempo asignado. Esto me ha permitido mejorar el tiempo con el que realizo ciertas tareas y la eficiencia de estas. </td>
       <br>
      </tr>
   </tbody>
