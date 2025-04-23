@@ -102,7 +102,9 @@ Abril 2025
         <ul>
           <p><strong>TB1</strong></p>
         </ul>
-          <td> - Jose Martinez: La realizacion de la TB1 me ha permitido trabajar en un ambiente nuevo, el cual ha requerido de mejorar mi habilidad de adaptacion a los cambios. Esto sera de gran ayuda en el futuro al colaborar en nuevos proyectos con diferentes desarrolladores.</td>
+          <td> - Jose Martinez: La realizacion de la TB1 me ha permitido trabajar en un ambiente nuevo, el cual ha requerido de mejorar mi habilidad de adaptacion a los cambios. Esto sera de gran ayuda en el futuro al colaborar en nuevos proyectos con diferentes desarrolladores.
+-Gutierrez Tume Stanley Jeremy: En este entregable el trabajo en equipo me ha sido productivo ya que cada uno aportaba ideas y conocimientos para realizar el trabajo, y me permitió reforzar mis conocimientos
+y contribuí en las tareas asignadas durante las reuniones de equipo.</td>
       <br>
      </tr>
       <tr style="border-bottom: 1px solid black;">
@@ -111,7 +113,8 @@ Abril 2025
         <ul>
           <p><strong>TB1</strong></p>
         </ul>
-	        <td> - Jose Martinez: Gracias a la elaboracion del trabajo he logrado mejorar mis habilidades de trabajo en equipo, delegar tareas y poder cumplir mis metas trazadas en un rango de tiempo asignado. Esto me ha permitido mejorar el tiempo con el que realizo ciertas tareas y la eficiencia de estas. </td>
+	        <td> - Jose Martinez: Gracias a la elaboracion del trabajo he logrado mejorar mis habilidades de trabajo en equipo, delegar tareas y poder cumplir mis metas trazadas en un rango de tiempo asignado. Esto me ha permitido mejorar el tiempo con el que realizo ciertas tareas y la eficiencia de estas. 
+-Gutierrez Tume Stanley Jeremy: En este entregable definimos metas claras y específicas para el proyecto, asu vez planificamos y asignamos tareas para asegurar que se cumplan los objetivos.Cada uno se aguró de cumplir con sus partes del trabajo , esto ayudó a mejorar la coordinación y comunición en el grupo.
       <br>
      </tr>
   </tbody>
