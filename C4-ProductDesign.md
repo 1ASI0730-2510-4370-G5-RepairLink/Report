@@ -181,16 +181,24 @@
 > <img src="images/Wireframe-Login2.png" alt="Login"> <br>
 > **Web Version - Sing up** <br>
 > Esta sera la seccion donde se registran nuestros usuarios <br>
-> Create account for Customers
+> Create account for Customers <br>
 > <img src="images/Wireframe-SingupCustomer.png" alt="Login"> <br>
-> Create account for Technician
+> Create account for Technician <br>
 > <img src="images/Wireframe-SingupTechnician1.png" alt="Login"> <br>
 > <img src="images/Wireframe-SingupTechnician2.png" alt="Login"> <br>
 > <img src="images/Wireframe-SingupTechnician3.png" alt="Login"> <br>
+> <img src="images/Wireframe-SingupTechnician4.png" alt="Login"> <br>
 ### 4.4.2.Web Applications Wireflow Diagrams
 ### 4.4.3.Web Applications Mock-ups
 > **Web Version - Login** <br>
 > <img src="images/Mockups-Login1.png" alt="Mockups-LoginPage"> <br>
+> <img src="images/Mockups-Login2.png" alt="Mockups-LoginPage"> <br>
+> **Web Version - Sing Up** <br>
+> <img src="images/Mockups-Singup1.png" alt="Mockups-Singup"> <br>
+> <img src="images/Mockups-Singup2.png" alt="Mockups-Singup"> <br>
+> <img src="images/Mockups-Singup3.png" alt="Mockups-Singup"> <br>
+> <img src="images/Mockups-Singup4.png" alt="Mockups-Singup"> <br>
+> <img src="images/Mockups-Singup5.png" alt="Mockups-Singup"> <br>
 ### 4.4.4.Web Applications User Flow Diagrams
 ## 4.5.Web Applications Prototyping
 ## 4.6.Domain-Driven Software Architecture
