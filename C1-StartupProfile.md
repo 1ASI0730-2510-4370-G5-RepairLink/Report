@@ -43,9 +43,9 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 		<td style="text-align: center" align="center"> </td>
 	</TR>
   	<TR>
-		<td style="text-align: center" align="center"><p align="center"> José Luis Martinez Valdivia - U20  <img src="images/fotoMelina.jpg" alt="Foto José" width="45%"> </p></td> 
-		<td style="text-align: center" align="center"></td>
-		<td style="text-align: center" align="center"></td>
+		<td style="text-align: center" align="center"><p align="center"> José Luis Martinez Valdivia - U202213989  <img src="images/fotoJose.png" alt="Foto José" width="45%"> </p></td> 
+		<td style="text-align: center" align="center">Me considero una persona dedicada, constante y con un fuerte sentido de compromiso hacia las metas que me propongo. Veo cada desafío como una oportunidad para aprender y desarrollarme tanto personal como profesionalmente. Me motiva enfrentar situaciones que requieren pensamiento crítico y encontrar soluciones efectivas. Durante mi carrera he fortalecido mi capacidad para colaborar en equipo, lo cual no solo me ha permitido crecer, sino también aprender de las habilidades y perspectivas de los demás.</td>
+		<td style="text-align: center" align="center"> Cuento con conocimiento de programacion orientada a objetos, virtualizacion, Angular y AWS. Cuento con buena adaptacion al cambio y a los retos que se me presenten en proyectos.</td>
 	</TR>
 	<TR>
 		<td style="text-align: center" align="center"><p align="center"> Karen Ramos Carpio - U20201E493 <img src="images/fotoKaren.JPG" alt="Foto Karen" width="50%"> </p></td>
