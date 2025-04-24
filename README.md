@@ -99,25 +99,36 @@ Abril 2025
     <tr style="border-bottom: 1px solid black;">
       <td style="border-right: 1px solid black;"><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
       <td style="border-right: 1px solid black;">
-        <ul>
           <p><strong>TB1</strong></p>
-        </ul>
-          <td> - Jose Martinez: La realizacion de la TB1 me ha permitido trabajar en un ambiente nuevo, el cual ha requerido de mejorar mi habilidad de adaptacion a los cambios. Esto sera de gran ayuda en el futuro al colaborar en nuevos proyectos con diferentes desarrolladores.
-		  
--Gutierrez Tume Stanley Jeremy: En este entregable el trabajo en equipo me ha sido productivo ya que cada uno aportaba ideas y conocimientos para realizar el trabajo, y me permitió reforzar mis conocimientos
-y contribuí en las tareas asignadas durante las reuniones de equipo. </td>
+	  <p>- Karen Ramos: En esta entrega me encargue del desarrollo del capítulo 1. Por otro lado me ncargue de apoyar en el desarrollo del capítulo 4, 	   wireframes y mockups mobile, desktop de la app web. Adicional a eso me encargue de la sección de “Reparations” del desarrollo del Landing Page. 	   Ademas, colaboré con la elaboración de una entrevista del segmento de Customers. Estas actividades me ayudaron a tomar el liderazgo junto con mi 	  equipo y llegar a la meta todos juntos.
+	   - Jose Martinez: La realizacion de la TB1 me ha permitido trabajar en un ambiente nuevo, el cual ha requerido de mejorar mi habilidad de 
+           adaptacion a los cambios. Esto sera de gran ayuda en el futuro al colaborar en nuevos proyectos con diferentes desarrolladores.		  
+	   -  Gutierrez Tume Stanley Jeremy: En este entregable el trabajo en equipo me ha sido productivo ya que cada uno aportaba ideas y conocimientos 
+           para realizar el trabajo, y me permitió reforzar mis conocimientos
+	   y contribuí en las tareas asignadas durante las reuniones de equipo.
+	  </p>
+	</td>
+	<td> <p><strong>TB1</strong></p>
+		Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como 			sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto, trabajando en equipo </td>
       <br>
      </tr>
       <tr style="border-bottom: 1px solid black;">
       <td style="border-right: 1px solid black;"><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
       <td style="border-right: 1px solid black;">
-        <ul>
-          <p><strong>TB1</strong></p>
-        </ul>
-	        <td> - Jose Martinez: Gracias a la elaboracion del trabajo he logrado mejorar mis habilidades de trabajo en equipo, delegar tareas y poder cumplir mis metas trazadas en un rango de tiempo asignado. Esto me ha permitido mejorar el tiempo con el que realizo ciertas tareas y la eficiencia de estas. 
-
--Gutierrez Tume Stanley Jeremy: En este entregable definimos metas claras y específicas para el proyecto, asu vez planificamos y asignamos tareas para asegurar que se cumplan los objetivos.Cada uno se aguró de cumplir con sus partes del trabajo , esto ayudó a mejorar la coordinación y comunición en el grupo.</td>
+ 	<p><strong>TB1</strong></p>
+	      - Karen Ramos: Durante el desarrollo de este trabajo aprendí a desenvolverme en un entorno colaborativo, respetando y valorando las ideas del 
+              equipo. Aprendí a establecer metas claras desde el inicio, dividir responsabilidades de forma equitativa y organizar las tareas según 
+              prioridades. Gracias a esto, logré cumplir con los objetivos propuestos en el tiempo establecido, mejorando mi capacidad para trabajar de 
+             manera eficiente y contribuir activamente al logro del resultado final.
+	  - Jose Martinez: Gracias a la elaboracion del trabajo he logrado mejorar mis habilidades de trabajo en equipo, delegar tareas y poder cumplir mis 	metas trazadas en un rango de tiempo asignado. Esto me ha permitido mejorar el tiempo con el que realizo ciertas tareas y la eficiencia de estas. 
+	- Gutierrez Tume Stanley Jeremy: En este entregable definimos metas claras y específicas para el proyecto, asu vez planificamos y asignamos tareas 
+        para asegurar que se cumplan los objetivos.Cada uno se aguró de cumplir con sus partes del trabajo , esto ayudó a mejorar la coordinación y 
+        comunición en el grupo.</td>
       <br>
+	      <td>
+		      <p><strong>TB1</strong></p>
+		      Durante el desarrollo del trabajo, fortalecimos nuestra capacidad para colaborar en un entorno inclusivo, escuchando activamente las ideas del equipo y aportando soluciones constructivas. Participamos en la planificación de tareas, ayudando a establecer metas claras y distribuyendo responsabilidades de manera organizada. Esta experiencia nos permitió mejorar en eficiencia, cumplir con los plazos establecidos y contribuir de forma significativa al avance del proyecto.
+	      </td>
      </tr>
   </tbody>
 </table>
