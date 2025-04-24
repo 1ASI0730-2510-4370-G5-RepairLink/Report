@@ -176,30 +176,77 @@
 ## 4.4.Web Applications UX/UI Design
 ### 4.4.1.Web Applications Wireframes
 > **Web Version - Login** <br>
-> Esta sera la seccion inicial a la cual el usuario sera enviado al momento de sleccionr el boton de Login o iniciar sesion. Aqui se mostrara proceso por el cual nuestros usuarios inician sesion. <br>
-> <img src="images/Wireframe-Login.png" alt="Login"> <br>
-> <img src="images/Wireframe-Login2.png" alt="Login"> <br>
+> Esta sera la seccion inicial a la cual el usuario sera enviado al momento de seleccionar el boton de Login o iniciar sesion. Aqui se mostrara el proceso por el cual nuestros usuarios inician sesion. <br>
+> <img src="images/Wireframe-Login.png" alt="Login" width="600"> <br>
+> <img src="images/Wireframe-Login2.png" alt="Login" width="600"> <br>
 > **Web Version - Sing up** <br>
 > Esta sera la seccion donde se registran nuestros usuarios <br>
 > Create account for Customers <br>
-> <img src="images/Wireframe-SingupCustomer.png" alt="Login"> <br>
+> <img src="images/Wireframe-SingupCustomer.png" alt="Login" width="600"> <br>
 > Create account for Technician <br>
-> <img src="images/Wireframe-SingupTechnician1.png" alt="Login"> <br>
-> <img src="images/Wireframe-SingupTechnician2.png" alt="Login"> <br>
-> <img src="images/Wireframe-SingupTechnician3.png" alt="Login"> <br>
-> <img src="images/Wireframe-SingupTechnician4.png" alt="Login"> <br>
+> <img src="images/Wireframe-SingupTechnician1.png" alt="Login" width="600"> <br>
+> <img src="images/Wireframe-SingupTechnician2.png" alt="Login" width="600"> <br>
+> <img src="images/Wireframe-SingupTechnician3.png" alt="Login" width="600"> <br>
+> <img src="images/Wireframe-SingupTechnician4.png" alt="Login" width="600"> <br>
+> Estas seran la secciones por donde Customers y Technicians manipulan la aplicacion <br>
+> **Web Version - Customer-Home** <br>
+> <img src="images/Wireframe-WebHome.PNG" alt="Wireframes-Home" width="600"> <br>
+> **Web Version - Customer-My services** <br>
+> <img src="images/Wireframe-WebServ.PNG" alt="Wireframes-Services" width="600"> <br>
+> **Web Version - Customer-Profile** <br>
+> <img src="images/Wireframe-WebProf.PNG" alt="Wireframes-Profile" width="600"> <br>
+> **Web Version - Technician-Home** <br>
+> <img src="images/Wireframe-WebHome2.PNG" alt="Wireframes-Home" width="600"> <br>
+> **Web Version - Technician-My services** <br>
+> <img src="images/Wireframe-WebServ2.PNG" alt="Wireframes-Services" width="600"> <br>
+> **Web Version - Technician-Profile** <br>
+> <img src="images/Wireframe-WebProf2.PNG" alt="Wireframes-Profile" width="600"> <br>
 ### 4.4.2.Web Applications Wireflow Diagrams
+> El usuario tiene una cuenta y desea ingresar para consultar sus movimientos. <br>
+> <img src="images/Wireflow1.PNG" alt="Wireflow1" width="600"> <br>
+> El usuario no tiene una cuenta y desea crearse una para poder emprezar a utilizar la aplicaicón. <br>
+> <img src="images/Wireflow2.PNG" alt="Wireflow2" width="600"> <br>
+> El usuario desea realizar ajustes y cambios en su cuenta. <br>
+> <img src="images/Wireflow3.PNG" alt="Wireflow3" width="600"> <br>
+> El usuario necesita encontrar algun tecnico disponible para su direccion y la fecha que indica. <br>
+> <img src="images/Wireflow4.PNG" alt="Wireflow4" width="600"> <br>
+> El usuario verifica los problemas que suceden con su equipo. <br>
+> <img src="images/Wireflow5.PNG" alt="Wireflow5" width="600"> <br>
+> El usuario verifica su disponibilidad y acepta el servicio. <br>
+> <img src="images/Wireflow6.PNG" alt="Wireflow6" width="600"> <br>
+> El usuario actualiza el estado del servicio. <br>
+> <img src="images/Wireflow7.PNG" alt="Wireflow7" width="600"> <br>
+> El usuario recibe notificaciones sobre el avance del proceso. <br>
+> <img src="images/Wireflow8.PNG" alt="Wireflow8" width="600"> <br>
+> El usuario finaliza el servicio. <br>
+> <img src="images/Wireflow9.PNG" alt="Wireflow9" width="600"> <br>
+> El usuario califica el servicio. <br>
+> <img src="images/Wireflow10.PNG" alt="Wireflow10" width="600"> <br>
 ### 4.4.3.Web Applications Mock-ups
 > **Web Version - Login** <br>
-> <img src="images/Mockups-Login1.png" alt="Mockups-LoginPage"> <br>
-> <img src="images/Mockups-Login2.png" alt="Mockups-LoginPage"> <br>
+> <img src="images/Mockups-Login1.png" alt="Mockups-LoginPage" width="600"> <br>
+> <img src="images/Mockups-Login2.png" alt="Mockups-LoginPage" width="600"> <br>
 > **Web Version - Sing Up** <br>
-> <img src="images/Mockups-Singup1.png" alt="Mockups-Singup"> <br>
-> <img src="images/Mockups-Singup2.png" alt="Mockups-Singup"> <br>
-> <img src="images/Mockups-Singup3.png" alt="Mockups-Singup"> <br>
-> <img src="images/Mockups-Singup4.png" alt="Mockups-Singup"> <br>
-> <img src="images/Mockups-Singup5.png" alt="Mockups-Singup"> <br>
+> <img src="images/Mockups-Singup1.png" alt="Mockups-Singup" width="600"> <br>
+> <img src="images/Mockups-Singup2.png" alt="Mockups-Singup" width="600"> <br>
+> <img src="images/Mockups-Singup3.png" alt="Mockups-Singup" width="600"> <br>
+> <img src="images/Mockups-Singup4.png" alt="Mockups-Singup" width="600"> <br>
+> <img src="images/Mockups-Singup5.png" alt="Mockups-Singup" width="600"> <br>
+> Estas seran la secciones por donde Customers y Technicians manipulan la aplicacion <br>
+> **Web Version - Customer-Home** <br>
+> <img src="images/Mockups-WebHome.PNG" alt="Mockups-Home" width="600"> <br>
+> **Web Version - Customer-My services** <br>
+> <img src="images/Mockups-WebServ.PNG" alt="Mockups-Services" width="600"> <br>
+> **Web Version - Customer-Profile** <br>
+> <img src="images/Mockups-WebProf.PNG" alt="Mockups-Profile" width="600"> <br>
+> **Web Version - Technician-Home** <br>
+> <img src="images/Mockups-WebHome2.PNG" alt="Mockups-Home" width="600"> <br>
+> **Web Version - Technician-My services** <br>
+> <img src="images/Mockups-WebServ2.PNG" alt="Mockups-Services" width="600"> <br>
+> **Web Version - Technician-Profile** <br>
+> <img src="images/Mockups-WebProf2.PNG" alt="Mockups-Profile" width="600"> <br>
 ### 4.4.4.Web Applications User Flow Diagrams
+
 ## 4.5.Web Applications Prototyping
 ## 4.6.Domain-Driven Software Architecture
 > En esta seccion se presentaran los tres niveles del modelo C4 aplicando Domain Driven Design.
