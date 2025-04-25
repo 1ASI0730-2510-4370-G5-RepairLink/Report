@@ -108,10 +108,11 @@ Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes
 
 Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúale.
 
+Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizadacon html.
+
 <img src="images/CSS.PNG" alt="images/CSS.PNG" style="width: 80%;">
 
 
-Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizadacon html.
 
 Html: Es el lenguaje que estructuro nuestro Landing Page.
 *Web Services (API RESTful):
