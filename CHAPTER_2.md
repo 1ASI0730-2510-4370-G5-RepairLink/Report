@@ -18,14 +18,14 @@
 | **Precios & Costos** | Modelo freemium (hasta $30/mes). | Modelo freemium (hasta €50/mes). | Modelo freemium (hasta €60/mes). | Modelo freemium (hasta €60/mes). |
 | **Canales de distribución** | Web y móvil. | Web y móvil. | Escritorio (Windows) y móvil. | Web y móvil. |
 
-#### Análisis SWOT
 
-| **Fortalezas**               | **Debilidades**               | **Oportunidades**               | **Amenazas**               |
-|------------------------------|--------------------------------|----------------------------------|----------------------------|
-| Interfaz ágil y gamificación | Falta de plantillas específicas | Integración de IA predictiva    | Competidores establecidos  |
-| Precios escalables           | Integración limitada de IA     | Expansión global multilingüe    | Amenazas de ciberseguridad |
-| Diseño remoto                | Presupuesto bajo para marketing| Asociaciones con freelancers    | Herramientas SaaS "todo en uno" |
 
+| **Categoría**         | **Nuestra Startup**          | **MaintainX**                 | **OpenRMA**                  | **Repero**                  |
+|-----------------------|-------------------------------|--------------------------------|------------------------------|-----------------------------|
+| **Fortalezas**        | - Interfaz ágil, sencilla y que motive la gamificación a los usuarios.<br>- Precios escalables: Resulta atractiva para reparadores individuales y equipos informáticos de empresas. <br>-Diseño remoto: Para empresas de reparación híbridas o remotas.  | - Interfaz fácil de usar: Elogiada por su diseño intuitivo, que reduce el tiempo de incorporación <br>- Escalabilidad: Se adapta a empresas con más de 10-100 técnicos.<br>-Rentable: El modelo freemium atrae a startups y autónomos | - Especialización en electrónica<br>- Plantillas predefinidas | - Entrada a bajo coste: El plan gratuito atrae a nuevas empresas y microempresas<br>.-Facilidad de uso: Interfaz intuitiva para usuarios no tecnológicos.<br>-Atractivo global: Soporte multilingüe y precios eurocéntricos.  |
+| **Debilidades**       | - Falta actual de  plantillas específicas de dispositivos (por ejemplo, reparaciones de videoconsolas). <br>- Integración limitada de IA. <br>- Poco presupuesto actual para Marketing | - Flujos de trabajo genéricos: Carece de plantillas específicas de dispositivos (por ejemplo, reparaciones de videoconsolas).<br>- Integración limitada de la IA: Depende de la introducción manual de datos para los plazos de reparación<br>.- | - Diseño desktop-centric<br>- Falta de herramientas remotas | - Escalabilidad limitada<br>- Funciones básicas |
+| **Oportunidades**     | - Adopción de la IA: Integrar modelos de mantenimiento predictivo para prever fallos en los dispositivos informáticoss<br>- Asociaciones con freelancers y pequeños negocios que siguen usando herramientas tradicionales y no especializadas | - Adopción de la IA: Integrar modelos de mantenimiento predictivo para prever fallos en los dispositivos informáticos.<br>-Expansión global: Añadir soporte multilingüe para dirigirse a mercados emergentes como India y LATAM | - Dirigirse a nichos de mercados emergentes (por ejemplo, reparación de dispositivos médicos).<br>-- Desarrollar plantillas intersectoriales | - Dirigirse a mercados emergentes (por ejemplo, reparación de dispositivos médicos). <br>-Integración de IA y herramientas de mantenimiento predictivo |
+| **Amenazas**          | - Competidores establecidos<br>- Amenazas de cyberseguridad.<br>- Auge de las herramientas SaaS «todo en uno» (por ejemplo, Shopmonkey RepairDesk). | - Amenazas de cyberseguridad.<br>- Auge de las herramientas SaaS «todo en uno» (por ejemplo, Shopmonkey RepairDesk). | - Amenazas de cyberseguridad.<br>- Auge de las herramientas SaaS «todo en uno» (por ejemplo, Shopmonkey RepairDesk). <br>- Precios muy elevados en determinados paises | - Amenazas de cyberseguridad.<br>- Auge de las herramientas SaaS «todo en uno» (por ejemplo, Shopmonkey RepairDesk).<br>- Precios muy elevados en determinados paises |
 ---
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
@@ -194,28 +194,36 @@ Oportunidad   | Potencial | Alcance |
 ### 2.3.2. User Task Matrix.
 
 
-| Persona               | Tareas                               | Features                                  | Prioridad | Notas                          |
-|-----------------------|--------------------------------------|-------------------------------------------|-----------|--------------------------------|
-| **Freelancer**        | Actualizar estado de trabajos        | Interfaz móvil, facturación automatizada  | Alta      | Priorizar UX móvil            |
-| **Usuario Regular**   | Encontrar técnicos calificados       | Búsqueda con filtros, notificaciones SMS  | Alta      | Integración con proveedores   |
-
+| Persona                                | Tareas                                                                 | Features                                                                                     | Prioridad | Notes                                      |
+|----------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------|--------------------------------------------|
+| Freelancer / Dueño de negocio pequeño de Reparaciones IT | 1. Actualice el estado de los trabajos sobre la marcha.<br>2. Enviar facturas y procesar pagos.<br>3. Comunicar el progreso de la reparación a los clientes. | - Interfaz móvil<br>- Facturación y procesamiento de pagos automatizados<br>- Chat en la aplicación y notificaciones por SMS | Alta      | Priorizar la UX móvil y los precios rentables para autónomos. |
+| Usuario Regular                        | 4. Encontrar técnicos calificados y cercanos.<br>5. Seguir el progreso de la reparación en tiempo real.<br>6. Verificar confiabilidad del técnico.<br>7. Comunicarse fácilmente con el técnico.<br>8. Pagar y dejar reseñas post-servicio. | - **Búsqueda con filtros** (ubicación, especialización, precios, valoraciones).<br>- **Disponibilidad en tiempo real**.<br>- **Notificaciones automáticas** (SMS/app).<br>- **Panel de seguimiento** con fotos/vídeos.<br>- **Reseñas verificadas** (solo clientes reales).<br>- **Certificaciones visibles** (ej: Apple Certified).<br>- **Chat integrado** con opción de enviar fotos del dispositivo.<br>- **Pasarela de pago integrada** (Bizum, PayPal, tarjeta).<br>- **Formulario de reseñas** con puntuación. | Alta      | Priorizar integración con proveedores de repuestos.<br>Funcionalidad móvil crítica para talleres sin oficina fija. |
 ---
 ### 2.3.3. User Journey Mapping.
 
 #### Técnico IT
 
-| **Stage**       | **Touchpoints**               | **Actions**                     | **Emotions**                | **Pain Points**           | **Opportunities**               |
-|-----------------|-------------------------------|---------------------------------|-----------------------------|---------------------------|----------------------------------|
-| **Awareness**   | Grupos de freelancers         | Buscar herramientas de gestión  | Molestia por alternativas   | Funcionalidades limitadas | Anuncios en redes sociales      |
-| **Sign-Up**     | Descargar aplicación          | Elegir plan gratuito            | Optimismo por ahorrar tiempo| Miedo a costos ocultos    | Claridad en costos               |
+#### Técnico IT
 
+| Stage        | Touchpoints   | Actions   | Emotions   | Pain Points | Opportunities |
+|--------------------------------|----------------------------------|-----------------------------|------------------------------|--------------------------------|----------------------------------|
+| Awareness    | Grupos de freelancers y dueños de negocios | Buscar herramientas para gestionar sus operaciones | Molestos por las alternativas tan caras del mercado | Funcionalidades limitadas | Anuncios pagados en redes sociales (en especial Facebook) |
+| Sign-Up      | Descargar aplicación | Elegir el plan gratuito con funcionalidades básicas | Optimista por poder ahorrar tiempo | Miedo de costos ocultos | Aclarar por adelantado "No se necesita tarjeta de crédito" |
+| Onboarding   | Tutorial con interfaz mobil | Enlaza el calendario, establece los métodos de pago | Estresado por términos demasiado técnicos | Pasos confusos | Agregar un tutorial rápido y sencillo de cómo utilizar la aplicación |
+| Daily Use    | Aplicación móbil | Configuración y actualización de las reparaciones | Aliviado por un flujo sencillo | Pobre señal | Habilitar las funcionalidades offline |
+| Post-Job     |                  |               |                |                 |                  |
 
-#### Cliente Regular
+#### Regular Client 
 
-| **Stage**           | **Touchpoints**               | **Actions**                     | **Emotions**                | **Pain Points**           | **Opportunities**               |
-|---------------------|-------------------------------|---------------------------------|-----------------------------|---------------------------|----------------------------------|
-| **Need Identification** | Portátil roto              | Buscar en Google               | Estrés por urgencia         | Plazos poco claros        | Guías DIY en la app              |
+**Goal**: Encuentre rápidamente reparaciones técnicas fiables y realice un seguimiento transparente del progreso.
 
+| Stage         | Touchpoints   | Actions   | Emotions     | Pain Points | Opportunities |
+|---------------------------------|----------------------------------|-----------------------------|--------------------------------|-------------------------------|----------------------------------|
+| Need Identification | Portátil/smartphone roto | Googlea «reparación de Teléfonos cerca de mí» | Estresado por la urgencia | Plazos de reparación poco claros | Mostrar filtros "Servicio el mismo día" |
+| Search & Booking | Filtros de búsqueda en aplicaciones y sitios web | Compara técnicos, reserva cita | Esperanza de transparencia | Dificultad para seleccionar a los técnicos | Añadir distintivos de "Técnico certificado" |
+| Drop-Off      | Diagnóstico en persona o a distancia | Comparte el problema del dispositivo a través del chat de la aplicación | Preocupados por los costos | Explicaciones manuales del problema | Activar la carga de fotos/vídeos para diagnósticos |
+| Tracking      | Notificaciones push, panel de control de la aplicación | Comprobación del estado de la reparación y de la hora prevista de llegada | Tranquilos con las actualizaciones | Retraso en las notificaciones | Añadir "Medidor de confianza de reparación" (por ejemplo, 90% de puntualidad) |
+| Post-Repair   | Pago y reseñas | Paga a través de la aplicación, servicio de tarifas | Satisfecho con la velocidad | No hay incentivos para dejar opiniones | Ofrecer puntos de fidelidad por las opiniones |
 ---
 
 
@@ -225,13 +233,27 @@ Oportunidad   | Potencial | Alcance |
 
 | **Say**                          | **Thinks**                     | **Feels**                      | **Does**                     |
 |----------------------------------|--------------------------------|--------------------------------|------------------------------|
-| "Los clientes no confían"        | "Necesito demostrar confiabilidad" | Frustrado por la competencia   | Envía actualizaciones vía WhatsApp |
+| “El proceso es muy tedioso”      | “Necesito ahorrar tiempo y energías en mantener este sistema” | Frustrado por tener que mantenerse al tanto de las notificaciones a los clientes y las actualizaciones en su inventario   | Revisa las notificaciones que le proporciona la aplicación para realizar estas tareas de la forma más rápida posible |
+
+Puntos débiles:
+* Escepticismo de los clientes sobre el servicio.
+* Pérdida de tiempo en el inventario manual.
+
+Ventajas:
+* La transparencia genera confianza.
+* La automatización libera tiempo para el trabajo práctico.
+
 
 #### Usuario
 
 | **Say**                          | **Thinks**                     | **Feels**                      | **Does**                     |
 |----------------------------------|--------------------------------|--------------------------------|------------------------------|
-| "No sé si este técnico es confiable" | "¿Me cobrarán de más?"        | Ansiedad por perder tiempo     | Busca reseñas en Google      |
+| "No sé si este técnico es confiable" | "¿Me cobrarán de más?"        | Ansiedad por perder tiempo o dinero    | Busca reseñas en Google y redes sociales como Facebook    |
+| “¿Cuándo estará listo mi teléfono o equipo?” | “Ojalá pueda recuperar mis datos.”        | Aliviado cuando recibe actualizaciones claras.    | Envía mensajes preguntando “¿Ya está listo?”.   |
+
+Pain Points:
+* Falta de claridad en precios y plazos.
+* Comunicación lenta o inexistente durante la reparación.
 
 ---
 
@@ -239,15 +261,24 @@ Oportunidad   | Potencial | Alcance |
 
 #### Técnico IT
 
-| **Stages**          | **Actions**               | **Tools Used**       | **Pain Points**       | **Opportunities**          |
-|---------------------|---------------------------|----------------------|-----------------------|----------------------------|
-| **Consulta de clientes** | Llamadas telefónicas   | Excel, WhatsApp      | Llamadas perdidas     | Integración de reservas online |
-| **Gestión de inventario** | Hojas de cálculo      | Registros en papel   | Exceso de existencias | Escaneado de códigos de barras |
+| **Stages**          | **Actions**               | **Tools Used**       | **Pain Points**       | **Consequences**          |**Opportunities**          |
+|---------------------|---------------------------|----------------------|-----------------------|----------------------------| ----------------------------|
+| **Consulta de clientes** | Llamadas telefónicas, mensajes de WhatsApp   | Excel, WhatsApp      | Llamadas perdidas     | Pérdida de clientes a la competencia  |Integración de reservas online|
+| **Gestión de inventario** | Hojas de cálculo manuales, llamadas telefónicas       | Excel, WhatsApp   | Exceso de existencias/retrasos por errores humanos Retrasos en reparaciones,  | clientes descontentos | Escaneado de códigos de barras + alertas automáticas  |
+| **Ejecución de reparaciones** | Actualizaciones verbales a recepción, formularios en papel o excel      | carpetas físicas, Excel   | Falta de comunicación entre técnicos y clientes | Los clientes se quejan de la falta de actualizaciones |Actualizaciones de estado en tiempo real a través de la app|
+| **Comunicación con el cliente** | SMS/Mensajes por Whatsapp /llamadas para actualizaciones    | Herramientas básicas de SMS, Whatsapp   | Mensajes lentos y que pueden pasarse de largo | Se percibe falta de profesionalidad | Plantillas automatizadas de SMS/correo electrónico  |
+| **Post-Servicio** | Pagos en efectivo/crédito/débito/aplicaciones de transferencia como Yape o Plin    | Herramientas básicas de SMS, Whatsapp   | Retrasos en los pagos, pérdida de recibos | Errores contables, problemas fiscales  | Facturación digital + pasarela de pagos  |
+
 
 #### Usuario
 
-| **Stages**          | **Actions**               | **Tools Used**       | **Pain Points**       | **Opportunities**          |
-|---------------------|---------------------------|----------------------|-----------------------|----------------------------|
-| **Búsqueda de técnicos** | Busca en Google       | Google Maps          | Reseñas falsas        | Filtros inteligentes       |
+| **Stages**          | **Actions**               | **Tools Used**       | **Pain Points**       | **Consequences**  | **Opportunities** |
+|---------------------|---------------------------|----------------------|-----------------------|----------------------------|----------------------------|
+| **Identificación de Necesidad** | - Nota que su laptop/iPhone no funciona.<br>- Busca síntomas en Google.       | Google, grupos de Facebook          | Información contradictoria o técnica.       | Ansiedad por no entender el problema.      | Guías con explicación de cómo funcionan las principales reparaciones para que el cliente sepa qué esperar |
+| **Búsqueda de técnicos** | - Busca "reparación iPhone Lima" en Google.<br>- Compara talleres en Maps y redes sociales       | Google Maps, Facebook, Instagram          | -Reseñas falsas o poco detalladas.       | Elige talleres por proximidad, no por calidad.      | Filtros inteligentes (certificaciones, valoraciones reales, disponibilidad en tiempo real, ubicación).|
+| **Comunicación Inicial** | - - Llama o envía WhatsApp para consultar precios y plazos.<br>- Describe el problema verbalmente      | Llamadas, WhatsApp, correo, SMS          | -Malentendidos al explicar el problema.<br>- Demoras en respuestas.      | Citas mal programadas o presupuestos inexactos.     | Formularios de diagnóstico con fotos/vídeos en la app. |
+| **Seguimiento de Reparación** | - Llama repetidamente para preguntar "¿Está listo?".<br>- Revisa correos/SMS sin actualizaciones.     | Llamadas, WhatsApp, correo, SMS          | -Falta de transparencia en el progreso.<br>-Frustración por falta de actualizaciones.  | Pérdida de tiempo y desconfianza.     | Panel de seguimiento en tiempo real con notificaciones automáticas |
+| **Pago y Feedback** | - Recibe una factura impresa o digital   | - Efectivo, tarjeta, aplicaciones de pago.<br>- Google Reviews o Facebook  | -Facturas poco claras o con cargos sorpresa.  | Desconfianza post-servicio y poca fidelización.     |- Facturas digitales con desglose<br>- Reseñas anónimas en la app.|
+
 
 ## 2.4. Ubiquitous Language.
