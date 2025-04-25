@@ -100,12 +100,13 @@ Abril 2025
       <td style="border-right: 1px solid black;"><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
       <td style="border-right: 1px solid black;">
           <p><strong>TB1</strong></p>
-	  <p>- Karen Ramos: En esta entrega me encargue del desarrollo del capítulo 1. Por otro lado me ncargue de apoyar en el desarrollo del capítulo 4, 	   wireframes y mockups mobile, desktop de la app web. Adicional a eso me encargue de la sección de “Reparations” del desarrollo del Landing Page. 	   Ademas, colaboré con la elaboración de una entrevista del segmento de Customers. Estas actividades me ayudaron a tomar el liderazgo junto con mi 	  equipo y llegar a la meta todos juntos.
+	  <p>- Karen Ramos: En esta entrega me encargue del desarrollo del capítulo 1. Por otro lado me ncargue de apoyar en el desarrollo del capítulo 4, 	   wireframes y mockups mobile, desktop de la app web. Adicional a eso me encargue de la sección de “Reparations” del desarrollo del Landing Page. 	   Ademas, colaboré con la elaboración de una entrevista del segmento de Customers. Estas actividades me ayudaron a tomar el liderazgo junto con mi 	  equipo y llegar a la meta todos juntos. <br>
 	   - Jose Martinez: La realizacion de la TB1 me ha permitido trabajar en un ambiente nuevo, el cual ha requerido de mejorar mi habilidad de 
-           adaptacion a los cambios. Esto sera de gran ayuda en el futuro al colaborar en nuevos proyectos con diferentes desarrolladores.		  
+           adaptacion a los cambios. Esto sera de gran ayuda en el futuro al colaborar en nuevos proyectos con diferentes desarrolladores. <br>		  
 	   -  Gutierrez Tume Stanley Jeremy: En este entregable el trabajo en equipo me ha sido productivo ya que cada uno aportaba ideas y conocimientos 
            para realizar el trabajo, y me permitió reforzar mis conocimientos
-	   y contribuí en las tareas asignadas durante las reuniones de equipo.
+	   y contribuí en las tareas asignadas durante las reuniones de equipo. <br>
+		- Sebastián Córdova: En esta entrega, me encargué del desarrollo del Capítulo 3, donde trabajé en las secciones de To-Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog. Además, desarrollé la sección 'Be a Technician' de la Landing Page. Estas actividades me permitieron fortalecer mis habilidades en trabajo en equipo y en la aplicación de conceptos clave de la carrera.
 	  </p>
 	</td>
 	<td> <p><strong>TB1</strong></p>
@@ -119,11 +120,13 @@ Abril 2025
 	      - Karen Ramos: Durante el desarrollo de este trabajo aprendí a desenvolverme en un entorno colaborativo, respetando y valorando las ideas del 
               equipo. Aprendí a establecer metas claras desde el inicio, dividir responsabilidades de forma equitativa y organizar las tareas según 
               prioridades. Gracias a esto, logré cumplir con los objetivos propuestos en el tiempo establecido, mejorando mi capacidad para trabajar de 
-             manera eficiente y contribuir activamente al logro del resultado final.
-	  - Jose Martinez: Gracias a la elaboracion del trabajo he logrado mejorar mis habilidades de trabajo en equipo, delegar tareas y poder cumplir mis 	metas trazadas en un rango de tiempo asignado. Esto me ha permitido mejorar el tiempo con el que realizo ciertas tareas y la eficiencia de estas. 
+             manera eficiente y contribuir activamente al logro del resultado final. <br>
+	  - Jose Martinez: Gracias a la elaboracion del trabajo he logrado mejorar mis habilidades de trabajo en equipo, delegar tareas y poder cumplir mis 	metas trazadas en un rango de tiempo asignado. Esto me ha permitido mejorar el tiempo con el que realizo ciertas tareas y la eficiencia de estas.  <br>
 	- Gutierrez Tume Stanley Jeremy: En este entregable definimos metas claras y específicas para el proyecto, asu vez planificamos y asignamos tareas 
         para asegurar que se cumplan los objetivos.Cada uno se aguró de cumplir con sus partes del trabajo , esto ayudó a mejorar la coordinación y 
-        comunición en el grupo.</td>
+        comunición en el grupo. <br>
+      	- Sebastián Córdova: A lo largo del desarrollo de este entregable, he logrado mejorar significativamente mis habilidades de trabajo en equipo. Esto se debe a que se asignaron tareas clave a cada miembro, lo que favoreció un aprendizaje más profundo en la elaboración y contextualización de la entrega. Este proceso ha sido clave para comprender la relevancia de los conceptos que hemos aprendido durante nuestra carrera, demostrando cómo estos se aplican de manera práctica en un entorno colaborativo.
+      </td>
       <br>
 	      <td>
 		      <p><strong>TB1</strong></p>
