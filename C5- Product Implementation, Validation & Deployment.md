@@ -192,15 +192,9 @@ Enlace trello: https://trello.com/b/sUUvMIr3/apps
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-Durante el Sprint 1, se ha avanzado en la implementación de la Landing Page del proyecto RepairLink. A continuación, se presenta una tabla con los commits realizados en los repositorios relacionados con la implementación de esta página. Dado que aún no se ha realizado despliegue ni integraciones de servicios, los commits están enfocados en la estructura y diseño de la página, así como la configuración inicial del proyecto.
+En este apartado se presentará la documentación que respalda el desarrollo y los avances del software. Se describirán las funcionalidades concretas implementadas en el sprint en curso, haciendo hincapié en los logros más destacados alcanzados en la plataforma.
+<img src=".PNG" alt="images/SPRINT BACKLOG.PNG" style="width: 80%;">
 
-Tabla de Commits:
-
-| Repository        | Branch             | Commit ID | Commit Message             | Commit Message Body                                                                                          | Committed on (Date) |
-|-------------------|--------------------|-----------|----------------------------|---------------------------------------------------------------------------------------------------------------|----------------------|
-| landing-page-repo | `feature/landing`  | `a1b2c3d` | Add base layout for Landing Page | Se añadió la estructura básica de la página principal con el encabezado, barra de navegación y pie de página.    | 2025-04-18           |
-| landing-page-repo | `feature/landing`  | `d4e5f6g` | Add service section design    | Se diseñó la sección de servicios con iconos representativos y descripciones de cada servicio.                 | 2025-04-19           |
-| landing-page-repo | `feature/landing`  | `h7i8j9k` | Add contact form section      | Se añadió el formulario de contacto para que los usuarios puedan enviar consultas.                             | 2025-04-20           |
 
 
 #### 5.2.1.4. Execution Evidence for Sprint Review
