@@ -103,7 +103,13 @@ Para el desarrollo del Landing Page de Medicare se han utilizado las siguientes 
 
 Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenidorealizado en su rama individual.
 
+<img src="images/HTML.PNG" alt="images/HTML.PNG" style="width: 80%;">
+
+
 Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúale.
+
+<img src="images/CSS.PNG" alt="images/CSS.PNG" style="width: 80%;">
+
 
 Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizadacon html.
 
