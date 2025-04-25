@@ -2,48 +2,40 @@
 
 ## 5.1. Software Configuration Management
 
-En el marco de este proyecto, se han tomado decisiones clave para garantizar la consistencia y eficiencia durante todo el ciclo de vida de la solución web distribuida. Estas decisiones aseguran que la aplicación web sea  escalable y fácil de mantener a lo largo de su ciclo de desarrollo y despliegue. Los principales aspectos de configuración incluyen:
-
--CONTROL DE VERSIONES DE GITHUB: La gestión del código fuente se lleva a cabo mediante GitHub, una plataforma de control de versiones distribuido que facilita la colaboración entre los miembros del equipo. Utilizamos el modelo GitFlow, que define un flujo de trabajo claro con las siguientes ramas:
-
-*main (producción): contiene el código de la versión estable de la aplicación.
-
-*develop (desarrollo): integrador para nuevas características y cambios no verificados aún.
-
-*Ramas feature: para el desarrollo de características específicas del producto.
-
-*Ramas hotfix: utilizadas para corregir errores urgentes en producción.
-
-*SEMANTIC VERSIONING: Adoptamos el versionado semántico (Semantic Versioning) para asegurar que las versiones del producto sean claras y fáciles de entender para el equipo y los stakeholders. Esto facilita la gestión de la evolución del producto, permitiendo versiones como 1.0.0, 1.1.0, 2.0.0 para reflejar los cambios en la funcionalidad o la corrección de errores.
-
-*CONVENCIONES DE COMMITS: Para mejorar la comunicación del equipo, se sigue el estándar de Conventional Commits para los mensajes de commit. Esto establece una estructura uniforme en los mensajes.
-Feat para nuevas características , fix, para corrección de errores,docs, para documentación.
-
-*ENTORNO DE DESARROLLO: La configuración del entorno de desarrollo se basa en tecnologías open-source, utilizando herramientas que faciliten la implementación y el mantenimiento del código. El uso de Docker para la creación de contenedores y la replicación del entorno de producción asegura que todos los miembros del equipo trabajen en condiciones similares.
-
-*OCUMENTACIÓN DE SERVICIOS: La solución emplea una API RESTful como arquitectura principal, y se utiliza OpenAPI para documentar todos los endpoints, lo que garantiza que la documentación esté actualizada y sea fácilmente accesible para los desarrolladores y otros stakeholders.
-
-*DESPLIEGUE EN LA NUBE: Utilizamos plataformas de Cloud Computing para el despliegue, asegurando que la solución sea escalable y accesible a través de diferentes dispositivos, manteniendo la consistencia entre el Landing Page y la Web Application.
+A continuación, se presentará un repositorio central y organizado que servirá como guía para el desarrolloenfocado y consistente de nuestra solución.
 
 ### 5.1.1. Software Development Environment Configuration
 
-El entorno de desarrollo para el proyecto ha sido configurado utilizando diversas herramientas y tecnologías que permiten una colaboración eficiente y una implementación efectiva durante todo el ciclo de vida del producto. A continuación, se detallan las herramientas y su propósito de uso:
+En esta sección se incluyen los enlaces a las aplicaciones y productos de software desarrollados a lo largo del ciclo del proyecto, utilizando los programas correspondientes. Para ello, se organizará en las siguientes secciones: 
 
-*Figma
-Propósito: Diseño de la interfaz de usuario (UX/UI).
-Ruta de acceso: Figma
-Figma es utilizado por el equipo para crear prototipos interactivos y realizar diseño de interfaz de usuario adaptable a diferentes dispositivos.
+Project Mangement:
+ 
+-Trello es una herramienta visual que facilita la gestión de proyectos y el flujo de trabajo que el equipo de desarrollo seguirá para implementar de manera correcta las tareas de código relacionadas con la Landing Page y la aplicación web.  https://trello.com/es
 
-*Visual Studio Code
-Propósito: Desarrollo de la aplicación web, edición de código y colaboración en tiempo real.
-Ruta de acceso: Visual Studio Code
-Visual Studio Code es la herramienta principal para la programación en HTML, CSS y JavaScript. Permite trabajar en un entorno flexible con extensiones y configuración personalizada.
+Product UX/UI Design:
 
-Estas herramientas permiten una gestión eficiente del proyecto, cubriendo desde el diseño UX/UI hasta el desarrollo, asegurando que cada miembro del equipo tenga acceso a los recursos necesarios para cumplir con los objetivos del proyecto.
+Esta herramienta permite desarrollar el modelo de nuestro producto de manera digital, integrándose así a la experiencia del consumidor. En este caso, se utilizará para crear un modelo de sitio web adaptable tanto para computadoras como para dispositivos móviles.
+
+-Uxpressia: es una herramienta en línea para el mapeo de la trayectoria del cliente, que permite crear mapas de impacto y personas. Sus herramientas nos ayudaron a establecer las bases para el modelado de User Persona, Empathy Map y Journey Map. https://uxpressia.com/
+
+-Miro: es una pizarra digital colaborativa en línea, utilizada para actividades como la investigación, la ideación, la generación de lluvias de ideas, la creación de mapas mentales y diversas otras tareas colaborativas.
+https://miro.com/es
+
+-Figma: es una herramienta de prototipado web y editor de gráficos vectoriales que, a diferencia de otras herramientas, se encuentra alojada en la web. Esto permite crear modelos adaptables tanto para la versión en navegador web como para navegador móvil. https://www.figma.com/
+
+Software Development:
+
+Es una estructura utilizada para guiar la creación de un producto de software. Su propósito es definir un proceso que oriente el desarrollo, describiendo distintos enfoques según las actividades que se llevan a cabo a lo largo del ciclo de vida del software.
+
+-Github: Es un repositorio comunitario que nos permite colaborar en proyectos de software, almacenar código, compartirlo y gestionar los cambios a lo largo del tiempo. 
+
+-HTML: es un lenguaje fundamental para quienes desarrollan sitios web. Su función principal es trabajar con hipertextos, permitiendo crear enlaces hacia otros documentos en la red. Además, proporciona las herramientas necesarias para diseñar la estructura y el contenido visual de una página web.
+
+-CSS: es un lenguaje de diseño gráfico que se utiliza para definir y controlar la presentación visual de un documento escrito en un lenguaje de marcado como HTML o XML.
 
 ### 5.1.2. Source Code Management
 
-El equipo ha decidido utilizar GitHub como plataforma para la gestión del código fuente y el control de versiones, garantizando la colaboración eficiente y el seguimiento de todas las modificaciones realizadas a lo largo del proyecto. El repositorio de GitHub se encuentra en el siguiente enlace:https://github.com/1ASI0730-2510-4370-G5-RepairLink
+A continuación, se describe la administración del código fuente. Su objetivo principal es llevar un registro de todos los cambios que el equipo realice en los archivos de código de sus proyectos, dentro de los repositorios designados. Se utilizará como un sistema de control de versiones, lo que permitirá rastrear las modificaciones que cada miembro  implemente en el proyecto. Es importante destacar que para este sistema de control de versiones se empleará GitHub. https://github.com/1ASI0730-2510-4370-G5-RepairLink
 
 ESQUEMA DE CONTROL DE VERSIONES:
 
@@ -57,15 +49,6 @@ ESQUEMA DE CONTROL DE VERSIONES:
 
 -Ramas de liberación (release branches): Para preparar las versiones estables y nuevas funcionalidades, se creará una rama release/<version> para realizar pruebas y ajustes finales antes de la liberación.
 
-CONVENCIONES DE NOMBRES Y VERSIONES:
-
-Se aplicará el modelo Semantic Versioning (SemVer) para nombrar las versiones de los productos, asegurando claridad y coherencia en la gestión de las versiones. Por ejemplo:
-
--1.0.0: Primera versión estable.
-
--1.1.0: Inclusión de nuevas características.
-
--2.0.0: Cambios importantes que rompen la compatibilidad con versiones anteriores.
 
 GITFLOW Y CONVENCIONES DE COMMITS:
 
@@ -83,15 +66,15 @@ El equipo implementará el flujo de trabajo GitFlow como modelo para el control 
 
 ### 5.1.3. Source Code Style Guide & Conventions
 
-En el proyecto, se adoptarán las siguientes convenciones de codificación para garantizar la consistencia en la implementación del código:
+Para mantener nuestro código limpio, uniforme , en este proyecto utilizaremos la Guía de Estilo de Google para HTML/CSS. Esta guía nos ayudará a escribir código HTML y CSS de manera clara y organizada. Algunas de las reglas que seguiremos son:
 
-HTML: Se seguirán las pautas de estilo recomendadas en el "Google HTML/CSS Style Guide" y las convenciones establecidas por W3C para garantizar que el código sea legible y semántico. El código será indentado con 2 espacios y todos los elementos HTML serán escritos en inglés.
+-Usaremos solo dos espacios para la indentación, tanto en HTML como en CSS. Esto hace que el código sea fácil de leer sin que ocupe demasiado espacio horizontal.
 
-CSS: Se aplicará el "Google HTML/CSS Style Guide" para asegurar que las clases y los identificadores sean nombrados de manera clara y coherente, usando convenciones como la notación BEM (Block Element Modifier) cuando sea adecuado.
+-Ordenaremos los selectores de CSS de forma lógica: primero los selectores de elementos (tipo), luego los de ID y al final los de clase.
 
-JavaScript: Se adoptarán las pautas del "Google JavaScript Style Guide" y el MDN JavaScript Guidelines para el desarrollo del código, asegurando buenas prácticas en la estructura del código, manejo de variables, y funciones. Las variables y funciones estarán nombradas en inglés y en notación camelCase.
+-Elegiremos nombres de clase cortos pero que expliquen bien su función, usando guiones bajos para separar las palabras y facilitar la lectura.
 
-Figma Integration: Los diseños creados en Figma seguirán el mismo enfoque de nomenclatura en inglés, con clases y estilos organizados de manera consistente con el código para facilitar la integración entre la interfaz de usuario y el desarrollo frontend.
+-Añadiremos comentarios solo cuando sea necesario aclarar reglas de CSS que no sean obvias a primera vista.
 
 ### 5.1.4. Software Deployment Configuration
 
@@ -112,40 +95,20 @@ Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño 
 
 <img src="images/CSS.PNG" alt="images/CSS.PNG" style="width: 80%;">
 
+Todo el despliegue fue gracias a las siguientes herramientas:
+
+-GitHub: Plataforma de desarrollo colaborativo.
+
+-Git Flow: Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto aldesarrollo del Landing Page.Git Hub Pages: Servicio de Github que nos permitió alojar nuestra Landing page.
+
+Evidencia de deployment: 
+
+<img src="images/deployment.PNG" alt="images/deployment.PNG" style="width: 80%;">
 
 
-Html: Es el lenguaje que estructuro nuestro Landing Page.
-*Web Services (API RESTful):
-
-Entorno de Despliegue: Los servicios web se desplegarán en plataformas como Heroku o AWS, que proporcionan servidores para alojar APIs y gestionar el escalado.
-
-*Pasos de Despliegue:
-
--Crear una aplicación en Heroku o instancia de AWS.
-
--Conectar el repositorio GitHub al servicio.
-
--Establecer configuraciones de base de datos si es necesario.
-
--Implementar la API y realizar pruebas de integración para verificar su funcionamiento.
-
--Configurar el despliegue continuo (CI/CD) para permitir actualizaciones automáticas desde el repositorio.
-
-*Frontend Web Application:
-
-Entorno de Despliegue: La aplicación web frontend se desplegará en una plataforma como AWS, Netlify o Vercel, siguiendo un proceso similar al de la Landing Page.
-
-*Pasos de Despliegue:
-
--Conectar el repositorio de GitHub con la plataforma de despliegue.
-
--Configurar el entorno y las variables necesarias para la producción (por ejemplo, rutas de API).
-
--Hacer uso de CI/CD para despliegues automáticos.
-
--Verificar la accesibilidad de la aplicación y la integración con la API RESTful.
 
 ## 5.2. Landing Page, Services & Applications Implementation
+
 La implementación de la solución digital se realizó bajo una arquitectura distribuida basada en servicios, en concordancia con los lineamientos definidos durante la etapa de diseño. Esta sección documenta el proceso de desarrollo, pruebas, documentación técnica y despliegue de los componentes clave: Landing Page, Servicios Web (RESTful API) y la Aplicación Web Frontend.
 
 Para asegurar una experiencia de usuario consistente e intuitiva, se diseñaron las interfaces en Figma, utilizando un enfoque centrado en el usuario. Este prototipo de alta fidelidad sirvió como guía visual durante el desarrollo, asegurando la alineación entre lo diseñado y lo implementado. El prototipo puede consultarse en el siguiente enlace:
