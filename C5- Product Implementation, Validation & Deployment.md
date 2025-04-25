@@ -169,13 +169,13 @@ Sprint 1 - Review Summary: Durante la primera reunión del Sprint, el equipo se 
 
 Sprint 1– Retrospective Summary: En esta retrospectiva, el equipo discutió cómo se llevó a cabo la planificación del Sprint y la distribución de tareas.Todos los participantes lograron hacer su parte del trabajo , ya que corregimos algunos puntos que nos parecían que se podían mejorar.
 
-Sprint Goal & User Stories:
+Sprint Goal & User Stories: -
 
-Sprint 1 goal: 
+Sprint 1 goal: Diseñar e implementar el Landing Page con el objetivo de concretar nuestra propuesta de valor. Documentación.
 
-Sprint 1 Velocity:
+Sprint 1 Velocity: 12
 
-Sum of Story Points:
+Sum of Story Points:12
 
 
 #### 5.2.1.2. Sprint Backlog 1
