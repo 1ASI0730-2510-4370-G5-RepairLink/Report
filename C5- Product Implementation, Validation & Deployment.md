@@ -193,7 +193,7 @@ Enlace trello: https://trello.com/b/sUUvMIr3/apps
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 En este apartado se presentará la documentación que respalda el desarrollo y los avances del software. Se describirán las funcionalidades concretas implementadas en el sprint en curso, haciendo hincapié en los logros más destacados alcanzados en la plataforma.
-<img src=".PNG" alt="images/SPRINT BACKLOG.PNG" style="width: 80%;">
+<img src="images/PARTICIPACION.PNG" alt="images/PARTICIPACION.PNG" style="width: 80%;">
 
 
 
