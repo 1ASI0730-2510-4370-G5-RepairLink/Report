@@ -98,18 +98,16 @@ Figma Integration: Los diseños creados en Figma seguirán el mismo enfoque de n
 En esta sección se detalla el proceso de despliegue de los productos digitales desarrollados para la solución. A partir de los repositorios de código fuente en GitHub, el despliegue de cada componente se realizará de la siguiente manera:
 
 *Landing Page:
--Entorno de Despliegue: La Landing Page se desplegará en una plataforma de hosting web, como Netlify o Vercel, que permite una integración sencilla con GitHub para realizar despliegues automáticos cada vez que se actualice el código.
 
-*Pasos de Despliegue:
+Para el desarrollo del Landing Page de Medicare se han utilizado las siguientes herramientas.
 
--Conectar el repositorio de GitHub con la plataforma de despliegue.
+Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenidorealizado en su rama individual.
 
--Configurar las variables de entorno necesarias (si las hay).
+Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúale.
 
--Activar los despliegues automáticos para que cualquier cambio en el repositorio active una actualización en la Landing Page.
+Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizadacon html.
 
--Verificar que la página sea accesible públicamente después del despliegue.
-
+Html: Es el lenguaje que estructuro nuestro Landing Page.
 *Web Services (API RESTful):
 
 Entorno de Despliegue: Los servicios web se desplegarán en plataformas como Heroku o AWS, que proporcionan servidores para alojar APIs y gestionar el escalado.
