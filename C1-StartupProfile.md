@@ -28,9 +28,9 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 		<TH><h2>Conocimientos</h2></TH>
 	</TR>
   	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Sebastian Cordova Valdivia - U20  <img src="images/fotoCristian.jpeg" alt="Foto Sebastian" width="40%"> </p></td> 
-		<td style="text-align: center" align="center"></td>
-		<td style="text-align: center" align="center"> </td>
+		<td style="text-align: center" align="center"><p align="center"> Sebastian Cordova Valdivia - U202111041  <img src="images/fotoSebas.jpg" alt="Foto Sebastian" width="40%"> </p></td> 
+		<td style="text-align: center" align="center"> Me considero una persona responsable, tranquila y sociable, siempre en la búsqueda de mejorar en diversos aspectos de mi vida. Disfruto escuchar música, jugar al baloncesto, leer y en tiempos libres jugar videojuegos para relajarme un rato. </td>
+		<td style="text-align: center" align="center"> Durante mi formación académica, he adquirido conocimientos en C++, Python y desarrollo web con HTML, CSS y JavaScript. Lo que me brindó la oportunidad de usar el framework de Angular, creando aplicaciones web dinámicas y eficientes. </td>
 	</TR>
   	<TR>
 		<td style="text-align: center" align="center"><p align="center"> Stanley Jeremy Gutierrez Tume - U202118152  <img src="images/fotoStanley..jpg" alt="Foto Stanley" width="45%"> </p></td> 
