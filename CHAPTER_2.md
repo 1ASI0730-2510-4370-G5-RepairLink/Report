@@ -78,7 +78,92 @@
 
 ### 2.2.2. Registro de entrevistas.
 
+#### **Sección 1: Dueños de Negocio**  
+| Pregunta                                                                 | Respuesta | Notas |  
+|--------------------------------------------------------------------------|-----------|-------|  
+| ¿En qué tipo de reparaciones está especializado?                        | Generalista pero se especializa en televisores     | ...   |  
+| ¿Cuántos trabajos realiza al mes?                                       | Realiza 5 trabajos al mes       | ...   |  
+| ¿Qué herramientas/software utiliza actualmente para gestionar las reparaciones, la comunicación con los clientes y el inventario?                                       | Excel para la gestión de inventario y Whatsapp para la comunicación con los clientes       | ...   |  
+| ¿Cómo controla el progreso de las reparaciones en la actualidad?                                       | Se utiliza excel para mapear los procesos     | La aplicación debe ser capaz de simular funcionalidades importantes de Excel  |  
+| ¿Qué funciona bien y qué es frustrante?                                     |  Lo frustrante es llevar el control de lo que se avanzó y lo que no     | ...   |  
+| ¿Qué es lo que más tiempo le lleva de la gestión de los trabajos de reparación?                                       | Revisar el estado de cada reparación y actualizar las hojas de excel      | La aplicación debe evitar que el negocio tenga que mantenerse al tanto de estos procesos repetitivos   |  
+| ¿Cómo se comunican las actualizaciones a los clientes (por ejemplo, retrasos, finalización)? ¿Qué dificultades surgen?                                       |    Por Whatsapp, se comunica con el cliente cuando hay algún retraso y cuando la reparación está culminada    | ...   |  
+| ¿Qué funciones le gustaría que tuviera el software de gestión de reparaciones?                                     |  Registrar las reparaciones con datos como las fechas, fotos, partes utilizadas y que se manden mensajes automáticos y que además se pueda indicar el tiempo de demora de las reparaciones     | Priorizar esas características en el software   |   
+| ¿Qué le haría dudar a la hora de cambiar sus herramientas actuales?                                     | Que la aplicación sea muy complicada de usar y que sea dificil adaptarse      | Priorizar la UX   |  
+| ¿Qué modelo de precios (suscripción, tarifa por trabajo) le hace sentido?                                       |   Modelo de suscripción mensual mientras sea accesible     | ...   |  
+| ¿En qué se equivocan los competidores con respecto a sus necesidades?                                     | Lor procesos pueden ser muy complicados y están diseñados para talleres grandes      | ...   |  
+| ¿Puedo ponerme en contacto con usted para una prueba beta?                               |   Sí     | ...   |  
+
+
+#### **Sección 2: Clientes Regulares**  
+
+| **ID Entrevista** | Fecha       | Tipo de Entrevistado | Duración | Entrevistador |  
+|--------------------|-------------|----------------------|----------|---------------|  
+| R-001              | 22/04/2025     | [Negocio]    | 4:57 | Josue Arrunategui    |  
+
+
+
+| Pregunta                                                                 | Respuesta | Notas |  
+|--------------------------------------------------------------------------|-----------|-------|  
+| ¿Cuándo usó por última vez un servicio de reparación?                   | Hace 2 meses cuando se rompió la pantalla de su celular      | ...   |  
+| ¿Cómo encontró al proveedor?                            | Lo encontró buscando en Google "Reparación de celulares Lima", eligió el servicio basándose en las reseñas y cercanía a su hogar     | Darle importancia al SEO local   |  
+| ¿Recibió actualizaciones sobre el progreso? En caso afirmativo, ¿cómo (mensaje de texto, correo electrónico, aplicación)?                            | Sí recibió actualizaciones via Whatsapp       | ...   |  
+| ¿Está satisfecho con la comunicación? ¿Qué le frustró?                              |   Sí pero le frustró el tiempo de espera y no saber si ya habían siquiera comenzado a conseguir las piezas necesarias    | El usuario está desconectado del proceso de reparación   |  
+| ¿Le haría esto más propenso a elegir un servicio de reparación? ¿Por qué sí o por qué no?                           | Sí, por la transparencia del proceso y la tranquilidad que implica saber el estado de su celular     | ...   |  
+| ¿Cómo preferiría recibir las actualizaciones? (notificaciones en la aplicación, SMS, correo electrónico)                           | Notificaciones en una aplicación para evitar revisar constantemente mensajes       | Ponerle importancia al diseño de las notificaciones   |  
+| ¿Pagaría más por la transparencia?                            | Sí       | ...   |  
+| ¿Cuál es el mayor quebradero de cabeza al que se ha enfrentado con los servicios de reparación?                            | Su mayor problema ha sido la falta de información e incertidumbre      | ...   |  
+| ¿Puedo ponerme en contacto con usted?                             | Sí     | ...   |  
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+| **ID Entrevista** | Fecha       | Tipo de Entrevistado | Duración | Entrevistador |  
+|--------------------|-------------|----------------------|----------|---------------|  
+| 002              | 22/04/2025     | [Cliente]    |   4:57  | Eduardo André Chero
+
+| Pregunta                                                                 | Respuesta | Notas |  
+|--------------------------------------------------------------------------|-----------|-------|  
+| ¿Cuándo usó por última vez un servicio de reparación?                   | Hace 6 meses      | ...   |  
+| ¿Cómo encontró al proveedor?                            | Centro de cómputo en miraflores      | Tener en cuenta a los potenciales clientes que se basan principalmente en la ubicación del local  |  
+| ¿Recibió actualizaciones sobre el progreso? En caso afirmativo, ¿cómo (mensaje de texto, correo electrónico, aplicación)?                            | No, únicamente le informaron cuando la reparación ya estaba lista     | ...   |  
+| ¿Está satisfecho con la comunicación?  ¿Qué le frustró?                           | Preferiría haber recibido comunicación más seguido       | ...   |  
+| ¿Le haría esto más propenso a elegir un servicio de reparación?  ¿Por qué sí o por qué no?                          | Sí, para saber acerca de los problemas del producto a reparar       | ...   |  
+| ¿Cómo preferiría recibir las actualizaciones? (notificaciones en la aplicación, SMS, correo electrónico)                           | Por Whatsapp o correo       | Tener medios externos en los que el negocio pueda comunicarse con el cliente   |  
+| ¿Pagaría más por la transparencia?                            | Depende de lo que necesite la reparación y la calidad del técnico      | ...   |  
+| ¿Cuál es el mayor quebradero de cabeza al que se ha enfrentado con los servicios de reparación?                            | Que no le brindan un informe continuo, menciona que tuvo percances en el pasado en el que el producto no había sido arreglado correctamente y lo descubrió hasta 1 semana después      | Tener en cuenta las reseñas y precedentes de los usuarios   |  
+| ¿Puedo ponerme en contacto con usted?                             | Sí       | ...   |  
+
+--------------------------------------------------------------------------
+--------------------------------------------------------------------------
+
+
 ### 2.2.3. Análisis de entrevistas.
+
+#### Síntesis por Categorías
+
+Categoría    | Hallazgos Clave	 | Recomendaciones |  
+|--------------------------------------------------------------------------|-----------|-------|  
+| **Comunicación** | Los negocios principalmente se comunican con sus clientes mediante Whatsapp     | Implementar notificaciones automáticas multi-canal (app + WhatsApp) y plantillas de mensajes.   |
+| **Transparencia** | -Los clientes prefieren seguimiento en tiempo real     | Crear un panel que permita a los técnicos publicar el progreso y a los usuarios visualizarlo y recibir notificaciones al respecto   |
+| **Precios** |  Técnicos prefieren suscripción mensual accesible.Clientes pagarían más por transparencia (condicional).  | Ofrecer plan freemium para técnicos y niveles premium con garantías verificadas. |
+
+
+#### Pain Points Prioritizados
+
+Pain Point	    | Impacto |  
+|--------------------------------------------------------------------------|-----------|  
+| **Herramientas fragmentadas** | Alto |
+| **Falta de transparencia en procesos** | Alto |
+| **Comunicación reactiva (no proactiva)** | Medio   |
+
+#### Oportunidades de Producto
+
+Oportunidad   | Potencial | Alcance |  
+| --------------------------------------------------------------------------|-----------|-------|  
+| **Panel unificado de reparaciones** | Alto      | Técnicos/Clientes	   |
+| **Notificaciones automáticas** | Alto      | Clientes   |
+| **Certificaciones técnicas visibles** |  Medio  | Clientes | 
 
 ## 2.3. Needfinding.
 
