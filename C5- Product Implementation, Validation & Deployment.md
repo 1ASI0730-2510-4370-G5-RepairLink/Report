@@ -82,7 +82,7 @@ En esta sección se detalla el proceso de despliegue de los productos digitales 
 
 *Landing Page:
 
-Para el desarrollo del Landing Page de Medicare se han utilizado las siguientes herramientas.
+Para el desarrollo del Landing Page de RepairLink se han utilizado las siguientes herramientas.
 
 Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenidorealizado en su rama individual.
 
