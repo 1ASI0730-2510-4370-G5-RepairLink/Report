@@ -128,14 +128,15 @@ HTML: sirve de referencia del software que interactúa con la elaboración de p�
 
 Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenidorealizado en su rama individual.
 
-<img src="images/HTML.PNG" alt="images/HTML.PNG" style="width: 80%;">
+ ![HTML](images/HTML.PNG)
 
 
 Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactiva.
 
 Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizada con html.
 
-<img src="images/CSS.PNG" alt="images/CSS.PNG" style="width: 80%;">
+![CSS](images/CSS.PNG)
+
 
 Todo el despliegue fue gracias a las siguientes herramientas:
 
@@ -147,7 +148,7 @@ Todo el despliegue fue gracias a las siguientes herramientas:
 
 Evidencia de deployment: 
 
-<img src="images/deployment.PNG" alt="images/deployment.PNG" style="width: 80%;">
+![DEPLOYMENT](images/deployment.PNG)
 
 
 
@@ -194,32 +195,29 @@ Sum of Story Points:12
 En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura del trello y el link del tablero.
 Enlace trello: https://trello.com/b/sUUvMIr3/apps
 
-<img src="images/TRELLO.PNG" alt="images/TRELLO.PNG" style="width: 80%;">
+![TRELLO](images/TRELLO.PNG)
 
-
-
-<img src="images/SPRINT BACKLOG.PNG" alt="images/SPRINT BACKLOG.PNG" style="width: 80%;">
-
+![SPRINT BACKLOG](images/SPRINTBACKLOG.PNG)
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
 En este apartado se presentará la documentación que respalda el desarrollo y los avances del software. Se describirán las funcionalidades concretas implementadas en el sprint en curso, haciendo hincapié en los logros más destacados alcanzados en la plataforma.
-<img src="images/PARTICIPACION.PNG" alt="images/PARTICIPACION.PNG" style="width: 80%;">
 
+![PARTICIPACION](images/PARTICIPACION.PNG)
 
 
 #### 5.2.1.4. Execution Evidence for Sprint Review
 
 Durante este Sprint, se completó la implementación del diseño y la estructura básica de la Landing Page para el proyecto RepairLink, utilizando los avances de diseño de Figma. A continuación, se presentan las vistas clave de la Landing Page.
 
-<img src="images/home page.PNG" alt="images/home page.PNG" style="width: 80%;">
+![HOME PAGE](images/homepage.PNG)
 
-<img src="images/bet a technician.PNG" alt="images/bet a technician.PNG" style="width: 80%;">
+![BE A TECHNICIAN](images/betatechnician.PNG)
 
-<img src="images/reparations.PNG" alt="images/reparations.PNG" style="width: 80%;">
+![REPARATIONS](images/reparations.PNG)
 
-<img src="images/reviews.PNG" alt="images/reviews.PNG" style="width: 80%;">
+![REVIEWS](images/reviews.PNG)
 
 #### 5.2.1.5. Services Documentation Evidence for Sprint Review
 
