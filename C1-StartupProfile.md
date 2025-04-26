@@ -13,11 +13,11 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 
 **Logo del Startup:**
 
-<p align="left"><img src="images/logo-servicio.png" alt="PixelMasters Logo" width="30%" height="40%"></p>
+![Alt Image](images/logo-servicio.png)
 
 **Logo del Producto:**
 
-<p align="left"><img src="images/logo-producto.png" alt="RepairLink Logo" width="20%" height="40%"></p>
+![Alt Image](logo-producto.png)
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
