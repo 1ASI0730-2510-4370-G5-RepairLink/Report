@@ -329,4 +329,4 @@ Actualicé el **inventario de repuestos** y el sistema generó un **ETA** de 3 h
 ---
 
 **Impacto**:  
-Este lenguaje unificado reducirá errores de comunicación y alineará expectativas entre técnicos, clientes y desarrolladores. 🛠️✅
+Este lenguaje unificado reducirá errores de comunicación y alineará expectativas entre técnicos, clientes y desarrolladores.
