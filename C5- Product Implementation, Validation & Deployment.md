@@ -88,9 +88,9 @@ Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes
 <img src="images/HTML.PNG" alt="images/HTML.PNG" style="width: 80%;">
 
 
-Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactúale.
+Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactiva.
 
-Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizadacon html.
+Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizada con html.
 
 <img src="images/CSS.PNG" alt="images/CSS.PNG" style="width: 80%;">
 
@@ -98,7 +98,9 @@ Todo el despliegue fue gracias a las siguientes herramientas:
 
 -GitHub: Plataforma de desarrollo colaborativo.
 
--Git Flow: Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto aldesarrollo del Landing Page.Git Hub Pages: Servicio de Github que nos permitió alojar nuestra Landing page.
+-Git Flow: Nos permitió controlar el avance de cada uno de nuestros integrantes con respecto aldesarrollo del Landing Page.
+
+-Git Hub Pages: Servicio de Github que nos permitió alojar nuestra Landing page.
 
 Evidencia de deployment: 
 
