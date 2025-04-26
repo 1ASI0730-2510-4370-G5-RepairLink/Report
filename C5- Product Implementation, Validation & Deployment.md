@@ -38,6 +38,7 @@ Es una estructura utilizada para guiar la creación de un producto de software. 
 A continuación, se describe la administración del código fuente. Su objetivo principal es llevar un registro de todos los cambios que el equipo realice en los archivos de código de sus proyectos, dentro de los repositorios designados. Se utilizará como un sistema de control de versiones, lo que permitirá rastrear las modificaciones que cada miembro  implemente en el proyecto. Es importante destacar que para este sistema de control de versiones se empleará GitHub. 
 
 Repositorio : https://github.com/1ASI0730-2510-4370-G5-RepairLink
+
 Web Services Repository: https://1asi0730-2510-4370-g5-repairlink.github.io/LandingPage/
 
 ESQUEMA DE CONTROL DE VERSIONES:
