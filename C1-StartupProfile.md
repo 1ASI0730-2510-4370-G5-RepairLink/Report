@@ -38,9 +38,9 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 		<td style="text-align: center" align="center"> A lo largo de mi formación académica, he adquirido competencias en lógica de programación, estructuras de datos y desarrollo orientado a objetos. Estos aprendizajes me han permitido desarrollar un enfoque analítico para la resolución de problemas y una capacidad de adaptación frente a distintos entornos tecnológicos. Asimismo, he participado en diversos proyectos que han fortalecido mis habilidades para el trabajo en equipo y la gestión de tareas.</td>
 	</TR>
 	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Edson Diego Llamozas Diaz - U20  <img src="images/fotoCristian.jpeg" alt="Foto Edson" width="40%"> </p></td> 
-		<td style="text-align: center" align="center"></td>
-		<td style="text-align: center" align="center"> </td>
+		<td style="text-align: center" align="center"><p align="center"> Edson Diego Llamozas Diaz - U202319398  <img src="images/FotoEdson.jpg" alt="Foto Edson" width="40%"> </p></td> 
+		<td style="text-align: center" align="center">Me considero una persona orientada a buscar soluciones creativas y siempre me emociona poder aplicarlas a proyectos nuevos. Considero que el presente curso y proyecto me ayudarán a poner en práctica esas habilidades</td>
+		<td style="text-align: center" align="center">Gracias a cursos previos y a pequeños proyectos desarrollados de forma independiente tengo experiencia con tecnologías Frontend como Angular y React así como Backend como Django y Nodejs. Además de conocimientos complementarios de Networking y diseño de bases de datos. </td>
 	</TR>
   	<TR>
 		<td style="text-align: center" align="center"><p align="center"> José Luis Martinez Valdivia - U202213989  <img src="images/fotoJose.png" alt="Foto José" width="45%"> </p></td> 
