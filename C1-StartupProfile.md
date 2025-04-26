@@ -17,7 +17,7 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 
 **Logo del Producto:**
 
-![Alt Image](logo-producto.png)
+![Alt Image](images/logo-producto.png)
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
