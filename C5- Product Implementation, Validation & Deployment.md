@@ -35,7 +35,10 @@ Es una estructura utilizada para guiar la creación de un producto de software. 
 
 ### 5.1.2. Source Code Management
 
-A continuación, se describe la administración del código fuente. Su objetivo principal es llevar un registro de todos los cambios que el equipo realice en los archivos de código de sus proyectos, dentro de los repositorios designados. Se utilizará como un sistema de control de versiones, lo que permitirá rastrear las modificaciones que cada miembro  implemente en el proyecto. Es importante destacar que para este sistema de control de versiones se empleará GitHub. https://github.com/1ASI0730-2510-4370-G5-RepairLink
+A continuación, se describe la administración del código fuente. Su objetivo principal es llevar un registro de todos los cambios que el equipo realice en los archivos de código de sus proyectos, dentro de los repositorios designados. Se utilizará como un sistema de control de versiones, lo que permitirá rastrear las modificaciones que cada miembro  implemente en el proyecto. Es importante destacar que para este sistema de control de versiones se empleará GitHub. 
+
+Repositorio : https://github.com/1ASI0730-2510-4370-G5-RepairLink
+Web Services Repository: https://1asi0730-2510-4370-g5-repairlink.github.io/LandingPage/
 
 ESQUEMA DE CONTROL DE VERSIONES:
 
@@ -75,6 +78,45 @@ Para mantener nuestro código limpio, uniforme , en este proyecto utilizaremos l
 -Elegiremos nombres de clase cortos pero que expliquen bien su función, usando guiones bajos para separar las palabras y facilitar la lectura.
 
 -Añadiremos comentarios solo cuando sea necesario aclarar reglas de CSS que no sean obvias a primera vista.
+
+Esta sección describe el estilo y las convenciones del código fuente que se observan en este proyecto web para garantizar la coherencia y la mantenibilidad.
+
+## 1. Convenciones de HTML:
+
+* **Indentación:** El código HTML utiliza una indentación de **cuatro espacios** para los elementos anidados, lo que mejora la legibilidad y la estructura.
+* **HTML Semántico:** El código emplea elementos HTML5 semánticos como `<header>`, `<nav>`, `<main>`, `<section>` y `<footer>` para definir claramente la estructura y el propósito de las diferentes partes de la página web.
+* **Nomenclatura de Clases:** Los nombres de las clases CSS son generalmente descriptivos y utilizan minúsculas con guiones para separar las palabras (por ejemplo, `hero-box`, `segmented-container`, `language-switcher`).
+* **Image Handling:** Las etiquetas `<img>` incluyen el atributo `alt` para proporcionar texto alternativo para la accesibilidad y en caso de que la imagen no se pueda cargar.
+* **Navegación:** El elemento `<nav>` se utiliza para la navegación principal, y se emplean atributos `aria-label` para mejorar la accesibilidad. Los botones dentro de la navegación también utilizan `aria-label` para una mejor compatibilidad con lectores de pantalla.
+
+## 2. Convenciones de CSS:
+
+* **Nomenclatura de Selectores:** Los selectores de CSS utilizan principalmente nombres de clase descriptivos en minúsculas, separando palabras con guiones (kebab-case), lo que coincide con las clases utilizadas en el HTML.
+
+* **Organización:** El CSS está organizado en secciones lógicas, con comentarios que indican el propósito de cada sección (por ejemplo, `/*MIDDLE-REVIEWS*/`, `/*REPARATIONS*/`, `/*GOOFY AHH CONTAINER*/`, `/* Header Right Container */`, `/* Language Switcher Styles (updated) */`, `/* Logo-Account */`).
+
+* **Indentación:** Las reglas de estilo dentro de cada selector están indentadas con **cuatro espacios** para mejorar la legibilidad.
+
+* **Propiedades y Valores:** Las propiedades CSS se escriben en minúsculas, y los valores utilizan las convenciones estándar (por ejemplo, valores hexadecimales en minúsculas `#fcead2`, unidades como `px`, `%`, `em`).
+
+* **Uso de `font-family`:** Se definen claramente las fuentes utilizando la propiedad `font-family`, incluyendo una fuente principal y una fuente de respaldo (`'Roboto', sans-serif` y `'Roboto Slab', serif`).
+
+* **Modelo de Caja:** Se utilizan propiedades como `margin`, `padding`, `border`, `width`, `height` y `box-shadow` para definir el diseño y la apariencia de los elementos.
+
+* **Flexbox:** Se utiliza ampliamente Flexbox (`display: flex`, `flex-direction`, `align-items`, `justify-content`, `flex-wrap`, `gap`) para la disposición y el alineamiento de los elementos, tanto en el encabezado, la navegación, las secciones principales y el pie de página.
+
+* **Posicionamiento:** Se utiliza `position: fixed` para el encabezado y el pie de página, y `position: absolute` para elementos dentro de ellos.
+
+* **Z-index:** Se utiliza `z-index` para controlar el orden de apilamiento de elementos posicionados (`header`, `footer`).
+
+* **Pseudo-elementos:** Se utilizan pseudo-elementos (`::after`, `::before`) para añadir elementos visuales (líneas divisorias) sin necesidad de HTML adicional.
+
+* **Media Queries:** Se incluye una media query (`@media (max-width: 768px)`) para aplicar estilos específicos en pantallas más pequeñas, lo que indica un enfoque en el diseño responsivo.
+
+* **Transiciones:** Se utiliza la propiedad `transition` para crear efectos visuales suaves al interactuar con los elementos (por ejemplo, en los botones de navegación y los botones de idioma).
+
+* **Colores:** Se utilizan valores hexadecimales y `rgb()` para definir los colores de fondo, texto y bordes.
+
 
 ### 5.1.4. Software Deployment Configuration
 
@@ -179,6 +221,29 @@ Durante este Sprint, se completó la implementación del diseño y la estructura
 <img src="images/reviews.PNG" alt="images/reviews.PNG" style="width: 80%;">
 
 #### 5.2.1.5. Services Documentation Evidence for Sprint Review
+
+Con el objetivo de documentar adecuadamente la implementación de los servicios, se utilizaron herramientas de diseño y desarrollo enfocadas en la creación de la Landing Page de RepairLink.
+
+Herramientas utilizadas:
+
+Figma: Utilizado para la elaboración del prototipo de alta fidelidad de la Landing Page, documentando tanto la estructura visual como las interacciones básicas.
+
+HTML y CSS: Empleados para implementar el diseño de forma estructurada y estilizada, asegurando buenas prácticas de codificación y adaptabilidad responsive.
+
+Evidencias de documentación:
+
+Prototipo en Figma: Se desarrolló un prototipo navegable que refleja la organización y el flujo de navegación de la Landing Page.
+
+Enlace al prototipo en Figma: https://www.figma.com/design/VMTUTmSN9k1qX1JiXnVIgR/App-Web?node-id=6-14359&t=MIHuxbVO7Yhjmu4I-1
+
+Tipografía :
+
+En RepairLink se seleccionó una tipografía que equilibra elegancia y funcionalidad, reforzando la identidad visual de la aplicación. La fuente principal utilizada es Roboto, reconocida por su excelente legibilidad en dispositivos móviles y su estilo moderno y profesional. Para generar contraste en los textos y resaltar información relevante, se incorporó la fuente Roboto Slab, que aporta un aspecto llamativo y ayuda a captar la atención del usuario.
+
+Espaciados y márgenes consistentes para mejorar la experiencia de usuario.
+
+Estilos de botones y formularios acorde al diseño.
+
 
 #### 5.2.1.6. Software Deployment Evidence for Sprint Review
 
