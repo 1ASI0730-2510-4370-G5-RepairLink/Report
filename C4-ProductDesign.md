@@ -77,18 +77,20 @@ los Labelling Systems, Organization Systems, SEO, Meta Tags y Searaching y Navig
 |----------|----------|
 | Appliances | Seccion en la cual se mostraran los dispositivos principales disponibles en nuestra plataforma  |
 | Locations   | Ciudades y distritos en donde nuestra plataforma esta disponible |
- <br**Be a technician** <br>
+
+ <br>**Be a technician:** <br>
  En esta seccion se muestran las caracteristicas de la plataforma para los tecnicosm y la suscripcion opcional
  a la cual pueden acceder.
 
- <br **Reviews:** <br>
+ <br> **Reviews:** <br>
  Esta seccion mostarara los comentarios dejado por los tecnicos y los clientes respecto a la calidad de plataforma web
- <br **Log In:** <br
+ <br> **Log In:** <br>
 | Topico  | Definicion |
 |----------|----------|
 | Log In | Seccion en la cual se autenticaran las credenciales de un perfil ya existente para acceder a este  |
 | Sign Up   | Seccion en la caul se requerira llenar campos con datos personales para poder registrase tanto como Tecnico o Cliente |
- <br **Responsive Design:** <br
+ 
+ <br> **Responsive Design:** <br>
 Sera posible tener una experiencia fluida y adaptable para los diferentes dispositivos por los cuales el usuario ingrese a la plataforma
 ### 4.2.2.Labeling Systems
  Se ha decidido usar etiquetas, estas permitiran organizar en grupos las secciones de la plataforma web. Estas seras accesibles dando click
@@ -103,25 +105,28 @@ Sera posible tener una experiencia fluida y adaptable para los diferentes dispos
 ### 4.2.3.SEO Tags and Meta Tags
 Las Meta Tags permiten codificar y detallar los metadatos que una pagina web contiene. Estas son leidas por navegadores y no pueden ser vistos por los usuarios. Gracias
 a estas etiquetas, se facilita la lectura y analisis de archivos HTML.
-<br>**Titulo**<br>
+
+<br>**Titulo:**<br>
+
 Las Meta Tags influyen en el posicionamiento de paginas dentro de los diferentes motores de busqueda existentes. <br>
 `<title>Repair your gadgets with us REPAIRLINK</title>` <br>
-**Codificacion de caracteres** <br>
+**Codificacion de caracteres:** <br>
 Para el desarrollo se uso UFT-8. Esto debido a su eficiencia en termios de memoria para caracteres BMP (Plano Multingue Basico) <br>
 `<meta charset="utf-8>"` <br>
-**Descripcion**<br
+**Descripcion:**<br>
+
 Nos permite brindar una breve despricion de lo que los usuarios pueden encontrar en la pagina web. <br>
 `<meta name="description" content="RepairLink is a web app that will help you find technicians capable of fixing your gadgets"/>`
- <br**Palabras Clave** <br>
-Etiqueta la cual permite destacar palabras claves realcionadas con el proposito de la pagina web. <br
+ <br>**Palabras Clave:** <br>
+Etiqueta la cual permite destacar palabras claves realcionadas con el proposito de la pagina web. <br>
 `<meta name="keywords" content="repair, gadgets, appliances, technicians, save"/>`
- <br**Autor y derechos de autor**<br>
- Registra los dererchos de autor, propiedad y autor de la pagina web. <br
+ <br>**Autor y derechos de autor:**<br>
+ Registra los dererchos de autor, propiedad y autor de la pagina web. <br>
 `<meta name="author" content="RepairLink"/>` <br>
 `<meta name="copyright" content="Copyright RepairLink Team"/>`
 ### 4.2.4.Searching Systems
  El Searching System es de vital importancia para que los usuarios pueden encontrar los datos que buscan
- <br**Caracteristicas Claves** <br>
+ <br>**Caracteristicas Claves** <br>
 ***Busqueda por producto:*** Los usuarios pueden busacr en base a que tipo de producto desean reparar <br>
  ***Busqueda por marca:*** Los usaurio pueden buscar la marca a la cual su producto a reparar pertenece <br>
  ***Busqueda por tecnico:*** Los usuarios pueden elegir que tecnino desean que repare su producto <br>
