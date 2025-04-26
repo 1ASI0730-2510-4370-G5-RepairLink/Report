@@ -31,7 +31,7 @@ Producto: RepairLink
 |      Sebastian Cordova Valdivia       | U20..... |
 |      Stanley Jeremy Gutierrez Tume       | U202118152 |
 |      Edson Diego Llamozas Diaz          | U20..... |
-|      José Luis Martinez Valdivia       | U20...... |
+|      José Luis Martinez Valdivia       | U202213989 |
 |      Karen Stephanie Ramos Carpio          | U20201e493 |
 
 Abril 2025
