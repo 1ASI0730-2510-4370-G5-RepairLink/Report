@@ -81,8 +81,7 @@ Para mantener nuestro código limpio, uniforme , en este proyecto utilizaremos l
 En esta sección se detalla el proceso de despliegue de los productos digitales desarrollados para la solución. A partir de los repositorios de código fuente en GitHub, el despliegue de cada componente se realizará de la siguiente manera:
 
 *Landing Page:
-
-Para el desarrollo del Landing Page de RepairLink se han utilizado las siguientes herramientas.
+HTML: sirve de referencia del software que interactúa con la elaboración de páginas web en sus diferentes versiones.
 
 Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenidorealizado en su rama individual.
 
