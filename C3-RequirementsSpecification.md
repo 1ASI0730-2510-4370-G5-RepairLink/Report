@@ -2,15 +2,15 @@
 
 ## 3.1. To-Be Scenario Mapping
 
-> Describiremos cómo funcionará la plataforma en su estado ideal, desde el punto de vista de los principales actores  
+ Describiremos cómo funcionará la plataforma en su estado ideal, desde el punto de vista de los principales actores  
 
-> Segmento Cliente:
-> 
-> <img src="images/To-Be-Cliente.jpg" alt="Impact Map Client">
+Segmento Cliente:
 
-> Segmento Técnico:
-> 
-> <img src="images/To-Be-Tecnico.jpg" alt="Impact Map Tech">
+![Alt Text](images/To-Be-Cliente.jpg)
+
+Segmento Técnico:
+ 
+![Alt Text](images/To-Be-Tecnico.jpg)
 
 ## 3.2. User Stories
 
@@ -274,13 +274,13 @@
 
 ## 3.3. Impact Mapping
 
-> Segmento Cliente:
-> 
-> <img src="images/Impact-map-Cliente.png" alt="Impact Map Client">
+Segmento Cliente:
+ 
+![Alt Text](images/Impact-map-Cliente.png)
 
-> Segmento Técnico:
-> 
-> <img src="images/Impact-Map-Tec.png" alt="Impact Map Tech">
+Segmento Técnico:
+ 
+![Alt Text](images/Impact-Map-Tec.png)
 
 ## 3.4. Product Backlog
 
