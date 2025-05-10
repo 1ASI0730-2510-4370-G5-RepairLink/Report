@@ -177,7 +177,7 @@ En esta seccion se mostraran los productos a los cuales se le pueden realizar re
 ### 4.3.2.Landing Page Mock-up
  **Web Version - Home Page:** <br>
  Esta sera la seccion inicial a la cual el usuario sera enviado al momento de ingresar a nuestra plataforma. Aqui se mostrara proceso por el cual nuestro servicio es ofrecido. <br>
-    ![Alt Text](images/MockUo-Home.png)
+    ![Alt Text](images/MockUp-Home.png)
 
  **Web Version - Reparations:** <br>
 En esta seccion se mostraran los productos a los cuales se le pueden realizar reparacion <br>
@@ -185,7 +185,7 @@ En esta seccion se mostraran los productos a los cuales se le pueden realizar re
 
  **Web Version - Be a technician:** <br>
  Seccion en la cual se mostraran los beneficios de unirte a nuestra plataforma como tecnico reparador <br>
-    ![Alt Text](images/MockUp-BeATech.png)
+    ![Alt Text](images/MockUo-BeATech.png)
 
  "Web Version - Reviews:" <br>
  Seccion en la cual se mmostraran las opiniones de nuestros usuarios, tanto clientes como tecnicos <br
@@ -287,7 +287,7 @@ En esta seccion se mostraran los productos a los cuales se le pueden realizar re
 ### 4.6.2.Software Architecture Container Diagrams. <br>
  Este diagram nos permite tener una vision enfocada al desarrollo. Se muestra la forma en la que los usuarios interactuan con la Landing Page, Web App y Mobile App.
  A la vez que se muestra como estas plataformas interactuan con los servicios externos vinculados. <br>
-    ![Alt Text](images/DDD-ContainerDiagram.png)
+    ![Alt Text](images/DDD-ContainerDIagram.png)
 
 ### 4.6.3.Software Architecture Components Diagrams. <br>
 En esta seccion se muestra los diagramas de comppnentes de cada uno de los bounded contexts definidos. <br>
