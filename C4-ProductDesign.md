@@ -298,7 +298,7 @@ En esta seccion se muestra los diagramas de comppnentes de cada uno de los bound
     ![Alt Text](images/DDD-Booking.png)
 
  **LocationRouting - Component** <br>
-    ![Alt Text](images/DDD-LocationRouting.pngg)
+    ![Alt Text](images/DDD-LocationRouting.png)
 
  **Notification - Component:** <br>
     ![Alt Text](images/DDD-Notification.png)
@@ -456,7 +456,7 @@ En esta seccion se muestra los diagramas de comppnentes de cada uno de los bound
 - Permite enviar y consultar reseñas.
 
 
-### 🔷 7. **Notification Context**
+###  7. **Notification Context**
 
 #### `Notification`
 - **Descripción**: Representa una notificación enviada a un usuario.
@@ -474,7 +474,7 @@ En esta seccion se muestra los diagramas de comppnentes de cada uno de los bound
 
 
 
-### 🔷 8. **Availability Context**
+### 8. **Availability Context**
 
 #### `AvailabilitySlot`
 - **Descripción**: Rango de tiempo donde un técnico está disponible.
@@ -492,7 +492,7 @@ En esta seccion se muestra los diagramas de comppnentes de cada uno de los bound
 
 
 
-### 🔁 Relaciones entre Contextos (en español)
+### Relaciones entre Contextos
 
 | Desde → Hacia                     | Tipo de Relación       | Descripción                                                   |
 |-----------------------------------|-------------------------|---------------------------------------------------------------|
