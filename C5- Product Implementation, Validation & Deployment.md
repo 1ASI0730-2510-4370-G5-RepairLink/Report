@@ -192,12 +192,8 @@ Sum of Story Points:12
 
 
 #### 5.2.1.2. Sprint Backlog 1
-En esta sección se muestran los tasks que se realizaron en el presente sprint y se adjunta una captura del trello y el link del tablero.
-Enlace trello: https://trello.com/b/sUUvMIr3/apps
+En esta sección se muestran los tasks que se realizaron en el presente sprint:
 
-![TRELLO](images/TRELLO.PNG)
-
-![SPRINT BACKLOG](images/SPRINTBACKLOG.PNG)
 
 
 #### 5.2.1.3. Development Evidence for Sprint Review
