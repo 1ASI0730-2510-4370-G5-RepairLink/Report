@@ -27,7 +27,7 @@ Segmento Técnico:
     <tr>
       <td>US-001</td>
       <td>Landing Page - Home</td>
-      <td>Como usuario cliente, quiero encontrar una página atractiva donde pueda ver una descripción sobre qué ofrece la plataforma desde la sección inicial de la página.</td>
+      <td>Como visitante, quiero encontrar una página atractiva donde pueda ver una descripción sobre qué ofrece la plataforma desde la sección inicial de la página.</td>
       <td>
         Escenario: Visualización de la descripción<br>
         Dado que el visitante accede a la landing page<br>
@@ -38,7 +38,7 @@ Segmento Técnico:
     <tr>
       <td>US-002</td>
       <td>Sección - Reparaciones</td>
-      <td>Como usuario cliente, quiero ver los tipos de dispositivos o problemas que se pueden reparar, para saber si me pueden ayudar.</td>
+      <td>Como visitante, quiero ver los tipos de dispositivos o problemas que se pueden reparar, para saber si me pueden ayudar.</td>
       <td>
         Escenario: Explorar tipos de reparaciones<br>
         Dado que el visitante baja hasta la sección “Reparaciones”<br>
@@ -49,7 +49,7 @@ Segmento Técnico:
     <tr>
       <td>US-003</td>
       <td>Sección - Reseñas</td>
-      <td>Como usuario cliente, quiero ver reseñas de otros usuarios para generar confianza en el servicio.</td>
+      <td>Como visitante, quiero ver reseñas de otros usuarios para generar confianza en el servicio.</td>
       <td>
         Escenario: Testimonios y reseñas<br>
         Dado que el visitante accede a la sección de “Reseñas”<br>
@@ -60,7 +60,7 @@ Segmento Técnico:
     <tr>
       <td>US-004</td>
       <td>Sección - Sé un Técnico</td>
-      <td>Como usuario técnico interesado, quiero ver una sección que me explique cómo puedo unirme a la website.</td>
+      <td>Como visitante interesado, quiero ver una sección que me explique cómo puedo unirme a la website.</td>
       <td>
         Escenario: Información para técnicos<br>
         Dado que el visitante accede a la sección de “Sé un técnico”<br>
@@ -71,7 +71,7 @@ Segmento Técnico:
     <tr>
       <td>US-005</td>
       <td>Sección - Contacto</td>
-      <td>Como usuario cliente, quiero tener un formulario de contacto simple para enviar dudas o comentarios.</td>
+      <td>Como visitante, quiero tener un formulario de contacto simple para enviar dudas o comentarios.</td>
       <td>
         Escenario: Formulario de Contacto<br>
         Dado que el visitante llega a la sección “Contacto”<br>
