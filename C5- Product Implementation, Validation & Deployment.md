@@ -206,7 +206,7 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint:
 **Sprint Velocity:** 12 puntos  
 **Fecha del Sprint:** 06-04-2025  
 
-
+![TRELLO](images/TRELLO.PNG)
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
