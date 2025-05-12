@@ -184,7 +184,7 @@ Sprint 1– Retrospective Summary: En esta retrospectiva, el equipo discutió c�
 
 Sprint Goal & User Stories: -
 
-Sprint 1 goal: Diseñar e implementar el Landing Page con el objetivo de concretar nuestra propuesta de valor. Documentación.
+Sprint 1 goal: Diseñar e implementar el Landing Page con el objetivo de concretar nuestra propuesta de valor.
 
 Sprint 1 Velocity: 12
 
@@ -193,6 +193,18 @@ Sum of Story Points:12
 
 #### 5.2.1.2. Sprint Backlog 1
 En esta sección se muestran los tasks que se realizaron en el presente sprint:
+
+| Story ID | Título                        | Descripción breve                                              | Estimación (Story Points) | Estado      | Responsable                         |
+|----------|-------------------------------|-----------------------------------------------------------------|----------------------------|-------------|-------------------------------------|
+| US-001   | Landing Page - Home           | Página inicial con descripción y botón de acción.              | 3                          | Completado  | Karen Ramos                         |
+| US-002   | Sección - Reparaciones        | Información visual sobre tipos de reparaciones disponibles.    | 2                          | Completado  | Sebastián Córdova                   |
+| US-003   | Sección - Reseñas             | Mostrar testimonios y calificaciones de clientes.              | 2                          | Completado  | Stanley Gutiérrez                   |
+| US-004   | Sección - Sé un Técnico       | Explicación sobre cómo registrarse como técnico.                | 2                          | Completado  | Edson Llamozas                      |
+| US-005   | Sección - Contacto            | Formulario de contacto para dudas y comentarios.               | 3                          | Completado  | José Luis Martínez                  |
+
+**Sprint Goal:** Diseñar e implementar el Landing Page con el objetivo de concretar nuestra propuesta de valor.  
+**Sprint Velocity:** 12 puntos  
+**Fecha del Sprint:** 06-04-2025  
 
 
 
