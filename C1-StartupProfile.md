@@ -153,4 +153,35 @@ Mediremos esto mediante la tasa de conversión a planes pagos, el promedio de se
 La plataforma está diseñada para ofrecer soluciones adaptadas a las necesidades específicas de cada grupo, asegurando una gestión efectiva y personalizada de sus necesidades, identificamos dos segmentos principales:
 
 - **Usuarios con dispositivos dañados** (electrodomésticos, electrónicos, herramientas, etc.).
+  	Aspectos demográficos:
+
+	Sexo: Masculino y Femenino
+	Edad: 18-40 años
+	Aspectos geográficos:
+	
+	Nacionalidad: Peruana
+	Departamento: Lima
+	Aspectos psicográficos:
+	
+	Buscan soluciones económicas y ecológicas para reparar dispositivos dañados, preferiblemente sin tener que comprar nuevos.
+	Están interesados en alternativas flexibles y rápidas, que no impliquen largas esperas o complicaciones.
+	Prefieren soluciones tecnológicas simples, como aplicaciones o plataformas que les permitan gestionar reparaciones sin procesos complejos.
+	Valoran la accesibilidad a las reparaciones, como contar con reparadores cercanos.
+
 - **Técnicos y reparadores independientes** que buscan clientes y herramientas avanzadas para su negocio.
+
+	Aspectos demográficos:
+	
+	Sexo: Masculino y Femenino
+	Edad: 20-45 años
+	Aspectos geográficos:
+	
+	Nacionalidad: Peruana
+	Departamento: Lima
+	Aspectos psicográficos:
+	
+	Están interesados en generar ingresos adicionales mediante el ofrecimiento de sus servicios.
+	Buscan plataformas confiables y seguras para gestionar sus clientes y pagos de forma sencilla.
+	Desean formar parte de una comunidad colaborativa, donde tanto ellos como los usuarios se beneficien mutuamente.
+	Valoran visibilidad online, como tener una plataforma con mapas interactivos que permitan a los clientes ver la disponibilidad de servicios cerca de su ubicación.
+	Están familiarizados con el uso de tecnologías y herramientas digitales para facilitar la gestión de su negocio (reservas, pagos, y contacto con clientes).
