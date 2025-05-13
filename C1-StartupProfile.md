@@ -11,14 +11,6 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 
 **Visión:** Ser la plataforma líder en reparación sostenible en Perú, transformando la cultura del consumo a través de la tecnología y fomentando una economía circular donde reparar sea la primera opción frente a desechar. Aspiramos a empoderar a técnicos independientes, reducir el impacto ambiental de los residuos electrónicos y construir una comunidad consciente, conectada y resiliente.
 
-**Logo del Startup:**
-
-![Alt Image](images/logo-servicio.png)
-
-**Logo del Producto:**
-
-![Alt Image](images/logo-producto.png)
-
 ### 1.1.2 Perfiles de integrantes del equipo
 
 <TABLE BORDER>
