@@ -47,32 +47,51 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 </TABLE>
 
 ## 1.2 Solution Profile
+
+RepairLink es una plataforma web innovadora, pensada para conectar usuarios con técnicos reparadores de dispositivos en Lima Metropolitana, facilitando la reparación de electrodomésticos, electrónicos, herramientas y más. A través de una interfaz amigable y un sistema de búsqueda eficiente, los usuarios pueden encontrar técnicos cercanos a su ubicación, verificar su disponibilidad y contratar sus servicios, mientras que los reparadores pueden gestionar su agenda y ofrecer sus precios. Gracias a su diseño accesible y fácil de usar, RepairLink promueve una solución eficiente y económica para aquellos que buscan reparar sus dispositivos, reduciendo el desperdicio y fomentando la sostenibilidad, al mismo tiempo que brinda a los técnicos una plataforma para expandir su alcance y mejorar su negocio.
+
 ### 1.2.1 Antecedentes y problemática
 Para identificar el contexto en el que se situa RepairLink, utilizaremos la técnica de las 5 W's y 2 H's.
 
 #### 1.2.1.1. Las 5 W's:
 
 - **What (Qué):**<br>
-RepairLink es una plataforma digital que conecta a personas con dispositivos o electrodomésticos dañados con técnicos independientes calificados. Los usuarios pueden subir fotos y descripciones de sus productos dañados para recibir presupuestos de reparación, comparar opciones y contratar directamente desde la app. La plataforma promueve la reparación como una alternativa sostenible al reemplazo.
+	- ¿Cuál es el problema?
+	La falta de acceso flexible, económico y sostenible que conecta a personas con dispositivos o electrodomésticos dañados con técnicos independientes calificados.
+	
+	- ¿Cuál es la relación con la persona en cuestión?
+	Buscamos ofrecer a los ciudadanos una solución práctica, os usuarios pueden subir fotos y descripciones de sus productos dañados para recibir presupuestos de reparación, comparar opciones y 		contratar directamente desde la app. La plataforma promueve la reparación como una alternativa sostenible al reemplazo.
 
 - **Why (Por qué):**<br>
-Porque actualmente muchas personas optan por reemplazar sus productos en lugar de repararlos, generando más residuos electrónicos y gasto innecesario. Al mismo tiempo, miles de técnicos independientes tienen poca visibilidad y dificultades para conseguir clientes. RepairLink surge para:
-	- Fomentar la economía circular.
-	- Reducir el impacto ambiental.
-	- Facilitar el acceso a reparaciones confiables y accesibles.
-	- Generar oportunidades para técnicos y reparadores locales.
+	- ¿Cuál es la causa del problema?
+	Actualmente muchas personas optan por reemplazar sus productos en lugar de repararlos, generando más residuos electrónicos y gasto innecesario. Al mismo tiempo, miles de técnicos 			independientes tienen poca visibilidad y dificultades para conseguir clientes.
 
 - **Who (Quién):**<br>
-El producto está dirigido a las personas que tienen electrodomésticos dañados y buscan una solución rápida y confiable sin desechar el productoy las personas que se desempeñan como técnicos que son reparadores y técnicos independientes que buscan ampliar su cartera de clientes y profesionalizar sus servicio.
+	- ¿Quiénes están involucrados?
+	Ciudadanos con dispositivos dañados, usuarios que necesitan repuestos, autoridades municipales interesadas en soluciones sostenibles
+
+	- ¿A quiénes le sucede el problema?
+	A ciudadanos que necesitan reparar electrodomésticos, herramientas, electrónicos y otros dispositivos, pero no cuentan con los recursos o conocimientos para hacerlo. También a propietarios 		que desean encontrar técnicos confiables y rápidos sin tener que desechar sus dispositivos dañados.
+	
+	- ¿Quién lo utilizará?
+	Personas que tienen dispositivos dañados y buscan una solución económica y rápida para repararlos, como estudiantes, trabajadores y familias. Además, técnicos independientes y reparadores que 	buscan ampliar su base de clientes, profesionalizar sus servicios y obtener acceso a una plataforma eficiente para gestionar su trabajo.
 
 - **Where (Dónde):**<br>
-En zonas urbanas y suburbanas donde hay gran uso de electrodomésticos y falta de acceso a servicios técnicos rápidos, estaria disponible en formato app móvil y plataforma web, accesible desde cualquier dispositivo.
+	- ¿Dónde está el cliente cuando usa el producto?
+	Desde cualquier lugar con acceso a internet: su casa, trabajo, universidad, parque, estacionamiento o incluso mientras se desplaza por la ciudad.
+
+	- ¿A dónde se dirige?
+	Nuestro producto se dirige a los ciudadanos de Lima Metropolitana que buscan una solución eficiente y económica para la reparación de dispositivos. Está orientado a dos grupos clave: los 		propietarios de electrodomésticos, herramientas y electrónicos dañados que buscan una reparación rápida y confiable, y los técnicos independientes que desean ampliar su cartera de clientes, 		mejorar su visibilidad y profesionalizar sus servicios. RepairLink ofrece una plataforma práctica y segura para conectar ambos perfiles y facilitar el proceso de reparación.
+
+	- ¿Dónde surge el problema?
+	El problema surge cuando los dispositivos de los usuarios se dañan, pero no tienen acceso inmediato a un servicio técnico confiable y accesible. Esto sucede en hogares, oficinas, tiendas o 		incluso en el espacio público, donde las personas no quieren desechar sus productos dañados y buscan una solución económica y rápida para repararlos. Además, los técnicos independientes 		enfrentan dificultades para acceder a nuevos clientes y gestionar su agenda de forma eficiente.
 
 - **When (Cuándo):**<br>
-	- Cuando un producto deja de funcionar y el usuario no sabe si vale la pena repararlo.
-	- Cuando un técnico desea mejorar su visibilidad y acceder a más oportunidades laborales.
-	- Durante campañas de concientización sobre reciclaje, sostenibilidad y economía circular.
-	- En cualquier momento en que se necesite reparar un dispositivo, de manera simple y confiable.
+	- ¿Cuándo sucede el problema?
+	El problema ocurre cuando los dispositivos de los usuarios se dañan y necesitan una solución rápida, pero no encuentran opciones accesibles o confiables para repararlos. Esto puede suceder en 	cualquier momento cuando un dispositivo importante como un electrodoméstico, herramienta o equipo electrónico deja de funcionar, y el usuario necesita que se repare con urgencia para evitar 		interrupciones en sus actividades cotidianas.
+	
+	- ¿Cuándo utiliza el cliente el producto?
+	El cliente usa RepairLink cuando necesita reparar un dispositivo dañado de manera rápida y confiable. Esto puede ocurrir en cualquier momento cuando el dispositivo se rompe o deja de 			funcionar correctamente, ya sea en su hogar, trabajo, o mientras realiza alguna actividad que dependa del uso de ese equipo. Los usuarios recurren a la plataforma para encontrar técnicos 		cercanos, gestionar reparaciones de manera eficiente y evitar la necesidad de desechar productos que aún podrían ser funcionales tras una reparación.
 
 #### 1.2.1.2. Las 2 H's:
 
@@ -93,15 +112,20 @@ Suscripciones premium de técnicos.
 Espacio para venta de repuestos reutilizados (modelo marketplace).
 
 ### 1.2.2 Lean UX Process
+
+El lean UX es un enfoque de diseño que se centra en la eficiencia y la adaptabilidad, buscando crear productos y servicios que respondan de manera efectiva a las verdaderas necesidades de los usuarios. Este método enfatiza la colaboración entre equipos, la recopilación constante de feedback y la iteración ágil para desarrollar soluciones que realmente impacten y mejoren la experiencia del usuario.
+
 #### 1.2.2.1. Lean UX Problem Statements
-RepairLink es una plataforma digital enfocada en la conexión entre usuarios con electrodomésticos dañados y técnicos independientes calificados. Su objetivo es brindar una solución eficiente, transparente y sostenible para la reparación de dispositivos, fomentando el cuidado del medio ambiente, el ahorro económico y el empoderamiento de profesionales técnicos.
 
-Hemos identificado que, en el contexto actual, muchas personas enfrentan dificultades a la hora de reparar sus electrodomésticos. La falta de acceso a técnicos confiables, los precios poco claros y la percepción de que “es mejor comprar que reparar” llevan al descarte prematuro de productos que aún podrían tener una larga vida útil. Al mismo tiempo, los técnicos y reparadores independientes encuentran barreras para visibilizar sus servicios y conectar con nuevos clientes de forma profesional y segura.
-Esto genera un ciclo problemático: mayor producción de residuos electrónicos, gastos innecesarios para las familias y pérdida de oportunidades laborales para los técnicos. Además, se debilita el concepto de economía circular, clave para un desarrollo más sustentable.
+El estado actual del ámbito de reparación de electrodomésticos se ha centrado principalmente en la dificultad para acceder a técnicos confiables, precios poco claros y una tendencia a descartar productos en lugar de repararlos, lo que genera una mayor producción de residuos electrónicos y gastos innecesarios para las familias. Además, los técnicos independientes enfrentan barreras para visibilizar sus servicios y conectar de forma profesional con nuevos clientes.
 
-¿Cómo podríamos resolver estos problemas mediante una herramienta digital que conecte de forma ágil, segura y transparente a usuarios y técnicos? La solución debe facilitar el proceso de solicitud de reparaciones, mejorar la confianza en el servicio técnico, promover la reparación como primera opción y ofrecer a los profesionales herramientas que los ayuden a gestionar su trabajo y crecer en el mercado.
+Lo que los servicios existentes no logran abordar es la falta de una plataforma digital que facilite la conexión ágil, segura y transparente entre usuarios y técnicos, promoviendo la reparación como una opción viable, económica y ecológica, mientras empodera a los profesionales del sector.
 
-RepairLink propone así un entorno donde reparar sea fácil, accesible y socialmente valorado, generando impacto económico, social y ambiental positivo a largo plazo.
+Nuestro producto, RepairLink, abordará esta brecha mediante una plataforma digital que conecta a usuarios con electrodomésticos dañados y técnicos calificados de forma eficiente y transparente. Facilitaremos el proceso de solicitud de reparaciones, mejoraremos la confianza en el servicio técnico, y promoveremos la reparación como primera opción para reducir el desperdicio y fomentar la economía circular.
+
+Nuestro enfoque inicial será el segmento de usuarios que buscan soluciones rápidas, confiables y económicas para la reparación de electrodomésticos, así como técnicos independientes que desean ampliar su cartera de clientes y profesionalizar sus servicios.
+
+Sabremos que hemos tenido éxito cuando observemos un aumento en el número de reparaciones realizadas a través de la plataforma, la reducción en el número de dispositivos descartados prematuramente y un incremento en la satisfacción y fidelidad tanto de los usuarios como de los técnicos.
 
 #### 1.2.2.2. Lean UX Assumptions
 
@@ -124,26 +148,75 @@ Integrar una pasarela de pago segura con opción a pago por adelantado, contraen
 Disponer de un área de gestión para técnicos suscritos, que incluya estadísticas de desempeño, agenda de trabajos, y herramientas administrativas básicas.
 Brindar soporte técnico y asistencia en caso de conflictos o problemas durante el servicio.
 
+a. Assumption Worksheet
+
+¿Quién será nuestro usuario?
+Usuarios con dispositivos dañados que buscan una solución rápida y confiable para su reparación, como electrodomésticos, herramientas y dispositivos electrónicos. Además, técnicos independientes que buscan ampliar su cartera de clientes y profesionalizar sus servicios..
+
+¿Dónde encaja nuestro producto en su vida?
+RepairLink encaja en la vida del usuario cuando un dispositivo se daña y necesita una reparación rápida y accesible, sin tener que desecharlo o incurrir en altos costos. Para los técnicos, encaja como una plataforma que les permite conectar con clientes potenciales, gestionar sus citas y aumentar su visibilidad profesional.
+
+¿Qué problemas tiene nuestro producto y cómo se pueden resolver?
+El principal problema es la falta de confianza en los servicios de reparación y la dificultad para encontrar técnicos confiables. Esto se puede resolver mediante un sistema de calificaciones y reseñas, donde los usuarios puedan ver la reputación de los técnicos, junto con una plataforma intuitiva que facilite la búsqueda de reparadores calificados.
+
+¿Cómo y cuándo es usado nuestro producto?
+La plataforma es utilizada principalmente desde dispositivos móviles cuando el usuario necesita encontrar un técnico para reparar un dispositivo dañado, o cuando el técnico quiere registrar sus servicios y recibir solicitudes. El uso puede ocurrir en cualquier momento que se presente la necesidad de una reparación, especialmente cuando se daña un dispositivo esencial para las actividades diarias.
+
+¿Cómo debe verse nuestro producto y cómo debe comportarse?
+El producto debe tener una interfaz moderna, clara y fácil de usar, permitiendo a los usuarios y técnicos navegar sin complicaciones. La plataforma debe mostrar los técnicos disponibles de manera destacada y permitir reservas fáciles. La experiencia debe ser confiable, rápida y segura, incluso con un alto volumen de usuarios.
+
+¿Qué características son importantes?
+Sistema de calificación y reputación de técnicos.
+Búsqueda eficiente de técnicos cercanos o especializados.
+Interfaz intuitiva y fácil de usar tanto para usuarios como técnicos.
+Notificaciones en tiempo real sobre el estado de las reparaciones.
+Procesos de pago seguros y transparentes.
+Funciones para gestionar incidencias, cancelaciones y reembolsos.
+
+b. Business Outcomes
+
+- RepairLink será reconocida como una solución confiable y accesible para la reparación de dispositivos electrónicos y electrodomésticos, posicionándose como la plataforma preferida tanto por usuarios como técnicos.
+- Aumentará la base de técnicos registrados y activos, creando un ecosistema de reparaciones más dinámico y diversificado.
+- Incrementará el número de usuarios que recurren a la plataforma para reparar dispositivos en lugar de desecharlos, promoviendo la economía circular y la sostenibilidad.
+- Mejorará la satisfacción del usuario mediante un proceso de reparación ágil, con buenas calificaciones para los técnicos y transacciones seguras.
+- El negocio crecerá a través de la fidelización de usuarios y la recomendación de los técnicos satisfechos, contribuyendo a un crecimiento orgánico.
+
+c. User Outcomes
+
+- Los usuarios tendrán acceso a una plataforma fácil de usar para encontrar y contratar técnicos calificados, con la seguridad de que sus dispositivos serán reparados de manera profesional y confiable.
+- Los técnicos independientes podrán registrar sus servicios, recibir solicitudes de reparación y aumentar su visibilidad, lo que les permitirá expandir su cartera de clientes y mejorar su profesionalismo.
+- Los usuarios y técnicos podrán beneficiarse de un sistema de calificación que aumentará la confianza y la transparencia en cada transacción.
+- Los usuarios recibirán notificaciones sobre el progreso de sus reparaciones, recordatorios sobre el estado de sus dispositivos y promociones, lo que fomentará su participación continua en la plataforma.
+- La plataforma proporcionará una experiencia de usuario optimizada mediante un sistema de búsqueda eficiente y un proceso de pago seguro y transparente, lo que incrementará la satisfacción y fidelización de los usuarios.
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 - **1st Hypothesis Statement:** <br>
-Nosotros creemos que si implementamos una funcionalidad donde los usuarios puedan subir fácilmente fotos y descripciones de sus productos dañados,
-Cuando los usuarios completen su solicitud en la plataforma,
-Veremos que se incrementa el número de presupuestos recibidos y la rapidez con la que los técnicos responden,
-Mediremos esto a través del tiempo promedio de respuesta, la cantidad de presupuestos generados por solicitud, y la tasa de conversión a reparaciones efectivas.
+Nosotros creemos que si implementamos una funcionalidad donde los arrendatarios puedan alquilar bicicletas de manera rápida y confiable a través de nuestra plataforma móvil,
+Cuando los arrendatarios utilicen la plataforma para encontrar bicicletas cercanas y realizar su alquiler,
+Veremos que se incrementa la satisfacción y confianza de los usuarios al momento de alquilar, con un aumento en la frecuencia de alquileres.
+Mediremos esto a través de encuestas trimestrales de satisfacción, la tasa de retorno de los arrendatarios, y el número de alquileres recurrentes realizados a través de la plataforma.
 
 - **2nd Hypothesis Statement:** <br>
-Nosotros creemos que si desarrollamos un sistema de reputación basado en calificaciones y comentarios después de cada reparación,
-Cuando los usuarios dejen su feedback y los técnicos acumulen evaluaciones públicas,
-Veremos que la confianza en la plataforma aumentará, generando más contrataciones recurrentes y reduciendo los conflictos por mala calidad del servicio,
-Mediremos esto a través de la tasa de repetición de contrataciones, la evolución del promedio de calificaciones, y encuestas de satisfacción general del servicio.
+Nosotros creemos que si implementamos un sistema de gestión eficiente para los arrendadores, permitiendo que registren y gestionen sus bicicletas de forma fácil,
+Cuando los arrendadores utilicen la plataforma para administrar la disponibilidad y el alquiler de sus bicicletas,
+Veremos que aumentará la cantidad de bicicletas registradas y la frecuencia de alquileres, generando ingresos adicionales.
+Mediremos esto a través de la cantidad de bicicletas registradas, la frecuencia de alquileres por bicicleta, y encuestas de satisfacción de los arrendadores.
 
 - **3rd Hypothesis Statement:** <br>
-Nosotros creemos que si ofrecemos a los técnicos una sección premium con mayor visibilidad, herramientas administrativas y acceso prioritario a solicitudes,
-Cuando los técnicos se suscriban a esta modalidad y gestionen su trabajo desde la plataforma,
-Veremos una mejora en su desempeño, fidelización con la plataforma y aumento en sus ingresos mensuales,
-Mediremos esto mediante la tasa de conversión a planes pagos, el promedio de servicios contratados por técnico premium y la retención de suscriptores en un periodo de tres meses.
+Nosotros creemos que si desarrollamos un sistema de notificaciones en tiempo real sobre la disponibilidad de bicicletas y la gestión de reservas,
+Cuando los arrendatarios reciban actualizaciones sobre la disponibilidad de bicicletas y el estado de sus alquileres,
+Veremos un aumento en la eficiencia del proceso de alquiler y una mayor satisfacción de los usuarios.
+Mediremos esto a través de la tasa de uso del sistema de notificaciones, la frecuencia de alquileres, y encuestas de satisfacción relacionadas con la experiencia de uso de la plataforma.
+
+- **4th Hypothesis Statement:** <br>
+Nosotros creemos que si implementamos un sistema de calificaciones y verificación de identidad para los arrendatarios,
+Cuando los arrendadores reciban información detallada sobre la identidad y reputación de los arrendatarios a través de calificaciones,
+Veremos que los arrendadores confiarán más en la plataforma y aceptarán más solicitudes de alquiler, reduciendo las cancelaciones y los incidentes.
+Mediremos esto a través de la tasa de aceptación de solicitudes, la tasa de cancelación de alquileres, y encuestas de satisfacción de los arrendadores sobre la confianza en la plataforma.
 
 #### 1.2.2.4. Lean UX Canvas
+
+https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525
 
  <img src="images/Lean-UX-Canvas.png" alt="Imagen del Lean UX Canvas" style="width: 80%;">
 
@@ -153,6 +226,7 @@ Mediremos esto mediante la tasa de conversión a planes pagos, el promedio de se
 La plataforma está diseñada para ofrecer soluciones adaptadas a las necesidades específicas de cada grupo, asegurando una gestión efectiva y personalizada de sus necesidades, identificamos dos segmentos principales:
 
 - **Usuarios con dispositivos dañados** (electrodomésticos, electrónicos, herramientas, etc.).
+  
   	Aspectos demográficos:
 
 	Sexo: Masculino y Femenino
@@ -163,10 +237,10 @@ La plataforma está diseñada para ofrecer soluciones adaptadas a las necesidade
 	Departamento: Lima
 	Aspectos psicográficos:
 	
-	Buscan soluciones económicas y ecológicas para reparar dispositivos dañados, preferiblemente sin tener que comprar nuevos.
-	Están interesados en alternativas flexibles y rápidas, que no impliquen largas esperas o complicaciones.
-	Prefieren soluciones tecnológicas simples, como aplicaciones o plataformas que les permitan gestionar reparaciones sin procesos complejos.
-	Valoran la accesibilidad a las reparaciones, como contar con reparadores cercanos.
+	- Buscan soluciones económicas y ecológicas para reparar dispositivos dañados, preferiblemente sin tener que comprar nuevos.
+	- Están interesados en alternativas flexibles y rápidas, que no impliquen largas esperas o complicaciones.
+	- Prefieren soluciones tecnológicas simples, como aplicaciones o plataformas que les permitan gestionar reparaciones sin procesos complejos.
+	- Valoran la accesibilidad a las reparaciones, como contar con reparadores cercanos.
 
 - **Técnicos y reparadores independientes** que buscan clientes y herramientas avanzadas para su negocio.
 
@@ -180,8 +254,8 @@ La plataforma está diseñada para ofrecer soluciones adaptadas a las necesidade
 	Departamento: Lima
 	Aspectos psicográficos:
 	
-	Están interesados en generar ingresos adicionales mediante el ofrecimiento de sus servicios.
-	Buscan plataformas confiables y seguras para gestionar sus clientes y pagos de forma sencilla.
-	Desean formar parte de una comunidad colaborativa, donde tanto ellos como los usuarios se beneficien mutuamente.
-	Valoran visibilidad online, como tener una plataforma con mapas interactivos que permitan a los clientes ver la disponibilidad de servicios cerca de su ubicación.
-	Están familiarizados con el uso de tecnologías y herramientas digitales para facilitar la gestión de su negocio (reservas, pagos, y contacto con clientes).
+	- Están interesados en generar ingresos adicionales mediante el ofrecimiento de sus servicios.
+	- Buscan plataformas confiables y seguras para gestionar sus clientes y pagos de forma sencilla.
+	- Desean formar parte de una comunidad colaborativa, donde tanto ellos como los usuarios se beneficien mutuamente.
+	- Valoran visibilidad online, como tener una plataforma con mapas interactivos que permitan a los clientes ver la disponibilidad de servicios cerca de su ubicación.
+	- Están familiarizados con el uso de tecnologías y herramientas digitales para facilitar la gestión de su negocio (reservas, pagos, y contacto con clientes).
