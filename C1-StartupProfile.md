@@ -131,23 +131,6 @@ Sabremos que hemos tenido éxito cuando observemos un aumento en el número de r
 
 ##### 1.2.2.2.1. Assumptions:
 
-Existe una demanda creciente por una solución digital que facilite la reparación de electrodomésticos, debido a los altos costos de reemplazo, la dificultad para encontrar técnicos confiables y la necesidad de alargar la vida útil de los productos.
-Las personas están dispuestas a subir información (fotos, descripciones, etc.) de sus aparatos dañados si eso les permite obtener presupuestos rápidos y opciones de reparación accesibles y seguras.
-Los técnicos y reparadores independientes están interesados en visibilizar sus servicios en una plataforma que les permita captar clientes, gestionar solicitudes y mejorar su reputación profesional.
-Una interfaz simple, transparente y confiable será clave para la adopción tanto por parte de los usuarios como de los técnicos.
-Se espera que el modelo de comisión por reparación y suscripción premium para técnicos sea sostenible y atractivo, ya que resuelve problemas reales de conectividad, visibilidad y confianza.
-Se asume que la plataforma será técnicamente viable y escalable, pudiendo manejar múltiples solicitudes, fotos, presupuestos y perfiles de técnicos simultáneamente.
-
-##### 1.2.2.2.2. Features:
-
-Permitir a los usuarios subir fotos y descripciones de sus electrodomésticos dañados, generando solicitudes públicas para que técnicos puedan enviar presupuestos.
-Ofrecer a los técnicos una sección de oportunidades donde puedan ver las solicitudes según su ubicación, experiencia y disponibilidad.
-Incorporar un sistema de reputación basado en calificaciones y comentarios de clientes para aumentar la confianza y profesionalización del servicio.
-Facilitar la comunicación directa entre usuarios y técnicos mediante un sistema de chat interno dentro de la plataforma.
-Integrar una pasarela de pago segura con opción a pago por adelantado, contraentrega o garantía post-servicio.
-Disponer de un área de gestión para técnicos suscritos, que incluya estadísticas de desempeño, agenda de trabajos, y herramientas administrativas básicas.
-Brindar soporte técnico y asistencia en caso de conflictos o problemas durante el servicio.
-
 a. Assumption Worksheet
 
 ¿Quién será nuestro usuario?
