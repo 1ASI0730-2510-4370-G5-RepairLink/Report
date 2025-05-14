@@ -224,61 +224,61 @@ En esta seccion se mostraran los productos a los cuales se le pueden realizar re
     ![Alt Text](images/Wireframe-WebProf.PNG)
 
 ### 4.4.2.Web Applications Wireflow Diagrams
-User Goal: Registro rápido de usuario
+User Goal: Registro rápido de usuario<br>
 Como usuario customer, quiero crear una cuenta fácilmente para acceder a los servicios de reparación.<br>
      ![Alt Text](images/Wireflow2.PNG)
      
-User Goal: Registro de técnico
+User Goal: Registro de técnico<br>
 Como usuario technician, quiero registrarme en la plataforma, para crear un perfil inicial con mis datos personales y la posibilidad de iniciar sesión.<br>
-    ![Alt Text](images/Wireflow6.PNG)
+    ![Alt Text](images/Wireflow1.PNG)
 
-User Goal: Creación de perfil profesional y carga de documentos
+User Goal: Creación de perfil profesional y carga de documentos<br>
 Como usuario technician, quiero completar mi perfil profesional con mis habilidades y experiencia, para que pueda ser encontrado por otros usuarios para solicitudes de reparación.<br>
     ![Alt Text](images/Wireflow5.PNG)
 
-User Goal: Inicio de sesión en la aplicación
+User Goal: Inicio de sesión en la aplicación<br>
 Como usuario customer o technician, quiero ser capaz de iniciar sesión en la aplicación para poder ver los servicios que ofrece RepairLink.<br>
     ![Alt Text](images/Wireflow1.PNG)
     
-User Goal: Ciere de sesión en la aplicación
+User Goal: Ciere de sesión en la aplicación<br>
 Como usuario customer o technician, deseo tener la capacidad de finalizar la sesión en mi cuenta después de utilizar la aplicación, con el fin de garantizar que algun externo pueda acceder a mis datos de la aplicación ni a la información personal que he proporcionado en ella..<br>
     ![Alt Text](images/Wireflow8.PNG)
     
-User Goal: Subir información del dispositivo
+User Goal: Subir información del dispositivo<br>
 Como usuario customer, quiero subir fotos y una descripción de mi dispositivo dañado para recibir un diagnóstico.<br>
     ![Alt Text](images/Wireflow9.PNG)
     
-User Goal: Recibir presupuestos
+User Goal: Recibir presupuestos<br>
 Como usuario cliente, quiero recibir varios presupuestos de técnicos para comparar diferentes opciones y elegir la mejor.<br>
     ![Alt Text](images/Wireflow10.PNG)
 
-User Goal: Ver reputación de técnicos
+User Goal: Ver reputación de técnicos<br>
 Como usuario cliente, quiero ver la reputación de los técnicos para tomar una decisión concreta.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow11.PNG)
 
-User Goal: Agendar Cita
+User Goal: Agendar Cita<br>
 Como usuario cliente, quiero agendar una cita directamente desde la plataforma para que sea más cómodo.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow12.PNG)
     
-User Goal: Notificaciones de casos
+User Goal: Notificaciones de casos<br>
 Como usuario cliente, quiero agendar una cita directamente desde la plataforma para que sea más cómodo.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow17.PNG)
 
-User Goal: Gestión de citas y clientes
+User Goal: Gestión de citas y clientes<br>
 Como usuario técnico, quiero gestionar mis citas y clientes desde la plataforma para organizar mi trabajo.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow12.PNG)
 
-User Goal: Facturación
+User Goal: Facturación<br>
 Como usuario técnico, quiero acceder a herramientas de facturación para llevar control de mis servicios.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow15.PNG)
 
-User Goal: Calificaciones y comentarios
+User Goal: Calificaciones y comentarios<br>
 Como usuario técnico, quiero recibir calificaciones y comentarios para mejorar mi perfil y reputación.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow14.1.PNG)
 
-User Goal: Acceso rápido a mis solicitudes
+User Goal: Acceso rápido a mis solicitudes<br>
 Como usuario cliente, quiero ver un resumen de mis solicitudes desde el inicio, para revisar rápidamente su estado.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow13.PNG)
     
 ### 4.4.3.Web Applications Mock-ups
  **Web Version - Login:** <br>
@@ -309,67 +309,67 @@ Como usuario cliente, quiero ver un resumen de mis solicitudes desde el inicio, 
     ![Alt Text](images/Mockups-WebProf.PNG)
 
 ### 4.4.4.Web Applications User Flow Diagrams
-User Goal: Registro rápido de usuario
+User Goal: Registro rápido de usuario<br>
 Como usuario customer, quiero crear una cuenta fácilmente para acceder a los servicios de reparación.<br>
-     ![Alt Text](images/Wireflow2.PNG)
+     ![Alt Text](images/Wireflow2.1.PNG)
 
-Error al crear una cuenta nueva
+Error al crear una cuenta nueva<br>
      ![Alt Text](images/Wireflow2.2.PNG)
      
-User Goal: Registro de técnico
+User Goal: Registro de técnico<br>
 Como usuario technician, quiero registrarme en la plataforma, para crear un perfil inicial con mis datos personales y la posibilidad de iniciar sesión.<br>
-    ![Alt Text](images/Wireflow6.PNG)
+    ![Alt Text](images/Wireflow1.1.PNG)
 
-User Goal: Creación de perfil profesional y carga de documentos
+User Goal: Creación de perfil profesional y carga de documentos<br>
 Como usuario technician, quiero completar mi perfil profesional con mis habilidades y experiencia, para que pueda ser encontrado por otros usuarios para solicitudes de reparación.<br>
-    ![Alt Text](images/Wireflow5.PNG)
+    ![Alt Text](images/Wireflow5.1.PNG)
 
-User Goal: Inicio de sesión en la aplicación
+User Goal: Inicio de sesión en la aplicación<br>
 Como usuario customer o technician, quiero ser capaz de iniciar sesión en la aplicación para poder ver los servicios que ofrece RepairLink.<br>
-    ![Alt Text](images/Wireflow1.PNG)
+    ![Alt Text](images/Wireflow1.1.PNG)
 
-Error al ingresar a la cuenta
+Error al ingresar a la cuenta<br>
      ![Alt Text](images/Wireflow1.2.PNG)
     
-User Goal: Ciere de sesión en la aplicación
+User Goal: Ciere de sesión en la aplicación<br>
 Como usuario customer o technician, deseo tener la capacidad de finalizar la sesión en mi cuenta después de utilizar la aplicación, con el fin de garantizar que algun externo pueda acceder a mis datos de la aplicación ni a la información personal que he proporcionado en ella..<br>
     ![Alt Text](images/Wireflow8.1.PNG)
     
-User Goal: Subir información del dispositivo
+User Goal: Subir información del dispositivo<br>
 Como usuario customer, quiero subir fotos y una descripción de mi dispositivo dañado para recibir un diagnóstico.<br>
     ![Alt Text](images/Wireflow9.1.PNG)
     
-User Goal: Recibir presupuestos
+User Goal: Recibir presupuestos<br>
 Como usuario cliente, quiero recibir varios presupuestos de técnicos para comparar diferentes opciones y elegir la mejor.<br>
     ![Alt Text](images/Wireflow10.1.PNG)
 
-User Goal: Ver reputación de técnicos
+User Goal: Ver reputación de técnicos<br>
 Como usuario cliente, quiero ver la reputación de los técnicos para tomar una decisión concreta.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow11.1.PNG)
 
-User Goal: Agendar Cita
+User Goal: Agendar Cita<br>
 Como usuario cliente, quiero agendar una cita directamente desde la plataforma para que sea más cómodo.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow12.1.PNG)
     
-User Goal: Notificaciones de casos
+User Goal: Notificaciones de casos<br>
 Como usuario cliente, quiero agendar una cita directamente desde la plataforma para que sea más cómodo.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow17.1.PNG)
 
-User Goal: Gestión de citas y clientes
+User Goal: Gestión de citas y clientes<br>
 Como usuario técnico, quiero gestionar mis citas y clientes desde la plataforma para organizar mi trabajo.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow12.1.PNG)
 
-User Goal: Facturación
+User Goal: Facturación<br>
 Como usuario técnico, quiero acceder a herramientas de facturación para llevar control de mis servicios.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow15.1.PNG)
 
-User Goal: Calificaciones y comentarios
+User Goal: Calificaciones y comentarios<br>
 Como usuario técnico, quiero recibir calificaciones y comentarios para mejorar mi perfil y reputación.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow14.PNG)
 
-User Goal: Acceso rápido a mis solicitudes
+User Goal: Acceso rápido a mis solicitudes<br>
 Como usuario cliente, quiero ver un resumen de mis solicitudes desde el inicio, para revisar rápidamente su estado.<br>
-    ![Alt Text](images/Wireflow7.PNG)
+    ![Alt Text](images/Wireflow13.1.PNG)
 
 ## 4.5.Web Applications Prototyping
 ## 4.6.Domain-Driven Software Architecture
