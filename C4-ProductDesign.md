@@ -372,7 +372,7 @@ Como usuario cliente, quiero ver un resumen de mis solicitudes desde el inicio, 
     ![Alt Text](images/Wireflow13.1.PNG)
 
 ## 4.5.Web Applications Prototyping
- ![Alt Text](images/protoping.PNG)
+ ![Alt Text](images/protoping.png)
 https://youtu.be/nOvF-pWTBMU.<br>
     
 ## 4.6.Domain-Driven Software Architecture
