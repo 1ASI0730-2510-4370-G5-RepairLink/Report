@@ -13,38 +13,14 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 
 ### 1.1.2 Perfiles de integrantes del equipo
 
-<TABLE BORDER>
-	<TR>
-		<TH><h2>Intregantes</h2></TH> 
-		<TH><h2>Descripción</h2></TH>
-		<TH><h2>Conocimientos</h2></TH>
-	</TR>
-  	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Sebastian Cordova Valdivia - U202111041  <img src="images/fotoSebas.jpg" alt="Foto Sebastian" width="40%"> </p></td> 
-		<td style="text-align: center" align="center"> Me considero una persona responsable, tranquila y sociable, siempre en la búsqueda de mejorar en diversos aspectos de mi vida. Disfruto escuchar música, jugar al baloncesto, leer y en tiempos libres jugar videojuegos para relajarme un rato. </td>
-		<td style="text-align: center" align="center"> Durante mi formación académica, he adquirido conocimientos en C++, Python y desarrollo web con HTML, CSS y JavaScript. Lo que me brindó la oportunidad de usar el framework de Angular, creando aplicaciones web dinámicas y eficientes. </td>
-	</TR>
-  	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Stanley Jeremy Gutierrez Tume - U202118152  <img src="images/fotoStanley..jpg" alt="Foto Stanley" width="45%"> </p></td> 
-		<td style="text-align: center" align="center"> Soy una persona responsable, perseverante y comprometida con los objetivos que me propongo.Considero que cada experiencia es una oportunidad para crecer, y busco aplicar mis conocimientos en contextos que implican análisis y solución de problemas. A lo largo de la carrera he aprendido a trabajar en equipo lo cuál me ayudó y me ayudará a ser mejor y a su vez aprender más cosas de cada uno de los miembros del equipo. </td>
-		<td style="text-align: center" align="center"> A lo largo de mi formación académica, he adquirido competencias en lógica de programación, estructuras de datos y desarrollo orientado a objetos. Estos aprendizajes me han permitido desarrollar un enfoque analítico para la resolución de problemas y una capacidad de adaptación frente a distintos entornos tecnológicos. Asimismo, he participado en diversos proyectos que han fortalecido mis habilidades para el trabajo en equipo y la gestión de tareas.</td>
-	</TR>
-	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Edson Diego Llamozas Diaz - U202319398  <img src="images/FotoEdson.jpg" alt="Foto Edson" width="40%"> </p></td> 
-		<td style="text-align: center" align="center">Me considero una persona orientada a buscar soluciones creativas y siempre me emociona poder aplicarlas a proyectos nuevos. Considero que el presente curso y proyecto me ayudarán a poner en práctica esas habilidades</td>
-		<td style="text-align: center" align="center">Gracias a cursos previos y a pequeños proyectos desarrollados de forma independiente tengo experiencia con tecnologías Frontend como Angular y React así como Backend como Django y Nodejs. Además de conocimientos complementarios de Networking y diseño de bases de datos. </td>
-	</TR>
-  	<TR>
-		<td style="text-align: center" align="center"><p align="center"> José Luis Martinez Valdivia - U202213989  <img src="images/fotoJose.png" alt="Foto José" width="45%"> </p></td> 
-		<td style="text-align: center" align="center">Me considero una persona dedicada, constante y con un fuerte sentido de compromiso hacia las metas que me propongo. Veo cada desafío como una oportunidad para aprender y desarrollarme tanto personal como profesionalmente. Me motiva enfrentar situaciones que requieren pensamiento crítico y encontrar soluciones efectivas. Durante mi carrera he fortalecido mi capacidad para colaborar en equipo, lo cual no solo me ha permitido crecer, sino también aprender de las habilidades y perspectivas de los demás.</td>
-		<td style="text-align: center" align="center"> Cuento con conocimiento de programacion orientada a objetos, virtualizacion, Angular y AWS. Cuento con buena adaptacion al cambio y a los retos que se me presenten en proyectos.</td>
-	</TR>
-	<TR>
-		<td style="text-align: center" align="center"><p align="center"> Karen Ramos Carpio - U20201E493 <img src="images/fotoKaren.JPG" alt="Foto Karen" width="50%"> </p></td>
-		<td style="text-align: center" align="center">Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en 		equipo para poder llegar a los objetivos definidos por la empresa.Tengo un alto sentido del compromiso y la responsabilidad por lo que puedo garantizar que la tarea que me sea asignada será gestionada con 		diligencia.</td>
-		<td style="text-align: center" align="center">Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML CSS. Además de .NET, .Net Core, 		Angular, React y Kendo UI.Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándose de que se 		completen en el plazo establecido</td>
-	</TR>
-</TABLE>
+| **Integrantes** | **Descripción** | **Conocimientos** |
+|-----------------|------------------|---------------------|
+| **Sebastian Cordova Valdivia - U202111041**<br>![Foto Sebastian](images/fotoSebas.jpg) | Me considero una persona responsable, tranquila y sociable, siempre en la búsqueda de mejorar en diversos aspectos de mi vida. Disfruto escuchar música, jugar al baloncesto, leer y en tiempos libres jugar videojuegos para relajarme un rato. | Durante mi formación académica, he adquirido conocimientos en C++, Python y desarrollo web con HTML, CSS y JavaScript. Lo que me brindó la oportunidad de usar el framework de Angular, creando aplicaciones web dinámicas y eficientes. |
+| **Stanley Jeremy Gutierrez Tume - U202118152**<br>![Foto Stanley](images/fotoStanley..jpg) | Soy una persona responsable, perseverante y comprometida con los objetivos que me propongo. Considero que cada experiencia es una oportunidad para crecer, y busco aplicar mis conocimientos en contextos que implican análisis y solución de problemas. A lo largo de la carrera he aprendido a trabajar en equipo, lo cual me ayudó y me ayudará a ser mejor y aprender más cosas de cada uno de los miembros del equipo. | A lo largo de mi formación académica, he adquirido competencias en lógica de programación, estructuras de datos y desarrollo orientado a objetos. Estos aprendizajes me han permitido desarrollar un enfoque analítico para la resolución de problemas y una capacidad de adaptación frente a distintos entornos tecnológicos. Asimismo, he participado en diversos proyectos que han fortalecido mis habilidades para el trabajo en equipo y la gestión de tareas. |
+| **Edson Diego Llamozas Diaz - U202319398**<br>![Foto Edson](images/FotoEdson.jpg) | Me considero una persona orientada a buscar soluciones creativas y siempre me emociona poder aplicarlas a proyectos nuevos. Considero que el presente curso y proyecto me ayudarán a poner en práctica esas habilidades. | Gracias a cursos previos y a pequeños proyectos desarrollados de forma independiente tengo experiencia con tecnologías Frontend como Angular y React así como Backend como Django y Node.js. Además de conocimientos complementarios de Networking y diseño de bases de datos. |
+| **José Luis Martinez Valdivia - U202213989**<br>![Foto José](images/fotoJose.png) | Me considero una persona dedicada, constante y con un fuerte sentido de compromiso hacia las metas que me propongo. Veo cada desafío como una oportunidad para aprender y desarrollarme tanto personal como profesionalmente. Me motiva enfrentar situaciones que requieren pensamiento crítico y encontrar soluciones efectivas. Durante mi carrera he fortalecido mi capacidad para colaborar en equipo, lo cual no solo me ha permitido crecer, sino también aprender de las habilidades y perspectivas de los demás. | Cuento con conocimiento de programación orientada a objetos, virtualización, Angular y AWS. Cuento con buena adaptación al cambio y a los retos que se me presenten en proyectos. |
+| **Karen Ramos Carpio - U20201E493**<br>![Foto Karen](images/fotoKaren.JPG) | Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en equipo para poder llegar a los objetivos definidos por la empresa. Tengo un alto sentido del compromiso y la responsabilidad, por lo que puedo garantizar que la tarea que me sea asignada será gestionada con diligencia. | Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML, CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándome de que se completen en el plazo establecido. |
+
 
 ## 1.2 Solution Profile
 
@@ -201,7 +177,7 @@ Mediremos esto a través de la tasa de aceptación de solicitudes, la tasa de ca
 
 https://app.mural.co/t/opso6836/m/opso6836/1712598445725/0636fb07984bf6d4efa16afadcf32ed49794f9cd?sender=u3a3ac67b672d09ad13ca4525
 
- <img src="images/Lean-UX-Canvas.png" alt="Imagen del Lean UX Canvas" style="width: 80%;">
+ ![Alt Text](images/Lean-UX-Canvas.png)
 
 
 ## 1.2 Segmento objetivo
