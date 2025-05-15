@@ -370,6 +370,7 @@ Durante la realizacion de este sprint 2 se realizo el deployment de la Fake-Api 
 - Render: <br>
 <br>
 ![Render](images/FakeApi.png)
+
 <br>
 
 - Netlify: <br>
