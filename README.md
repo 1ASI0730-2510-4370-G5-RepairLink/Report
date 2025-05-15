@@ -57,59 +57,10 @@ Abril 2025
 # **Student Outcomes**
 - ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 
-<table style="border-collapse: collapse; width: 100%; border: 1px solid black;">
-  <thead>
-    <tr style="border-bottom: 1px solid black;">
-      <th style="border-right: 1px solid black;">Criterio Específico</th>
-      <th style="border-right: 1px solid black;">Acciones Realizadas</th>
-      <th>Conclusiones</th>
-    </tr>
-  </thead>
-    <tbody>
-    <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
-      <td style="border-right: 1px solid black;">
-          <p><strong>TB1</strong></p>
-	  <p>- Karen Ramos: En esta entrega me encargue del desarrollo del capítulo 1. Por otro lado me ncargue de apoyar en el desarrollo del capítulo 4, 	   wireframes y mockups mobile, desktop de la app web. Adicional a eso me encargue de la sección de “Reparations” del desarrollo del Landing Page. 	   Ademas, colaboré con la elaboración de una entrevista del segmento de Customers. Estas actividades me ayudaron a tomar el liderazgo junto con mi 	  equipo y llegar a la meta todos juntos. <br>
-	   - Jose Martinez: La realizacion de la TB1 me ha permitido trabajar en un ambiente nuevo, el cual ha requerido de mejorar mi habilidad de 
-           adaptacion a los cambios. Esto sera de gran ayuda en el futuro al colaborar en nuevos proyectos con diferentes desarrolladores. <br>		  
-	   -  Gutierrez Tume Stanley Jeremy: En este entregable el trabajo en equipo me ha sido productivo ya que cada uno aportaba ideas y conocimientos 
-           para realizar el trabajo, y me permitió reforzar mis conocimientos
-	   y contribuí en las tareas asignadas durante las reuniones de equipo. <br>
-		- Sebastián Córdova: En esta entrega, me encargué del desarrollo del Capítulo 3, donde trabajé en las secciones de To-Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog. Además, desarrollé la sección 'Be a Technician' de la Landing Page. Estas actividades me permitieron fortalecer mis habilidades en trabajo en equipo y en la aplicación de conceptos clave de la carrera.
-	  </p>
-	</td>
-	<td> <p><strong>TB1</strong></p>
-		Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como 			sustento escrito para comprender los pasos seguidos en la planificación, desarrollo y envío del proyecto, trabajando en equipo </td>
-      <br>
-     </tr>
-      <tr style="border-bottom: 1px solid black;">
-      <td style="border-right: 1px solid black;"><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
-      <td style="border-right: 1px solid black;">
- 	<p><strong>TB1</strong></p>
-	      - Karen Ramos: Durante el desarrollo de este trabajo aprendí a desenvolverme en un entorno colaborativo, respetando y valorando las ideas del 
-              equipo. Aprendí a establecer metas claras desde el inicio, dividir responsabilidades de forma equitativa y organizar las tareas según 
-              prioridades. Gracias a esto, logré cumplir con los objetivos propuestos en el tiempo establecido, mejorando mi capacidad para trabajar de 
-             manera eficiente y contribuir activamente al logro del resultado final. <br>
-	  - Jose Martinez: Gracias a la elaboracion del trabajo he logrado mejorar mis habilidades de trabajo en equipo, delegar tareas y poder cumplir mis 	metas trazadas en un rango de tiempo asignado. Esto me ha permitido mejorar el tiempo con el que realizo ciertas tareas y la eficiencia de estas.  <br>
-	- Gutierrez Tume Stanley Jeremy: En este entregable definimos metas claras y específicas para el proyecto, asu vez planificamos y asignamos tareas 
-        para asegurar que se cumplan los objetivos.Cada uno se aguró de cumplir con sus partes del trabajo , esto ayudó a mejorar la coordinación y 
-        comunición en el grupo. <br>
-      	- Sebastián Córdova: A lo largo del desarrollo de este entregable, he logrado mejorar significativamente mis habilidades de trabajo en equipo. Esto se debe a que se asignaron tareas clave a cada miembro, lo que favoreció un aprendizaje más profundo en la elaboración y contextualización de la entrega. Este proceso ha sido clave para comprender la relevancia de los conceptos que hemos aprendido durante nuestra carrera, demostrando cómo estos se aplican de manera práctica en un entorno colaborativo.
-      </td>
-      <br>
-	      <td>
-		      <p><strong>TB1</strong></p>
-		      Durante el desarrollo del trabajo, fortalecimos nuestra capacidad para colaborar en un entorno inclusivo, escuchando activamente las ideas del equipo y aportando soluciones constructivas. Participamos en la planificación de tareas, ayudando a establecer metas claras y distribuyendo responsabilidades de manera organizada. Esta experiencia nos permitió mejorar en eficiencia, cumplir con los plazos establecidos y contribuir de forma significativa al avance del proyecto.
-	      </td>
-     </tr>
-  </tbody>
-</table>
-
 | Criterio Específico | Acciones Realizadas | Conclusiones |
 |---------------------|---------------------|--------------|
-| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **TB1**<br>- **Karen Ramos**: En esta entrega me encargué del desarrollo del capítulo 1. También apoyé en el capítulo 4, wireframes y mockups mobile y desktop de la app web. Me encargué de la sección de “Reparations” del Landing Page. Colaboré en la entrevista del segmento Customers. Estas actividades me ayudaron a tomar el liderazgo junto con mi equipo.<br>- **José Martinez**: La realización de la TB1 me permitió trabajar en un ambiente nuevo, mejorando mi capacidad de adaptación a los cambios.<br>- **Stanley Jeremy Gutierrez Tume**: Este trabajo en equipo fue productivo ya que cada uno aportó ideas y conocimientos, reforzando mis habilidades y contribuyendo activamente.<br>- **Sebastián Córdova**: Me encargué del Capítulo 3, incluyendo To-Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog. También desarrollé la sección 'Be a Technician' del Landing Page. Esto fortaleció mis habilidades en equipo y aplicación de conceptos clave. | **TB1**<br>Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento para comprender los pasos en la planificación, desarrollo y entrega del proyecto, trabajando en equipo. |
-| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **TB1**<br>- **Karen Ramos**: Aprendí a desenvolverme en un entorno colaborativo, respetando y valorando ideas. Establecimos metas claras, dividimos responsabilidades y organizamos tareas. Esto mejoró mi eficiencia y contribución al resultado final.<br>- **José Martinez**: Mejoré mis habilidades para delegar tareas y cumplir metas en el tiempo asignado, aumentando mi eficiencia.<br>- **Stanley Jeremy Gutierrez Tume**: Definimos metas claras, planificamos y asignamos tareas para cumplir los objetivos, mejorando la coordinación y comunicación.<br>- **Sebastián Córdova**: Mejoré mi trabajo en equipo al asumir tareas clave, lo cual favoreció el aprendizaje y aplicación práctica de conceptos de la carrera. | **TB1**<br>Fortalecimos nuestra capacidad de colaborar en un entorno inclusivo, escuchando ideas y aportando soluciones. Participamos en la planificación de tareas, establecimos metas claras y distribuimos responsabilidades. Esta experiencia mejoró nuestra eficiencia, cumplimiento de plazos y contribución al proyecto. |
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **TB1**<br>- **Karen Ramos**: En esta entrega me encargué del desarrollo del capítulo 1. También apoyé en el capítulo 4, wireframes y mockups mobile y desktop de la app web. Me encargué de la sección de “Reparations” del Landing Page. Colaboré en la entrevista del segmento Customers. Estas actividades me ayudaron a tomar el liderazgo junto con mi equipo.<br>- **José Martinez**: La realización de la TB1 me permitió trabajar en un ambiente nuevo, mejorando mi capacidad de adaptación a los cambios.<br>- **Stanley Jeremy Gutierrez Tume**: Este trabajo en equipo fue productivo ya que cada uno aportó ideas y conocimientos, reforzando mis habilidades y contribuyendo activamente.<br>- **Sebastián Córdova**: Me encargué del Capítulo 3, incluyendo To-Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog. También desarrollé la sección 'Be a Technician' del Landing Page. Esto fortaleció mis habilidades en equipo y aplicación de conceptos clave. <br> **TB2**<br> **Jose Martinez**: Me encargue de documentar los commits hechos en el repositorio Frontend y me encargue de hacer mergue a las diferentes ramas para la consolidacion parcial del aplicativo. | **TB1**<br>Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento para comprender los pasos en la planificación, desarrollo y entrega del proyecto, trabajando en equipo. <br>**TB2** <br>El trabajo permitió consolidar nuestras habilidades colaborativas, superando desafíos a lo largo del desarrollo y generando aprendizajes significativos que se reflejan en la calidad del entregable final. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **TB1**<br>- **Karen Ramos**: Aprendí a desenvolverme en un entorno colaborativo, respetando y valorando ideas. Establecimos metas claras, dividimos responsabilidades y organizamos tareas. Esto mejoró mi eficiencia y contribución al resultado final.<br>- **José Martinez**: Mejoré mis habilidades para delegar tareas y cumplir metas en el tiempo asignado, aumentando mi eficiencia.<br>- **Stanley Jeremy Gutierrez Tume**: Definimos metas claras, planificamos y asignamos tareas para cumplir los objetivos, mejorando la coordinación y comunicación.<br>- **Sebastián Córdova**: Mejoré mi trabajo en equipo al asumir tareas clave, lo cual favoreció el aprendizaje y aplicación práctica de conceptos de la carrera. <br>**TB2**<br> **Jose Martinez**: Consegui mnejar mis tiempos para la realizacion de tareas correspondientes, lo cual permitio progresar con mi trabajo a un ritmo oportuno| **TB1**<br>Fortalecimos nuestra capacidad de colaborar en un entorno inclusivo, escuchando ideas y aportando soluciones. Participamos en la planificación de tareas, establecimos metas claras y distribuimos responsabilidades. Esta experiencia mejoró nuestra eficiencia, cumplimiento de plazos y contribución al proyecto. <br> **TB2**<br> Este proyecto nos permitió desarrollar nuevas habilidades técnicas y fortalecer competencias individuales, al enfrentarnos a situaciones que requirieron iniciativa, pensamiento crítico y adaptabilidad en distintos momentos del proceso. |
 
 
 # **Project Report Online**
