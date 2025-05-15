@@ -306,6 +306,13 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint:
 
 #### 5.2.2.3. Aspect Leaders and Collaborators
 #### 5.2.2.4. Development Evidence for Sprint Review
+
+A continuación se presentan informacion de los commits del FrontedEnd con el uso de HTML, CSS, Typescript y Vue:
+
+| Repository   | Branch   | Commit Id                                | Commit Message                                                        | Commited on         |
+|--------------|----------|------------------------------------------|------------------------------------------------------------------------|--------------------|
+|              |          |                                          |                                                                        |                    |
+
 #### 5.2.2.5. Execution Evidence for Sprint Review
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
