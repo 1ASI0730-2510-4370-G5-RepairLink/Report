@@ -323,10 +323,10 @@ Glosario de términos clave para garantizar comunicación clara y consistente.
 
 #### **Ejemplos de Uso**  
 **Para técnicos**:  
->Actualicé el **inventario de repuestos** y el sistema generó un **ETA** de 3 horas. El cliente recibió una **actualización de estado** con foto del proceso"*  
+Actualicé el **inventario de repuestos** y el sistema generó un **ETA** de 3 horas. El cliente recibió una **actualización de estado** con foto del proceso"*  
 
 **Para clientes**:  
-> *"Mi **reparación en curso** muestra un **ETA** de 2h."*  
+ *"Mi **reparación en curso** muestra un **ETA** de 2h."*  
 
 ---
 
@@ -351,4 +351,4 @@ Glosario de términos clave para garantizar comunicación clara y consistente.
 ---
 
 **Impacto**:  
-Este lenguaje unificado reducirá errores de comunicación y alineará expectativas entre técnicos, clientes y desarrolladores. 🛠️✅
+Este lenguaje unificado reducirá errores de comunicación y alineará expectativas entre técnicos, clientes y desarrolladores.
