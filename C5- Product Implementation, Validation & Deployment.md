@@ -363,5 +363,20 @@ Estas funcionalidades consolidan la base operativa de la plataforma, permitiendo
 
 **Link del proyecto:** https://github.com/1ASI0730-2510-4370-G5-RepairLink/Frontend
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
+Para este sprint no se implemento API alguna ya que no realizo el desarrollo de un backend. Sin embargo, se realizo una FakeApi.
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+Durante la realizacion de este sprint 2 se realizo el deployment de la Fake-Api y el FrontEnd realizado en VueJS. Los servicios usados para estos fueron los siguientes respectivamente:
+
+- Render: <br>
+<br>
+![Render](images/FakeApi.png)
+<br>
+
+- Netlify: <br>
+![Netlify](images/Netlify.png)
+<br>
+
+- Video Implementacion: https://shorturl.at/MaTQ7 <br>
+![video](images/video.png)
+<br>
 #### 5.2.2.8. Team Collaboration Insights during Sprint
