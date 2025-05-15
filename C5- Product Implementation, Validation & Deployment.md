@@ -330,6 +330,13 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint:
 ![TRELLO]()
 
 #### 5.2.2.3. Aspect Leaders and Collaborators
+|Team Member | GitHub Username |  Delegating Responsibilities <br> Leader (L) / Collaborator (C) | Merging Branches <br>Leader (L) /Collaborator (C)| Correcting Mistakes <br> Leader (L) /Collaborator (C)|
+| Jose Luis Martinez Validiva | hmongus  |    L   |    L     | C  |
+| Sebastian Cordova Valdivia	 | Sevas04  |    C   |     C    | C  |
+| Stanley Jeremy Gutierrez Tume	 | Stan-gt213891  |  C     |   C      |  C  |
+| Edson Diego Llamozas Diaz	 | DiegoLlamozas  |    C   |    C     |   C   |
+| Karen Stephanie Ramos Carpio	 | KarenRamos2  |   C    |    C     |   L   |
+
 #### 5.2.2.4. Development Evidence for Sprint Review
 
 A continuación se presentan informacion de los commits del FrontedEnd con el uso de PrimeVue, CSS, JavaScript y Vue:
