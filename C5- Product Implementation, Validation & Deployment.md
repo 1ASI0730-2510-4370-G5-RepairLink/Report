@@ -278,6 +278,31 @@ Cada miembro del equipo contribuyó activamente con tareas específicas relacion
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
+SPRINT 2:
+
+SPRINT PLANNING BACKGROUND
+
+Date: 01-05-2025
+
+Time: 7:00 pm
+
+Location: Via virtual por Google Meet
+
+Prepared By: Karen Stephanie Ramos Carpio
+
+Attendees (to planning meeting): Sebastian Cordova Valdivia,Stanley Jeremy Gutierrez Tume,Edson Diego Llamozas Diaz,José Luis Martinez Valdivia,Karen Stephanie Ramos Carpio.
+
+Sprint 2 - Review Summary: Durante la primera reunión del Sprint, el equipo se enfocó en definir las tareas y responsabilidades de cada miembro, asegurando que todos estuvieran alineados con los objetivos del informe a desarrollar y cualquier duda acerca del desarrollo hacernoslo saber por nuestro chat de whatsapp.
+
+Sprint 2– Retrospective Summary: En esta retrospectiva, el equipo discutió cómo se llevó a cabo la planificación del Sprint y la distribución de tareas.Todos los participantes lograron hacer su parte del trabajo , ya que corregimos algunos puntos que nos parecían que se podían mejorar.
+
+Sprint Goal & User Stories: -
+
+Sprint 2 goal: Diseñar e implementar el FrontEnd del Aplicativo Web.
+
+Sprint 1 Velocity: 25
+
+Sum of Story Points:31
 #### 5.2.2.2. Sprint Backlog 2
 
 En esta sección se muestran los tasks que se realizaron en el presente sprint:
