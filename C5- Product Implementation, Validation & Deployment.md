@@ -331,6 +331,7 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint:
 
 #### 5.2.2.3. Aspect Leaders and Collaborators
 |Team Member | GitHub Username |  Delegating Responsibilities <br> Leader (L) / Collaborator (C) | Merging Branches <br>Leader (L) /Collaborator (C)| Correcting Mistakes <br> Leader (L) /Collaborator (C)|
+|-------------|--------------|------------|----------|----------|
 | Jose Luis Martinez Validiva | hmongus  |    L   |    L     | C  |
 | Sebastian Cordova Valdivia	 | Sevas04  |    C   |     C    | C  |
 | Stanley Jeremy Gutierrez Tume	 | Stan-gt213891  |  C     |   C      |  C  |
