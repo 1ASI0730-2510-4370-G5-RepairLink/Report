@@ -278,6 +278,7 @@ Cada miembro del equipo contribuyó activamente con tareas específicas relacion
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
+<br>
 SPRINT 2:
 
 SPRINT PLANNING BACKGROUND
@@ -303,6 +304,7 @@ Sprint 2 goal: Diseñar e implementar el FrontEnd del Aplicativo Web.
 Sprint 1 Velocity: 12
 
 Sum of Story Points:31
+<br>
 #### 5.2.2.2. Sprint Backlog 2
 
 En esta sección se muestran los tasks que se realizaron en el presente sprint:
@@ -367,20 +369,25 @@ Para este sprint no se implemento API alguna ya que no realizo el desarrollo de 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 Durante la realizacion de este sprint 2 se realizo el deployment de la Fake-Api y el FrontEnd realizado en VueJS. Los servicios usados para estos fueron los siguientes respectivamente:
 
-- Render: <br>
+- Render: <br> <br>
+
 ![Render](images/FakeApi.png)
 
 <br>
 
 - Netlify:  <br>
+<br>
 ![Netlify](images/Netlify.png)
 <br>
 
-- Video Implementacion: https://shorturl.at/MaTQ7 <br>
+- Video Implementacion: https://shorturl.at/MaTQ7 <br> <br>
+
 ![video](images/video.png)
 <br>
 
 - Aplicativo: https://repairlink.netlify.app/
+
+<br>
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
 Durante este sprint, la colaboración del equipo se mantuvo constante y bien organizada, facilitando el cumplimiento exitoso de los objetivos establecidos.En la reunión, se asignaron responsabilidades específicas a cada integrante, permitiendo una distribución eficiente del trabajo y un entendimiento claro de las tareas a ejecutar.
