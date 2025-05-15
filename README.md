@@ -77,6 +77,30 @@ Abril 2025
   </tbody>
 </table>
 
+| Versión | Fecha | Autor | Descripción de modificación |
+|---------|--------|--------|-----------------------------|
+| **TB1** | Abril |  - Sebastian Cordova Valdivia | Se han incluído los siguientes capítulos:       |  
+|         |       | - Stanley Jeremy Gutierrez Tume |  - Capítulo I: Introducción      |
+|         |       | - Edson Diego Llamozas Diaz | - Capítulo II: Requirements Elicitation & Analysis             |
+|         |       | - José Luis Martinez Valdivia | - Capítulo III: Requirements Specification           |
+|          |      | - Karen Stephanie Ramos Carpio |  - Capítulo IV: Product Design         |
+|        |         |                               |  - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 Sprint 1 |
+|        |        |                                | - Avance de Conclusiones, Bibliografía y Anexos |
+|---------|--------|--------|-----------------------------|
+| **TB1** | Abril | - Sebastian Cordova Valdivia | Se han incluído los siguientes capítulos:       |  
+|         |       | - Stanley Jeremy Gutierrez Tume |  - Capítulo V: Product Implementation, Validation & Deployment Sprint 2      |
+|         |       | - Edson Diego Llamozas Diaz |             |
+|         |       | - José Luis Martinez Valdivia |         |
+|          |      | - Karen Stephanie Ramos Carpio |       |
+|        |         |                               |  |
+|        |        |                                |   |
+                                                                               
+ 
+
+
+
+
+
 # **Project Report Collaboration Insights**
 
 <br>
