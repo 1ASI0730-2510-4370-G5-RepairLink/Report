@@ -13,263 +13,39 @@ Segmento Técnico:
 ![Alt Text](images/To-Be-Tecnico.jpg)
 
 ## 3.2. User Stories
-
-<table>
-  <thead>
-    <tr>
-      <th>Story ID</th>
-      <th>Título</th>
-      <th>Descripción</th>
-      <th>Criterios de Aceptación</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>US-001</td>
-      <td>Landing Page - Home</td>
-      <td>Como visitante, quiero encontrar una página atractiva donde pueda ver una descripción sobre qué ofrece la plataforma desde la sección inicial de la página.</td>
-      <td>
-        Escenario: Visualización de la descripción<br>
-        Dado que el visitante accede a la landing page<br>
-        Cuando visualiza la sección “Home”<br>
-        Entonces ve una descripción clara con el beneficio principal de la plataforma y un botón de acción ingresar.
-      </td>
-    </tr>
-    <tr>
-      <td>US-002</td>
-      <td>Sección - Reparaciones</td>
-      <td>Como visitante, quiero ver los tipos de dispositivos o problemas que se pueden reparar, para saber si me pueden ayudar.</td>
-      <td>
-        Escenario: Explorar tipos de reparaciones<br>
-        Dado que el visitante baja hasta la sección “Reparaciones”<br>
-        Cuando lee la información y ve las imágenes<br>
-        Entonces comprende que dispositivos o fallas están cubiertas por la website.
-      </td>
-    </tr>
-    <tr>
-      <td>US-003</td>
-      <td>Sección - Reseñas</td>
-      <td>Como visitante, quiero ver reseñas de otros usuarios para generar confianza en el servicio.</td>
-      <td>
-        Escenario: Testimonios y reseñas<br>
-        Dado que el visitante accede a la sección de “Reseñas”<br>
-        Cuando visualiza los testimonios<br>
-        Entonces puede leer los comentarios de otros usuarios con sus calificaciones.
-      </td>
-    </tr>
-    <tr>
-      <td>US-004</td>
-      <td>Sección - Sé un Técnico</td>
-      <td>Como visitante interesado, quiero ver una sección que me explique cómo puedo unirme a la website.</td>
-      <td>
-        Escenario: Información para técnicos<br>
-        Dado que el visitante accede a la sección de “Sé un técnico”<br>
-        Cuando lee el contenido<br>
-        Entonces entiende los beneficios, pasos a registrarse y encuentra un botón para comenzar.
-      </td>
-    </tr>
-    <tr>
-      <td>US-005</td>
-      <td>Sección - Contacto</td>
-      <td>Como visitante, quiero tener un formulario de contacto simple para enviar dudas o comentarios.</td>
-      <td>
-        Escenario: Formulario de Contacto<br>
-        Dado que el visitante llega a la sección “Contacto”<br>
-        Cuando completa nombre, email y mensaje<br>
-        Entonces puede enviar el formulario y ver un mensaje de confirmación.
-      </td>
-    </tr>
-    <tr>
-      <td>US-006</td>
-      <td>Registro rápido de usuario</td>
-      <td>Como usuario cliente, quiero crear una cuenta fácilmente para acceder a los servicios de reparación.</td>
-      <td>
-        Escenario 1: Registro exitoso con correo electrónico<br>
-        Dado que el usuario accede a la pantalla de registro<br>
-        Cuando completa los campos obligatorios y presiona "Crear cuenta".<br><br>
-        Escenario 2: Registro con cuenta de Google o redes sociales<br>
-        Dado que el usuario elige registrarse con Google<br>
-        Cuando autoriza el acceso<br>
-        Entonces el sistema crea la cuenta y lo redirige al panel principal.<br><br>
-        Escenario 3: Registro con campos incompletos<br>
-        Dado que el usuario intenta registrarse sin completar los campos requeridos<br>
-        Cuando presiona "Crear cuenta"<br>
-        Entonces el sistema muestra un mensaje de error solicitando completar los campos.
-        </td>
-    </tr>
-    <tr>
-      <td>US-007</td>
-      <td>Registro de técnico</td>
-      <td>Como usuario técnico, quiero registrarme y crear un perfil profesional para recibir solicitudes de reparación</td>
-      <td>
-        Escenario 1: Registro exitoso<br>
-        Dado que el técnico accede al formulario de registro<br>
-        Cuando completa todos los campos y acepta los términos<br>
-        Entonces el sistema crea el perfil y lo pone en revisión<br><br>
-        Escenario 2: Activación del perfil<br>
-        Dado que el técnico completó el perfil<br>
-        Cuando el equipo lo verifica<br>
-        Entonces el perfil queda activo y visible para los usuarios
-      </td>
-    </tr>
-    <tbody>
-  <tr>
-    <td>US-008</td>
-    <td>Subir información del dispositivo</td>
-    <td>Como usuario cliente, quiero subir fotos y una descripción de mi dispositivo dañado para recibir un diagnóstico</td>
-    <td>
-      Escenario 1: Envío de fotos y descripción completo<br>
-      Dado que el usuario ya inició sesión<br>
-      Cuando selecciona fotos y escribe una descripción<br>
-      Entonces el sistema confirma el envío exitoso<br><br>
-      Escenario 2: Omisión de descripción o fotos<br>
-      Dado que el usuario intenta enviar solo fotos o solo descripción<br>
-      Cuando presiona "Enviar"<br>
-      Entonces el sistema le solicita que complete ambos campos
-    </td>
-  </tr>
-  <tr>
-    <td>US-009</td>
-    <td>Recibir presupuestos</td>
-    <td>Como usuario cliente, quiero recibir varios presupuestos de técnicos para comparar diferentes opciones y elegir la mejor</td>
-    <td>
-      Escenario 1: Recepción de múltiples cotizaciones<br>
-      Dado que el usuario ha enviado información del dispositivo<br>
-      Cuando los técnicos responden con propuestas<br>
-      Entonces el sistema le muestra al menos tres cotizaciones<br><br>
-      Escenario 2: Comparación de cotizaciones<br>
-      Dado que el usuario recibe varias cotizaciones<br>
-      Cuando accede al detalle de cada una<br>
-      Entonces puede ver precio, tiempo estimado y reputación del técnico
-    </td>
-  </tr>
-  <tr>
-    <td>US-010</td>
-    <td>Ver reputación de técnicos</td>
-    <td>Como usuario cliente, quiero ver la reputación de los técnicos para tomar una decisión concreta</td>
-    <td>
-      Escenario 1: Visualización de calificaciones<br>
-      Dado que el usuario explora técnicos disponibles<br>
-      Cuando abre el perfil de uno<br>
-      Entonces ve su puntuación promedio y comentarios de clientes anteriores
-    </td>
-  </tr>
-  <tr>
-    <td>US-011</td>
-    <td>Chat con técnicos</td>
-    <td>Como usuario cliente, quiero poder chatear con los técnicos antes de confirmar una reparación para aclarar dudas</td>
-    <td>
-      Escenario 1: Inicio de chat<br>
-      Dado que el usuario recibe cotizaciones<br>
-      Cuando presiona “Chatear” en alguna de ellas<br>
-      Entonces accede a una ventana de conversación con ese técnico<br><br>
-      Escenario 2: Recibir respuesta del técnico<br>
-      Dado que el usuario envió una consulta<br>
-      Cuando el técnico responde<br>
-      Entonces el usuario recibe una notificación y puede ver el mensaje
-    </td>
-  </tr>
-  <tr>
-    <td>US-012</td>
-    <td>Agendar Cita</td>
-    <td>Como usuario cliente, quiero agendar una cita directamente desde la plataforma para que sea más cómodo</td>
-    <td>
-      Escenario 1: Selección de cita<br>
-      Dado que el usuario ha aceptado una cotización<br>
-      Cuando elige día y hora disponibles<br>
-      Entonces el sistema confirma la cita y la agrega a su calendario en la app
-    </td>
-  </tr>
-  <tr>
-    <td>US-013</td>
-    <td>Garantía del servicio</td>
-    <td>Como usuario cliente, quiero recibir una garantía del servicio realizado para sentirme más seguro</td>
-    <td>
-      Escenario 1: Visualizar condiciones de garantía<br>
-      Dado que el usuario acepta una reparación<br>
-      Cuando revisa el detalle del servicio<br>
-      Entonces puede ver claramente la duración y condiciones de garantía
-    </td>
-  </tr>
-  <tr>
-    <td>US-014</td>
-    <td>Recompensas por uso</td>
-    <td>Como usuario cliente, quiero ganar recompensas por usar la plataforma para motivarme a reparar más</td>
-    <td>
-      Escenario 1: Acumulación de puntos<br>
-      Dado que el usuario ha completado una reparación<br>
-      Cuando esta es finalizada y calificada<br>
-      Entonces recibe puntos en su perfil
-    </td>
-  </tr>
-  <tr>
-    <td>US-015</td>
-    <td>Notificaciones de casos</td>
-    <td>Como usuario técnico, quiero recibir notificaciones de nuevos casos en mi especialidad para no perder oportunidades</td>
-    <td>
-      Escenario 1: Notificación de caso nuevo<br>
-      Dado que un usuario publica un nuevo dispositivo dañado<br>
-      Cuando este coincide con la especialidad del técnico<br>
-      Entonces el técnico recibe una notificación inmediata
-    </td>
-  </tr>
-  <tr>
-    <td>US-016</td>
-    <td>Enviar presupuestos</td>
-    <td>Como usuario técnico, quiero enviar presupuestos personalizados para competir con otros técnicos</td>
-    <td>
-      Escenario 1: Envío de presupuesto<br>
-      Dado que el técnico recibe una solicitud<br>
-      Cuando presiona "Enviar presupuesto" y completa los campos<br>
-      Entonces el usuario ve su propuesta junto a las demás
-    </td>
-  </tr>
-  <tr>
-    <td>US-017</td>
-    <td>Gestión de citas y clientes</td>
-    <td>Como usuario técnico, quiero gestionar mis citas y clientes desde la plataforma para organizar mi trabajo</td>
-    <td>
-      Escenario 1: Ver próximas citas<br>
-      Dado que el técnico tiene citas confirmadas<br>
-      Cuando accede a su calendario<br>
-      Entonces puede ver el día, hora y cliente asociado
-    </td>
-  </tr>
-  <tr>
-    <td>US-018</td>
-    <td>Facturación</td>
-    <td>Como usuario técnico, quiero acceder a herramientas de facturación para llevar control de mis servicios</td>
-    <td>
-      Escenario 1: Generar factura automáticamente<br>
-      Dado que el servicio ha sido finalizado y pagado<br>
-      Cuando el técnico accede a su historial<br>
-      Entonces podrá ver las boletas del servicio
-    </td>
-  </tr>
-  <tr>
-    <td>US-019</td>
-    <td>Calificaciones y comentarios</td>
-    <td>Como usuario técnico, quiero recibir calificaciones y comentarios para mejorar mi perfil y reputación</td>
-    <td>
-      Escenario 1: Visualización de calificaciones<br>
-      Dado que el técnico ha completado varios servicios<br>
-      Cuando accede a su perfil<br>
-      Entonces puede ver un promedio de calificación y leer comentarios de los clientes
-    </td>
-  </tr>
-  <tr>
-    <td>US-020</td>
-    <td>Comunidad de técnicos</td>
-    <td>Como usuario técnico, quiero participar en foros con otros reparadores para compartir conocimientos y aprender</td>
-    <td>
-      Escenario 1: Participar en un foro<br>
-      Dado que el técnico accede a la sección de comunidad<br>
-      Cuando publica una pregunta o responde a otra<br>
-      Entonces el mensaje aparece disponible para otros técnicos registrados
-    </td>
-  </tr>
- </tbody>
-</table>
+| Story ID | Título                   | Descripción                                                                                                                                                                                                                                        | Criterios de Aceptación |
+|----------|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| US-001   | Landing Page - Home      | Como visitante, quiero encontrar una página atractiva donde pueda ver una descripción sobre qué ofrece la plataforma desde la sección inicial de la página.                                                                                      | Escenario: Visualización de la descripción<br>Dado que el visitante accede a la landing page<br>Cuando visualiza la sección “Home”<br>Entonces ve una descripción clara con el beneficio principal de la plataforma y un botón de acción ingresar. |
+| US-002   | Sección - Reparaciones   | Como visitante, quiero ver los tipos de dispositivos o problemas que se pueden reparar, para saber si me pueden ayudar.                                                                                                                           | Escenario: Explorar tipos de reparaciones<br>Dado que el visitante baja hasta la sección “Reparaciones”<br>Cuando lee la información y ve las imágenes<br>Entonces comprende que dispositivos o fallas están cubiertas por la website. |
+| US-003   | Sección - Reseñas        | Como visitante, quiero ver reseñas de otros usuarios para generar confianza en el servicio.                                                                                                                                                       | Escenario: Testimonios y reseñas<br>Dado que el visitante accede a la sección de “Reseñas”<br>Cuando visualiza los testimonios<br>Entonces puede leer los comentarios de otros usuarios con sus calificaciones. |
+| US-004   | Sección - Sé un Técnico  | Como visitante interesado, quiero ver una sección que me explique cómo puedo unirme a la website.                                                                                                                                                 | Escenario: Información para técnicos<br>Dado que el visitante accede a la sección de “Sé un técnico”<br>Cuando lee el contenido<br>Entonces entiende los beneficios, pasos a registrarse y encuentra un botón para comenzar. |
+| US-005   | Sección - Contacto       | Como visitante, quiero tener un formulario de contacto simple para enviar dudas o comentarios.                                                                                                                                                    | Escenario: Formulario de Contacto<br>Dado que el visitante llega a la sección “Contacto”<br>Cuando completa nombre, email y mensaje<br>Entonces puede enviar el formulario y ver un mensaje de confirmación. |
+| US-006   | Registro rápido de usuario | Como usuario cliente, quiero crear una cuenta fácilmente para acceder a los servicios de reparación.                                                                                                                                              | Escenario 1: Registro exitoso con correo electrónico<br>Dado que el usuario accede a la pantalla de registro<br>Cuando completa los campos obligatorios y presiona "Crear cuenta".<br><br>Escenario 2: Registro con cuenta de Google o redes sociales<br>Dado que el usuario elige registrarse con Google<br>Cuando autoriza el acceso<br>Entonces el sistema crea la cuenta y lo redirige al panel principal.<br><br>Escenario 3: Registro con campos incompletos<br>Dado que el usuario intenta registrarse sin completar los campos requeridos<br>Cuando presiona "Crear cuenta"<br>Entonces el sistema muestra un mensaje de error solicitando completar los campos. |
+| US-007   | Registro de técnico      | Como usuario técnico, quiero registrarme y crear un perfil profesional para recibir solicitudes de reparación                                                                                                                                     | Escenario 1: Registro exitoso<br>Dado que el técnico accede al formulario de registro<br>Cuando completa todos los campos y acepta los términos<br>Entonces el sistema crea el perfil y lo pone en revisión<br><br>Escenario 2: Activación del perfil<br>Dado que el técnico completó el perfil<br>Cuando el equipo lo verifica<br>Entonces el perfil queda activo y visible para los usuarios |
+| US-008   | Subir información del dispositivo | Como usuario cliente, quiero subir fotos y una descripción de mi dispositivo dañado para recibir un diagnóstico                                                                                                                                 | Escenario 1: Envío de fotos y descripción completo<br>Dado que el usuario ya inició sesión<br>Cuando selecciona fotos y escribe una descripción<br>Entonces el sistema confirma el envío exitoso<br><br>Escenario 2: Omisión de descripción o fotos<br>Dado que el usuario intenta enviar solo fotos o solo descripción<br>Cuando presiona "Enviar"<br>Entonces el sistema le solicita que complete ambos campos |
+| US-009   | Recibir presupuestos     | Como usuario cliente, quiero recibir varios presupuestos de técnicos para comparar diferentes opciones y elegir la mejor                                                                                                                         | Escenario 1: Recepción de múltiples cotizaciones<br>Dado que el usuario ha enviado información del dispositivo<br>Cuando los técnicos responden con propuestas<br>Entonces el sistema le muestra al menos tres cotizaciones<br><br>Escenario 2: Comparación de cotizaciones<br>Dado que el usuario recibe varias cotizaciones<br>Cuando accede al detalle de cada una<br>Entonces puede ver precio, tiempo estimado y reputación del técnico |
+| US-010   | Ver reputación de técnicos | Como usuario cliente, quiero ver la reputación de los técnicos para tomar una decisión concreta                                                                                                                                                  | Escenario 1: Visualización de calificaciones<br>Dado que el usuario explora técnicos disponibles<br>Cuando abre el perfil de uno<br>Entonces ve su puntuación promedio y comentarios de clientes anteriores |
+| US-011   | Chat con técnicos          | Como usuario cliente, quiero poder chatear con los técnicos antes de confirmar una reparación para aclarar dudas                                                  | Escenario 1: Inicio de chat<br>Dado que el usuario recibe cotizaciones<br>Cuando presiona “Chatear” en alguna de ellas<br>Entonces accede a una ventana de conversación con ese técnico<br><br>Escenario 2: Recibir respuesta del técnico<br>Dado que el usuario envió una consulta<br>Cuando el técnico responde<br>Entonces el usuario recibe una notificación y puede ver el mensaje |
+| US-012   | Agendar Cita               | Como usuario cliente, quiero agendar una cita directamente desde la plataforma para que sea más cómodo                                                             | Escenario 1: Selección de cita<br>Dado que el usuario ha aceptado una cotización<br>Cuando elige día y hora disponibles<br>Entonces el sistema confirma la cita y la agrega a su calendario en la app |
+| US-013   | Garantía del servicio      | Como usuario cliente, quiero recibir una garantía del servicio realizado para sentirme más seguro                                                                 | Escenario 1: Visualizar condiciones de garantía<br>Dado que el usuario acepta una reparación<br>Cuando revisa el detalle del servicio<br>Entonces puede ver claramente la duración y condiciones de garantía |
+| US-014   | Notificaciones de casos    | Como usuario técnico, quiero recibir notificaciones de nuevos casos en mi especialidad para no perder oportunidades                                                | Escenario 1: Notificación de caso nuevo<br>Dado que un usuario publica un nuevo dispositivo dañado<br>Cuando este coincide con la especialidad del técnico<br>Entonces el técnico recibe una notificación inmediata |
+| US-015   | Enviar presupuestos        | Como usuario técnico, quiero enviar presupuestos personalizados para competir con otros técnicos                                                                  | Escenario 1: Envío de presupuesto<br>Dado que el técnico recibe una solicitud<br>Cuando presiona "Enviar presupuesto" y completa los campos<br>Entonces el usuario ve su propuesta junto a las demás |
+| US-016   | Gestión de citas y clientes | Como usuario técnico, quiero gestionar mis citas y clientes desde la plataforma para organizar mi trabajo                                                         | Escenario 1: Ver próximas citas<br>Dado que el técnico tiene citas confirmadas<br>Cuando accede a su calendario<br>Entonces puede ver el día, hora y cliente asociado |
+| US-017   | Facturación                | Como usuario técnico, quiero acceder a herramientas de facturación para llevar control de mis servicios                                                            | Escenario 1: Generar factura automáticamente<br>Dado que el servicio ha sido finalizado y pagado<br>Cuando el técnico accede a su historial<br>Entonces podrá ver las boletas del servicio |
+| US-018   | Calificaciones y comentarios | Como usuario técnico, quiero recibir calificaciones y comentarios para mejorar mi perfil y reputación                                                            | Escenario 1: Visualización de calificaciones<br>Dado que el técnico ha completado varios servicios<br>Cuando accede a su perfil<br>Entonces puede ver un promedio de calificación y leer comentarios de los clientes |
+| US-019   | Comunidad de técnicos      | Como usuario técnico, quiero participar en foros con otros reparadores para compartir conocimientos y aprender                                                     | Escenario 1: Participar en un foro<br>Dado que el técnico accede a la sección de comunidad<br>Cuando publica una pregunta o responde a otra<br>Entonces el mensaje aparece disponible para otros técnicos registrados |
+| US-020  | Login de usuario           | Como usuario cliente, quiero poder iniciar sesión en la plataforma para acceder a mis dispositivos, cotizaciones y servicios activos. | Escenario 1: Login exitoso<br>Dado que el usuario está en la pantalla de inicio de sesión<br>Cuando ingresa sus credenciales correctas<br>Entonces accede al panel principal del usuario<br><br>Escenario 2: Login con datos incorrectos<br>Dado que el usuario ingresa credenciales incorrectas<br>Cuando presiona “Ingresar”<br>Entonces el sistema muestra un mensaje de error indicando datos inválidos<br><br>Escenario 3: Recuperación de contraseña<br>Dado que el usuario no recuerda su clave<br>Cuando presiona “¿Olvidaste tu contraseña?”<br>Entonces puede ingresar su correo y recibir un enlace para restablecerla |
+| US-021  | Login de técnico           | Como usuario técnico, quiero iniciar sesión en la plataforma para acceder a mis solicitudes, cotizaciones y calendario de citas.          | Escenario 1: Login exitoso<br>Dado que el técnico ingresa sus credenciales correctas<br>Cuando presiona “Ingresar”<br>Entonces accede al panel técnico con su información actualizada<br><br>Escenario 2: Perfil en revisión<br>Dado que el técnico se ha registrado pero aún no ha sido aprobado<br>Cuando intenta iniciar sesión<br>Entonces el sistema le indica que su perfil está en revisión                                                                                                       |
+| US-022  | Crear perfil profesional técnico | Como técnico registrado, quiero crear un perfil profesional con mis habilidades, especialidades y experiencia, para destacar frente a los clientes. | Escenario 1: Completar perfil técnico<br>Dado que el técnico accede a su perfil<br>Cuando completa su experiencia, especialidades y presentación<br>Entonces el sistema guarda los datos y los muestra en su perfil público<br><br>Escenario 2: Perfil incompleto<br>Dado que el técnico no completa los campos obligatorios<br>Cuando intenta guardar<br>Entonces el sistema muestra un mensaje indicando los campos requeridos                                                   |
+| US-023  | Carga de documentos de validación | Como técnico registrado, quiero subir documentos como certificaciones o identificaciones, para validar mi identidad y experiencia en la plataforma. | Escenario 1: Subida exitosa de documentos<br>Dado que el técnico está en su perfil<br>Cuando sube archivos válidos (PDF, imágenes)<br>Entonces el sistema guarda los documentos y muestra que están subidos correctamente<br><br>Escenario 2: Archivos inválidos<br>Dado que el técnico intenta subir un archivo no permitido<br>Cuando presiona “Subir”<br>Entonces el sistema rechaza el archivo e indica el formato aceptado |
+| US-024  | Gestión de perfil del cliente | Como usuario cliente, quiero editar mi información personal y agregar métodos de pago para facilitar futuras transacciones. | Escenario 1: Agregar método de pago<br>Dado que el cliente accede a su perfil<br>Cuando agrega los datos de su método de pago<br>Entonces el sistema guarda la información correctamente<br><br>Escenario 2: Edición de información personal<br>Dado que el cliente está en su perfil<br>Cuando actualiza sus datos personales<br>Entonces el sistema guarda los cambios exitosamente |
+| US-025  | Vista principal del cliente | Como usuario cliente, quiero ver un panel de inicio con resumen de mis servicios, estado de solicitudes y acceso rápido a funciones principales. | Escenario: Visualización del dashboard<br>Dado que el cliente inicia sesión<br>Cuando accede al panel principal<br>Entonces visualiza sus servicios activos, botones rápidos y actualizaciones recientes |
+| US-026  | Panel de servicios del cliente | Como usuario cliente, quiero ver los servicios disponibles, un panel con el historial, servicios en curso y citas agendadas para seguir el estado de mis reparaciones. | Escenario 1: Ver historial de servicios<br>Dado que el cliente accede a la sección “Mis Servicios”<br>Cuando revisa la lista de servicios<br>Entonces puede ver detalles de cada reparación previa<br><br>Escenario 2: Ver cronograma de citas<br>Dado que el cliente tiene servicios agendados<br>Cuando abre el cronograma<br>Entonces ve fechas, horas y técnicos asignados |
+| US-027  | Solicitar nuevo servicio    | Como usuario cliente, quiero iniciar un nuevo proceso de reparación desde mi panel, seleccionando dispositivo, técnico y cita. | Escenario 1: Solicitud de nuevo servicio<br>Dado que el cliente entra a “Agendar nuevo servicio”<br>Cuando carga información y selecciona técnico<br>Entonces el sistema confirma y agenda la solicitud<br><br>Escenario 2: Error por datos incompletos<br>Dado que el cliente omite datos importantes<br>Cuando intenta enviar la solicitud<br>Entonces el sistema indica los campos requeridos |
+| US-028  | Notificaciones para cliente | Como usuario cliente, quiero recibir notificaciones sobre mensajes, confirmaciones de citas y cambios de estado en mis servicios. | Escenario 1: Ver notificaciones recientes<br>Dado que el cliente accede a la sección “Notificaciones”<br>Cuando tiene alertas sin leer<br>Entonces puede visualizarlas con fecha y descripción |
+| US-029  | Vista del técnico - Dashboard | Como usuario técnico, quiero ver un resumen de mis casos, citas y notificaciones al iniciar sesión. | Escenario 1: Acceso al resumen del día<br>Dado que el técnico accede a su cuenta<br>Cuando entra a su panel principal<br>Entonces ve solicitudes recientes, citas y alertas nuevas |
+| US-030  | Ver detalles del perfil técnico | Como usuario técnico, quiero ver cómo luce mi perfil profesional para los clientes, incluyendo mi experiencia, puntuación y documentación. | Escenario 1: Visualización del perfil técnico completo<br>Dado que el técnico accede a su perfil desde el dashboard<br>Cuando revisa su presentación<br>Entonces ve su informacion registra previamente |
+| US-031  | Perfil del usuario cliente | Como usuario cliente, quiero acceder a mi perfil para visualizar y actualizar mi información personal, como nombre, correo y teléfono | Escenario 1: Visualizar perfil<br>Dado que el cliente accede a su cuenta<br>Cuando entra a la sección “Mi perfil”<br>Entonces ve su información personal registrada<br><br>Escenario 2: Editar perfil<br>Dado que el cliente desea actualizar su información<br>Cuando edita los campos y guarda los cambios<br>Entonces el sistema actualiza los datos correctamente y muestra un mensaje de confirmación |
 
 
 ## 3.3. Impact Mapping
