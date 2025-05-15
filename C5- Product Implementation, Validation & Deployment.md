@@ -275,3 +275,21 @@ Actividad	Descripción
 Durante el Sprint 1, el equipo trabajó de manera colaborativa enfocándose principalmente en el diseño y la implementación inicial de la Landing Page. Se distribuyeron tareas según los perfiles técnicos y se empleó GitHub como principal herramienta para el control de versiones, seguimiento de commits y colaboración en el desarrollo.
 
 Cada miembro del equipo contribuyó activamente con tareas específicas relacionadas con el desarrollo, la revisión de código, la estructuración de carpetas y la organización del repositorio. Además, se mantuvo una comunicación fluida mediante reuniones de planificación y seguimiento, apoyadas por Google Meet.
+
+5.2.2. Sprint 2
+
+5.2.2.1.Planificación del Sprint 
+
+2.5.2.2.2. Líderes de Aspecto y Colaboradores
+
+2.5.2.2.3. Backlog del Sprint
+
+2.5.2.2.4. Evidencia de Desarrollo para la Revisión del Sprint
+
+2.5.2.2.5. Evidencia de Ejecución para la Revisión del Sprint
+
+2.5.2.2.6. Evidencia de Documentación de Servicios para la Revisión del Sprint
+
+2.5.2.2.7. Evidencia de Despliegue de Software para la Revisión del Sprint
+
+2.5.2.2.8. Perspectivas de Colaboración del Equipo durante el Sprint.
