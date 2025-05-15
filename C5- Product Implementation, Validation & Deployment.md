@@ -276,20 +276,37 @@ Durante el Sprint 1, el equipo trabajó de manera colaborativa enfocándose prin
 
 Cada miembro del equipo contribuyó activamente con tareas específicas relacionadas con el desarrollo, la revisión de código, la estructuración de carpetas y la organización del repositorio. Además, se mantuvo una comunicación fluida mediante reuniones de planificación y seguimiento, apoyadas por Google Meet.
 
-5.2.2. Sprint 2
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+#### 5.2.2.2. Sprint Backlog 2
 
-5.2.2.1.Planificación del Sprint 
+En esta sección se muestran los tasks que se realizaron en el presente sprint:
 
-2.5.2.2.2. Líderes de Aspecto y Colaboradores
+| Story ID | Título                        | Descripción breve                                              | Estimación (Story Points) | Estado      | Responsable                         |
+|----------|-------------------------------|-----------------------------------------------------------------|----------------------------|-------------|-------------------------------------|
+| US-006   | Registro rápido de usuario           | Página inicial con descripción y botón de acción.              | 3 | Completado  | Karen Ramos                         |
+| US-007   | Crear perfil profesional técnico     | Información visual sobre tipos de reparaciones disponibles.    | 2  | Completado  | Sebastián Córdova                   |
+| US-008   | Carga de documentos de validación    | Información visual sobre tipos de reparaciones disponibles.    | 2  | Completado  | Sebastián Córdova                  |
+| US-009   | Login de usuario                     | Página inicial con descripción y botón de acción.              | 3 | Completado  | Karen Ramos                         |
+| US-010   | Login de técnico                     | Información visual sobre tipos de reparaciones disponibles.    | 2  | Completado  | Sebastián Córdova                   |
+| US-011   | Subir información del dispositivo    | Mostrar testimonios y calificaciones de clientes.              | 2  | Completado  | Stanley Gutiérrez |
+| US-012   | Recibir presupuestos                 | Explicación sobre cómo registrarse como técnico.               | 2 | Completado  | Edson Llamozas                      |
+| US-013   | Ver reputacion de técnicos           | Formulario de contacto para dudas y comentarios.               | 3 | Completado  | José Luis Martínez                  |
+| US-014   | Agendar Cita                         | Página inicial con descripción y botón de acción.              | 3 | Completado  | Karen Ramos                         |
+| US-015   | Enviar presupuestos                  | Información visual sobre tipos de reparaciones disponibles.    | 2 | Completado  | Sebastián Córdova                   |
+| US-016   | Gestión de citas y clientes          | Mostrar testimonios y calificaciones de clientes.              | 2 | Completado  | Stanley Gutiérrez |
+| US-017   | Facturación                          | Explicación sobre cómo registrarse como técnico.               | 2 | Completado  | Edson Llamozas                      |
+| US-018   | Ver reputacion de técnicos           | Formulario de contacto para dudas y comentarios.               | 3 | Completado  | José Luis Martínez                  |
 
-2.5.2.2.3. Backlog del Sprint
+**Sprint Goal:** Diseñar e implementar el FrontEnd con el objetivo de concretar nuestra propuesta de valor.  
+**Sprint Velocity:** 12 puntos  
+**Fecha del Sprint:** 02-05-2025  
 
-2.5.2.2.4. Evidencia de Desarrollo para la Revisión del Sprint
+![TRELLO](images/TRELLO.PNG)
 
-2.5.2.2.5. Evidencia de Ejecución para la Revisión del Sprint
-
-2.5.2.2.6. Evidencia de Documentación de Servicios para la Revisión del Sprint
-
-2.5.2.2.7. Evidencia de Despliegue de Software para la Revisión del Sprint
-
-2.5.2.2.8. Perspectivas de Colaboración del Equipo durante el Sprint.
+#### 5.2.2.3. Aspect Leaders and Collaborators
+#### 5.2.2.4. Development Evidence for Sprint Review
+#### 5.2.2.5. Execution Evidence for Sprint Review
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+#### 5.2.2.8. Team Collaboration Insights during Sprint
