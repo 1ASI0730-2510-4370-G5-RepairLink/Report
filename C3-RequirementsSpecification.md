@@ -60,26 +60,35 @@ Segmento Técnico:
 
 ## 3.4. Product Backlog
 
-| ID       | User Story                                                                  | Prioridad | Valor para el Usuario/Negocio      | Sprint |
-|----------|-----------------------------------------------------------------------------|-----------|------------------------------------|--------|
-| US-006   | Registro rápido de usuario                                                  | Alta      | Acceso básico a plataforma         | 1      |
-| US-008   | Subir información del dispositivo                                           | Alta      | Inicia el flujo de diagnóstico     | 1      |
-| US-009   | Recibir presupuestos                                                        | Alta      | Permite comparar y elegir técnicos | 2      |
-| US-010   | Ver reputación de técnicos                                                  | Media     | Confianza en la elección           | 2      |
-| US-011   | Chat con técnicos                                                           | Alta      | Comunicación directa               | 3      |
-| US-012   | Agendar cita                                                                | Alta      | Cierre de acuerdo                  | 3      |
-| US-013   | Garantía del servicio                                                       | Alta      | Confianza post-reparación          | 4      |
-| US-014   | Recompensas por uso                                                         | Media     | Fomenta fidelidad                  | 4      |
-| US-007   | Registro de técnico                                                         | Alta      | Permite oferta de servicios        | 1      |
-| US-015   | Notificaciones de casos                                                     | Alta      | Mejora tiempos de respuesta        | 2      |
-| US-016   | Enviar presupuestos                                                         | Alta      | Competencia y conversión           | 2      |
-| US-017   | Gestión de citas y clientes                                                 | Media     | Organización del técnico           | 3      |
-| US-018   | Facturación                                                                 | Media     | Control financiero                 | 4      |
-| US-019   | Calificaciones y comentarios                                                | Alta      | Reputación y confianza             | 4      |
-| US-020   | Comunidad de técnicos                                                       | Baja      | Valor agregado profesional         | 5      |
-| US-001   | Landing Page - Home                                                         | Alta      | Primera impresión del usuario      | 1      |
-| US-002   | Sección - Reparaciones                                                      | Alta      | Información clara de alcance       | 1      |
-| US-003   | Sección - Reseñas                                                           | Media     | Genera confianza inicial           | 1      |
-| US-004   | Sección - Sé un Técnico                                                     | Alta      | Convierte visitantes en técnicos   | 1      |
-| US-005   | Sección - Contacto                                                          | Media     | Canal de comunicación inicial      | 1      |
-
+| Story ID | Título                           | Descripción corta                                                  | Prioridad | Sprint |
+|----------|----------------------------------|--------------------------------------------------------------------|-----------|--------|
+| US-001   | Landing Page - Home              | Página atractiva con descripción inicial y botón de acción.        | Alta      | 1      |
+| US-002   | Sección - Reparaciones           | Mostrar tipos de dispositivos o problemas que se reparan.          | Alta      | 1      |
+| US-003   | Sección - Reseñas                | Mostrar reseñas para generar confianza.                            | Alta      | 1      |
+| US-004   | Sección - Sé un Técnico          | Explicar cómo unirse como técnico.                                 | Alta      | 1      |
+| US-005   | Sección - Contacto               | Formulario de contacto simple.                                     | Alta      | 1      |
+| US-006   | Registro rápido de usuario       | Crear cuenta fácilmente con email o redes sociales.                | Alta      | 2      |
+| US-007   | Registro de técnico              | Registrarse y crear perfil profesional con revisión.               | Alta      | 2      |
+| US-020   | Login de usuario                 | Iniciar sesión para acceder a servicios.                           | Alta      | 2      |
+| US-021   | Login de técnico                 | Técnico inicia sesión para ver solicitudes y calendario.           | Alta      | 2      |
+| US-022   | Crear perfil profesional técnico | Completar perfil técnico con habilidades y experiencia.            | Alta      | 2      |
+| US-025   | Vista principal del cliente      | Dashboard con resumen de servicios y estado de solicitudes.        | Alta      | 2      |
+| US-026   | Panel de servicios del cliente   | Historial, servicios en curso y citas agendadas.                   | Alta      | 2      |
+| US-031   | Perfil del usuario cliente       | Ver y editar información personal, preferencias y datos relevantes.| Alta      | 2      |
+| US-008   | Subir información del dispositivo| Subir fotos y descripción para diagnóstico.                        | Media     | 3      |
+| US-009   | Recibir presupuestos             | Cliente recibe varios presupuestos para comparar.                  | Media     | 3      |
+| US-010   | Ver reputación de técnicos       | Visualizar puntuación y comentarios de técnicos.                   | Media     | 3      |
+| US-024   | Gestión de perfil del cliente    | Editar información personal y agregar métodos de pago.             | Media     | 3      |
+| US-027   | Solicitar nuevo servicio         | Iniciar nuevo proceso de reparación desde el panel.                | Media     | 3      |
+| US-011   | Chat con técnicos                | Chat previo a confirmar reparación.                                | Media     | 4      |
+| US-012   | Agendar Cita                     | Agendar cita directamente desde plataforma.                        | Media     | 4      |
+| US-013   | Garantía del servicio            | Visualizar condiciones de garantía del servicio.                   | Media     | 4      |
+| US-014   | Notificaciones de casos          | Técnico recibe notificaciones de nuevos casos.                     | Media     | 4      |
+| US-015   | Enviar presupuestos              | Técnico envía cotizaciones personalizadas.                         | Media     | 4      |
+| US-028   | Notificaciones para cliente      | Cliente recibe notificaciones sobre citas y servicios.             | Media     | 4      |
+| US-016   | Gestión de citas y clientes      | Técnico gestiona citas y clientes desde plataforma.                | Media     | 5      |
+| US-017   | Facturación                      | Técnico accede a facturas de servicios realizados.                 | Media     | 5      |
+| US-018   | Calificaciones y comentarios     | Técnico recibe calificaciones y comentarios.                       | Media     | 5      |
+| US-019   | Comunidad de técnicos            | Técnico participa en foros y comunidad.                            | Baja      | 5      |
+| US-029   | Vista del técnico - Dashboard    | Resumen de casos, citas y notificaciones al iniciar sesión.        | Media     | 5      |
+| US-030   | Ver detalles del perfil técnico  | Visualizar perfil profesional completo para clientes.              | Media     | 5      |
