@@ -314,6 +314,11 @@ A continuación se presentan informacion de los commits del FrontedEnd con el us
 |              |          |                                          |                                                                        |                    |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
+Durante este sprint se completaron importantes avances en la ejecución del Front-End de **RepairLink** utilizando **Vue.js**. Se implementaron vistas clave como el registro e inicio de sesión tanto para usuarios como técnicos, la creación del perfil profesional del técnico, la vista principal del cliente, su panel de servicios y el perfil del usuario cliente.
+
+Estas funcionalidades consolidan la base operativa de la plataforma, permitiendo una experiencia inicial completa para ambas partes del sistema: usuarios que buscan servicios de reparación y técnicos que los ofrecen.
+
+**Link del proyecto:**
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint
