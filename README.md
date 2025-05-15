@@ -39,23 +39,8 @@ Abril 2025
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |---------|--------|--------|-----------------------------|
-| **TB1** | Abril |  - Sebastian Cordova Valdivia | Se han incluído los siguientes capítulos:       |  
-|         |       | - Stanley Jeremy Gutierrez Tume |  - Capítulo I: Introducción      |
-|         |       | - Edson Diego Llamozas Diaz | - Capítulo II: Requirements Elicitation & Analysis             |
-|         |       | - José Luis Martinez Valdivia | - Capítulo III: Requirements Specification           |
-|          |      | - Karen Stephanie Ramos Carpio |  - Capítulo IV: Product Design         |
-|        |         |                               |  - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 Sprint 1 |
-|        |        |                                | - Avance de Conclusiones, Bibliografía y Anexos |
-| **TB2** | Abril | - Sebastian Cordova Valdivia | Se han incluído los siguientes capítulos:       |  
-|         |       | - Stanley Jeremy Gutierrez Tume |  - Capítulo V: Product Implementation, Validation & Deployment Sprint 2      |
-|         |       | - Edson Diego Llamozas Diaz |             |
-|         |       | - José Luis Martinez Valdivia |         |
-|          |      | - Karen Stephanie Ramos Carpio |       |
-|        |         |                               |  |
-|        |        |                                |   |
-                                                                               
- 
-
+| **TB1** | Abril |  - Sebastian Cordova Valdivia <br>- Stanley Jeremy Gutierrez Tume <br> - Edson Diego Llamozas Diaz <br> - José Luis Martinez Valdivia <br>- Karen Stephanie Ramos Carpio| Se han incluído los siguientes capítulos: <br>   - Capítulo I: Introducción  <br> - Capítulo II: Requirements Elicitation & Analysis <br> - Capítulo III: Requirements Specification  <br>   - Capítulo IV: Product Design   <br> - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 Sprint 1  |  
+| **TB2** | Abril |  - Sebastian Cordova Valdivia <br>- Stanley Jeremy Gutierrez Tume <br> - Edson Diego Llamozas Diaz <br> - José Luis Martinez Valdivia <br>- Karen Stephanie Ramos Carpio| - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el Sprint 2  |  
 
 
 
