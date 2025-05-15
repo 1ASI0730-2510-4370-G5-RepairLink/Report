@@ -307,18 +307,28 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint:
 #### 5.2.2.3. Aspect Leaders and Collaborators
 #### 5.2.2.4. Development Evidence for Sprint Review
 
-A continuación se presentan informacion de los commits del FrontedEnd con el uso de HTML, CSS, Typescript y Vue:
+A continuación se presentan informacion de los commits del FrontedEnd con el uso de PrimeVue, CSS, JavaScript y Vue:
 
 | Repository   | Branch   | Commit Id                                | Commit Message                                                        | Commited on         |
 |--------------|----------|------------------------------------------|------------------------------------------------------------------------|--------------------|
-|              |          |                                          |                                                                        |                    |
+|  Frontend    | feature/develop      |       879ca53…1bb07de                     |  git: add my services page                                |                    |
+|  Frontend    | feature/Signup-LogIn  |       4b77e11…676edda                    | git: add functional login-page                             |                    |
+|  Frontend    | feature/appointments  |      735b2a7                             | appointment vue components                                 |                    |
+|  Frontend    | feature/service-customer  |        879ca53…2388dae                   |feat: initial commit                                     |                    |
+|  Frontend    | feature/Signup-LogIn  |        891c35a…4b77e11                   |git: add specialty page                                     |                    |
+|  Frontend    | feature/home-technician  |         879ca53                   |git: initial commit                                      |                    |
+|  Frontend    | feature/Signup-LogIn  |        93a14e9…891c35a                   |git: git: add sigunp page                                   |                    |
+|  Frontend    | feature/Signup-LogIn  |        879ca53…93a14e9                   |git: add welcome and login page                               |                    |
+
+
+
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 Durante este sprint se completaron importantes avances en la ejecución del Front-End de **RepairLink** utilizando **Vue.js**. Se implementaron vistas clave como el registro e inicio de sesión tanto para usuarios como técnicos, la creación del perfil profesional del técnico, la vista principal del cliente, su panel de servicios y el perfil del usuario cliente.
 
 Estas funcionalidades consolidan la base operativa de la plataforma, permitiendo una experiencia inicial completa para ambas partes del sistema: usuarios que buscan servicios de reparación y técnicos que los ofrecen.
 
-**Link del proyecto:**
+**Link del proyecto:** https://github.com/1ASI0730-2510-4370-G5-RepairLink/Frontend
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 #### 5.2.2.8. Team Collaboration Insights during Sprint
