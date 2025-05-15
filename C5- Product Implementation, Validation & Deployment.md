@@ -344,14 +344,14 @@ A continuación se presentan informacion de los commits del FrontedEnd con el us
 
 | Repository   | Branch   | Commit Id                                | Commit Message                                                        | Commited on         |
 |--------------|----------|------------------------------------------|------------------------------------------------------------------------|--------------------|
-|  Frontend    | feature/develop      |       879ca53…1bb07de                     |  git: add my services page                                |                    |
+|  Frontend    | feature/develop      |       879ca53…1bb07de                     |  git: add my services page                                |        15/05/2025            |
 |  Frontend    | feature/Signup-LogIn  |       4b77e11…676edda                    | git: add functional login-page                             |                    |
-|  Frontend    | feature/appointments  |      735b2a7                             | appointment vue components                                 |                    |
-|  Frontend    | feature/service-customer  |        879ca53…2388dae                   |feat: initial commit                                     |                    |
-|  Frontend    | feature/Signup-LogIn  |        891c35a…4b77e11                   |git: add specialty page                                     |                    |
-|  Frontend    | feature/home-technician  |         879ca53                   |git: initial commit                                      |                    |
-|  Frontend    | feature/Signup-LogIn  |        93a14e9…891c35a                   |git: git: add sigunp page                                   |                    |
-|  Frontend    | feature/Signup-LogIn  |        879ca53…93a14e9                   |git: add welcome and login page                               |                    |
+|  Frontend    | feature/appointments  |      735b2a7                             | appointment vue components                                 |      15/05/2025              |
+|  Frontend    | feature/service-customer  |        879ca53…2388dae                   |feat: initial commit                                     |      15/05/2025                    |
+|  Frontend    | feature/Signup-LogIn  |        891c35a…4b77e11                   |git: add specialty page                                     |        14/05/2025             |
+|  Frontend    | feature/home-technician  |         879ca53                   |git: initial commit                                      |    14/05/2025                |
+|  Frontend    | feature/Signup-LogIn  |        93a14e9…891c35a                   |git: git: add sigunp page                                   |     13/05/2025                |
+|  Frontend    | feature/Signup-LogIn  |        879ca53…93a14e9                   |git: add welcome and login page                               |   13/05/2025                  |
 
 
 
