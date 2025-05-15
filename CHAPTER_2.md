@@ -30,10 +30,11 @@
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-- **Enfoque Local**: Atender principalmente el mercado peruano de pequeños emprendimientos.
-- **UX Dinámica y gamificación**: Priorizar una experiencia visualmente atractiva.
-- **Dinámica Cliente-Negocio**: Plataforma dual (gestión + marketplace).
-- **Networking**: Conectar servicios de IT y reparación automovilística con marketplaces.
+- **Enfoque Local**: Actualmente nuestros principales competidores se enfocan en el mercado Angloparlante y negocios grandes, incluyendo multinacionales y franquicias. Esto hace que sus funcionalidades puedan resultar muy complejas para pequeños y medianos negocios que son la mayoría en el Perú y al mismo tiempo que no se promocionen apropiadamente al punto de que varios talleres optan por herramientas no especializadas como es el caso de excel. Nuestra propuesta va dirigida a promocionarse entre estos pequeños y medianos talleres, ajustando tanto los precios, una interfaz más sencilla para sus necesidades y marketing enfocado en este sector.
+
+- **UX Dinámica y gamificación**: Las alternativas en el mercado se enfocan principalmente en la experiencia de web y de escritorio además de tener muchas funcionalidades que pueden hacerlas confusas para negocios que no las van a utilizar. Nos enfocaremos en brindar una experiencia movil rápida y dinámica sin descuidar la experiencia de escritorio, nos enfocaremos en los procesos importantes y en que la interfaz guie paso a paso a los clientes para que hagan el mínimo de esfuerzo posible para mantenerse al día con sus operaciones 
+- **Dinámica Cliente-Negocio**: Las alternativas del mercado se enfocan principalmente en la gestión de operaciones por parte del negocio. Nuestra aplicación busca implementar una dinámica de Marketplace en la que adicionalmente a la gestión de operaciones los negocios puedan mantener contacto con sus potenciales clientes y que al mismo tiempo los clientes puedan encontrar a los negocios dentro de la aplicación y recibir las actualizaciones de sus reparaciones mediante notificaciones en la misma.
+- **Networking**: Inicialmente podemos ofrecer nuestro software a pequeños negocios que no cuenten con herramientas especializadas, mientras vamos perfeccionando nuestros sistemas y herramientas para cumplir con las necesidades de esa clientela inicial podemos posteriormente usar un programa de referidos para que esos primeros clientes tengan un incentivo en recomendar el servicio a negocios afines.
 
 ---
 
@@ -79,6 +80,17 @@
 ### 2.2.2. Registro de entrevistas.
 
 #### **Sección 1: Dueños de Negocio**  
+
+| **ID Entrevista** | Fecha       | Tipo de Entrevistado | Duración | Entrevistador |  
+|--------------------|-------------|----------------------|----------|---------------|  
+| N-001              | 22/04/2025     | [Negocio]    | 4:57 | Josue Arrunategui    |  
+
+<video controls width="100%">
+    <source src="./videos/Video%20de%20WhatsApp%202025-04-23%20a%20las%2014.35.47_afe4be14.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+
 | Pregunta                                                                 | Respuesta | Notas |  
 |--------------------------------------------------------------------------|-----------|-------|  
 | ¿En qué tipo de reparaciones está especializado?                        | Generalista pero se especializa en televisores     | ...   |  
@@ -102,6 +114,11 @@
 | R-001              | 22/04/2025     | [Negocio]    | 4:57 | Josue Arrunategui    |  
 
 
+<video controls width="100%">
+    <source src="./videos/2025-04-22%2018-19-34.mkv" type="video/x-matroska">
+    Your browser does not support the video tag.
+</video>
+
 
 | Pregunta                                                                 | Respuesta | Notas |  
 |--------------------------------------------------------------------------|-----------|-------|  
@@ -120,7 +137,12 @@
 
 | **ID Entrevista** | Fecha       | Tipo de Entrevistado | Duración | Entrevistador |  
 |--------------------|-------------|----------------------|----------|---------------|  
-| 002              | 22/04/2025     | [Cliente]    |   4:57  | Eduardo André Chero
+| R-002              | 22/04/2025     | [Cliente]    |   4:57  | Eduardo André Chero
+
+<video controls width="100%">
+    <source src="./videos/Video%20de%20WhatsApp%202025-04-23%20a%20las%2012.51.10_61d8b5c0.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
 
 | Pregunta                                                                 | Respuesta | Notas |  
 |--------------------------------------------------------------------------|-----------|-------|  
