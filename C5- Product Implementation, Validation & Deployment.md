@@ -368,7 +368,6 @@ Para este sprint no se implemento API alguna ya que no realizo el desarrollo de 
 Durante la realizacion de este sprint 2 se realizo el deployment de la Fake-Api y el FrontEnd realizado en VueJS. Los servicios usados para estos fueron los siguientes respectivamente:
 
 - Render: <br>
-<br>
 ![Render](images/FakeApi.png)
 
 <br>
