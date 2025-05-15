@@ -40,42 +40,7 @@ Abril 2025
 
 # **Registro de Versiones**
 
-<table>
-  <thead>
-    <tr>
-        <th>Versión</th>
-        <th>Fecha</th>
-        <th>Autor</th>
-        <th>Descripción de modificación</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-      <td><strong>TB1</strong></td>
-      <td>Abril</td>
-      <td>
-        <ul>
-            <li>Sebastian Cordova Valdivia</li> 
-            <li>Stanley Jeremy Gutierrez Tume</li> 
-            <li>Edson Diego Llamozas Diaz</li> 
-            <li>José Luis Martinez Valdivia</li> 
-            <li>Karen Stephanie Ramos Carpio</li> 
-        </ul>
-      </td>
-      <td>
-        Se han incluído los siguientes capítulos:
-        <ul>
-          <li>Capítulo I: Introducción</li>
-          <li>Capítulo II: Requirements Elicitation & Analysis</li>
-          <li>Capítulo III: Requirements Specification</li>
-          <li>Capítulo IV: Product Design</li>
-          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 Sprint 1</li>
-          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
-        </ul>
-      </td>
-  </tr>
-  </tbody>
-</table>
+
 
 | Versión | Fecha | Autor | Descripción de modificación |
 |---------|--------|--------|-----------------------------|
@@ -86,7 +51,7 @@ Abril 2025
 |          |      | - Karen Stephanie Ramos Carpio |  - Capítulo IV: Product Design         |
 |        |         |                               |  - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 Sprint 1 |
 |        |        |                                | - Avance de Conclusiones, Bibliografía y Anexos |
-|---------|--------|--------|-----------------------------|
+|---------|--------|--------|-----------------------------| ---------------|
 | **TB1** | Abril | - Sebastian Cordova Valdivia | Se han incluído los siguientes capítulos:       |  
 |         |       | - Stanley Jeremy Gutierrez Tume |  - Capítulo V: Product Implementation, Validation & Deployment Sprint 2      |
 |         |       | - Edson Diego Llamozas Diaz |             |
@@ -102,6 +67,8 @@ Abril 2025
 
 
 # **Project Report Collaboration Insights**
+
+- Link reporte de colaboracion: https://docs.google.com/document/d/1W-I5-6qHXd3LuX2ydWWEy1LttrD2ZhB1sVR9mH24Xso/edit?usp=sharing
 
 <br>
 <br>
