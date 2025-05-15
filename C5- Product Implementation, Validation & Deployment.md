@@ -300,7 +300,7 @@ Sprint Goal & User Stories: -
 
 Sprint 2 goal: Diseñar e implementar el FrontEnd del Aplicativo Web.
 
-Sprint 1 Velocity: 25
+Sprint 1 Velocity: 12
 
 Sum of Story Points:31
 #### 5.2.2.2. Sprint Backlog 2
@@ -327,7 +327,7 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint:
 **Sprint Velocity:** 12 puntos  
 **Fecha del Sprint:** 02-05-2025  
 
-![TRELLO](images/TRELLO.PNG)
+![TRELLO]()
 
 #### 5.2.2.3. Aspect Leaders and Collaborators
 #### 5.2.2.4. Development Evidence for Sprint Review
