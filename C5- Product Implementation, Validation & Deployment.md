@@ -382,3 +382,7 @@ Durante la realizacion de este sprint 2 se realizo el deployment de la Fake-Api 
 
 - Aplicativo: https://repairlink.netlify.app/
 #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+Durante este sprint, la colaboración del equipo se mantuvo constante y bien organizada, facilitando el cumplimiento exitoso de los objetivos establecidos.En la reunión, se asignaron responsabilidades específicas a cada integrante, permitiendo una distribución eficiente del trabajo y un entendimiento claro de las tareas a ejecutar.
+A lo largo de este sprint se lograron avances significativos en el desarrollo del Front-End de RepairLink, empleando el framework Vue.js. Se llevaron a cabo implementaciones clave, entre las que destacan las interfaces para el registro e inicio de sesión de usuarios y técnicos, la configuración del perfil profesional del técnico, así como la vista principal del cliente, su panel de servicios y su perfil personal.
+El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, utilizando WhatsApp como canal principal para resolver dudas rápidas y coordinar avances. Esta estrategia permitió que los integrantes estuvieran alineados en todo momento, promoviendo un flujo de trabajo continuo y sin interrupciones significativas, nos basamos en diseñar e implementar el FrontEnd con el objetivo de concretar nuestra propuesta de valor.
