@@ -1,16 +1,11 @@
-<p align="center">
-  <img src="images/UpcLogo.png" alt="Logo de UPC" width="100%">
-</p>
+  ![DEPLOYMENT](images/UpcLogo.png)
 
-<div align="center">
 
 # Universidad Peruana de Ciencias Aplicadas
 
 ## Carrera de Ingeniería de Software
 
-</div>
 
-<div align="center">
 
 Ciclo: 2025 - 0 1
 
@@ -51,8 +46,7 @@ Abril 2025
 |          |      | - Karen Stephanie Ramos Carpio |  - Capítulo IV: Product Design         |
 |        |         |                               |  - Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8 Sprint 1 |
 |        |        |                                | - Avance de Conclusiones, Bibliografía y Anexos |
-|---------|--------|--------|-----------------------------| ---------------|
-| **TB1** | Abril | - Sebastian Cordova Valdivia | Se han incluído los siguientes capítulos:       |  
+| **TB2** | Abril | - Sebastian Cordova Valdivia | Se han incluído los siguientes capítulos:       |  
 |         |       | - Stanley Jeremy Gutierrez Tume |  - Capítulo V: Product Implementation, Validation & Deployment Sprint 2      |
 |         |       | - Edson Diego Llamozas Diaz |             |
 |         |       | - José Luis Martinez Valdivia |         |
@@ -126,6 +120,12 @@ Abril 2025
      </tr>
   </tbody>
 </table>
+
+| Criterio Específico | Acciones Realizadas | Conclusiones |
+|---------------------|---------------------|--------------|
+| **Trabaja en equipo para proporcionar liderazgo en forma conjunta** | **TB1**<br>- **Karen Ramos**: En esta entrega me encargué del desarrollo del capítulo 1. También apoyé en el capítulo 4, wireframes y mockups mobile y desktop de la app web. Me encargué de la sección de “Reparations” del Landing Page. Colaboré en la entrevista del segmento Customers. Estas actividades me ayudaron a tomar el liderazgo junto con mi equipo.<br>- **José Martinez**: La realización de la TB1 me permitió trabajar en un ambiente nuevo, mejorando mi capacidad de adaptación a los cambios.<br>- **Stanley Jeremy Gutierrez Tume**: Este trabajo en equipo fue productivo ya que cada uno aportó ideas y conocimientos, reforzando mis habilidades y contribuyendo activamente.<br>- **Sebastián Córdova**: Me encargué del Capítulo 3, incluyendo To-Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog. También desarrollé la sección 'Be a Technician' del Landing Page. Esto fortaleció mis habilidades en equipo y aplicación de conceptos clave. | **TB1**<br>Se logró realizar un trabajo sobresaliente, cumpliendo con todos los segmentos del trabajo y entregando un documento que sirve como sustento para comprender los pasos en la planificación, desarrollo y entrega del proyecto, trabajando en equipo. |
+| **Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.** | **TB1**<br>- **Karen Ramos**: Aprendí a desenvolverme en un entorno colaborativo, respetando y valorando ideas. Establecimos metas claras, dividimos responsabilidades y organizamos tareas. Esto mejoró mi eficiencia y contribución al resultado final.<br>- **José Martinez**: Mejoré mis habilidades para delegar tareas y cumplir metas en el tiempo asignado, aumentando mi eficiencia.<br>- **Stanley Jeremy Gutierrez Tume**: Definimos metas claras, planificamos y asignamos tareas para cumplir los objetivos, mejorando la coordinación y comunicación.<br>- **Sebastián Córdova**: Mejoré mi trabajo en equipo al asumir tareas clave, lo cual favoreció el aprendizaje y aplicación práctica de conceptos de la carrera. | **TB1**<br>Fortalecimos nuestra capacidad de colaborar en un entorno inclusivo, escuchando ideas y aportando soluciones. Participamos en la planificación de tareas, establecimos metas claras y distribuimos responsabilidades. Esta experiencia mejoró nuestra eficiencia, cumplimiento de plazos y contribución al proyecto. |
+
 
 # **Project Report Online**
 
