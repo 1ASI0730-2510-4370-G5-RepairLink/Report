@@ -372,11 +372,13 @@ Durante la realizacion de este sprint 2 se realizo el deployment de la Fake-Api 
 
 <br>
 
-- Netlify: <br>
+- Netlify:  <br>
 ![Netlify](images/Netlify.png)
 <br>
 
 - Video Implementacion: https://shorturl.at/MaTQ7 <br>
 ![video](images/video.png)
 <br>
+
+- Aplicativo: https://repairlink.netlify.app/
 #### 5.2.2.8. Team Collaboration Insights during Sprint
