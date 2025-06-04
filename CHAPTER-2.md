@@ -8,7 +8,7 @@
 | **¿Por qué llevar a cabo este análisis?**                                                          |
 | **¿Qué aspecto le falta a las alternativas en el mercado que podamos cubrir en nuestra aplicación?** |
 
-|           | **Nuestra Startup**                                                                 | **MaintainX**                          | **OpenRMA**                          | **Repero**                          |
+|           | **RepairLink**                                                                 | **MaintainX**                          | **OpenRMA**                          | **Repero**                          |
 |-----------|-------------------------------------------------------------------------------------|----------------------------------------|--------------------------------------|-------------------------------------|
 | **Perfil**    | Plataforma impulsada por IA para empresas de reparación informática/electrónica. Diseñada para talleres, autónomos y empresas, especializada en nichos como IoT y electrónica antigua. | Aplicación para seguimiento de mantenimiento reactivo y preventivo. | Tracking para negocios en reparación de computadoras, con notificaciones por email/SMS. | Aplicación usada por pequeñas tiendas de reparación con soluciones IT y plan gratuito. |
 | **Ventaja Competitiva** | Herramientas a medida para flujos de trabajo, plazos predictivos, seguimiento de componentes, gestión de garantías. | Automatización simplificada del flujo de trabajo. | Gestión de talleres de reparación con actualizaciones en tiempo real. | Seguimiento simplificado de reparaciones e inventario. |
