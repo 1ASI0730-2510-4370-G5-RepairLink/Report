@@ -181,30 +181,7 @@
 
 ### 2.2.3. Análisis de entrevistas.
 
-#### Síntesis por Categorías
-
-Categoría    | Hallazgos Clave	 | Recomendaciones |  
-|--------------------------------------------------------------------------|-----------|-------|  
-| **Comunicación** | Los negocios principalmente se comunican con sus clientes mediante Whatsapp     | Implementar notificaciones automáticas multi-canal (app + WhatsApp) y plantillas de mensajes.   |
-| **Transparencia** | -Los clientes prefieren seguimiento en tiempo real     | Crear un panel que permita a los técnicos publicar el progreso y a los usuarios visualizarlo y recibir notificaciones al respecto   |
-| **Precios** |  Técnicos prefieren suscripción mensual accesible.Clientes pagarían más por transparencia (condicional).  | Ofrecer plan freemium para técnicos y niveles premium con garantías verificadas. |
-
-
-#### Pain Points Prioritizados
-
-Pain Point	    | Impacto |  
-|--------------------------------------------------------------------------|-----------|  
-| **Herramientas fragmentadas** | Alto |
-| **Falta de transparencia en procesos** | Alto |
-| **Comunicación reactiva (no proactiva)** | Medio   |
-
-#### Oportunidades de Producto
-
-Oportunidad   | Potencial | Alcance |  
-| --------------------------------------------------------------------------|-----------|-------|  
-| **Panel unificado de reparaciones** | Alto      | Técnicos/Clientes	   |
-| **Notificaciones automáticas** | Alto      | Clientes   |
-| **Certificaciones técnicas visibles** |  Medio  | Clientes | 
+El análisis de las entrevistas reveló que los usuarios valoran una comunicación clara y continua en los servicios de reparación. Braython, Ana Lucia y Josue coincidieron en que la falta de un sistema centralizado para gestionar citas, inventarios y actualizaciones de progreso genera frustración y errores. Todos prefieren recibir notificaciones a través de aplicaciones móviles, ya que les resultan más accesibles y convenientes. Aunque están interesados en herramientas más eficientes, temen que los nuevos sistemas sean complejos o costosos. Sin embargo, estarían dispuestos a pagar un poco más por servicios que ofrezcan mayor transparencia, trazabilidad y eficiencia. La necesidad de un sistema de gestión centralizado que facilite la organización y la comunicación con los clientes es una prioridad común entre los entrevistados.
 
 ## 2.3. Needfinding.
 
