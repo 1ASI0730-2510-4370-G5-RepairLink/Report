@@ -85,46 +85,49 @@
 
 | **Datos del entrevistado**                                                             |
 |----------------------------------------------------------------------------------------|
-| **Nombre:** Josue Arrunategui                                                          |
-| **Edad:**                                                                              |  
-| **Género:**                                                                            |  
-| **Distrito:**                                                                          |
-| **Ocupación:**                                                                         |  
-| **Estado Civil:**                                                                      |  
-| **Inicio de la entrevista:**                                                           |  
-| **Duración de la entrevista:**                                                         |  
+| **Nombre:** Jhovanny Hernandez                                                         |
+| **Edad:** 25                                                                           |  
+| **Género:** Masculino                                                                  |  
+| **Distrito:** Lince                                                                    |
+| **Ocupación:** Técnico en reparaciones generales                                       |  
+| **Estado Civil:** Soltero                                                              |  
+| **Link de la entrevista:** [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EVjvWFhAE5pEsBwhMZFUOo4BPuxo-onDmizq_2cMY9g_Sw?e=GzuCxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                             |
+| **Inicio de la entrevista:** 00:05                                                     |  
+| **Duración de la entrevista:** 05 minutos                                              |  
 | ![Imagen Entrevista 1]()                                                               | 
-| **Resumen:**                                                                           |  
+| **Resumen:** Jhovanny Hernández, un técnico especializado en instalaciones generales, realiza entre 15 y 20 reparaciones al mes, principalmente en áreas de electricidad, fontanería y mantenimiento preventivo. Actualmente, gestiona sus trabajos de manera manual, utilizando agendas en papel y aplicaciones básicas para la comunicación con los clientes, lo que le resulta ineficiente y frustrante. Su mayor desafío es coordinar los trabajos, controlar el progreso y gestionar el inventario de herramientas. A pesar de ser organizado, la falta de un sistema centralizado le dificulta el seguimiento de las reparaciones y las actualizaciones a los clientes. Jhovanny busca un software de gestión que le permita organizar citas, hacer un seguimiento de las reparaciones, gestionar inventarios y mantener a los clientes informados sobre los plazos y retrasos. Prefiere un modelo de suscripción mensual que sea sencillo y accesible, sin complicaciones adicionales, y estaría dispuesto a probar una versión beta de un software que se ajuste a sus necesidades.                                                                           |  
 
 **Entrevista 2**
 
 | **Datos del entrevistado**                                                             |
 |----------------------------------------------------------------------------------------|
-| **Nombre:** Josue Arrunategui                                                          |
-| **Edad:**                                                                              |  
-| **Género:**                                                                            |  
-| **Distrito:**                                                                          |
-| **Ocupación:**                                                                         |  
-| **Estado Civil:**                                                                      |  
-| **Inicio de la entrevista:**                                                           |  
-| **Duración de la entrevista:**                                                         |  
-| ![Imagen Entrevista 1]()                                                               | 
-| **Resumen:**                                                                           |  
+| **Nombre:** Braython Chuctaya Ramirez                                                  |
+| **Edad:** 27                                                                           |  
+| **Género:** Masculino                                                                  |  
+| **Distrito:** Comas                                                                    |
+| **Ocupación:** Tecnico Electricista                                                    |  
+| **Estado Civil:** Soltero                                                              |  
+| **Link de la entrevista:** [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EVjvWFhAE5pEsBwhMZFUOo4BPuxo-onDmizq_2cMY9g_Sw?e=GzuCxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                               |
+| **Inicio de la entrevista:** 05:08                                                     |  
+| **Duración de la entrevista:** 06 minutos                                              |  
+| ![Imagen Entrevista 2]()                                                               | 
+| **Resumen:** Braython Chuctaya Ramirez, un técnico electricista con 27 años, realiza entre 10 y 15 trabajos de reparación al mes, principalmente en instalaciones eléctricas residenciales y comerciales. Actualmente, gestiona sus reparaciones de forma manual, utilizando aplicaciones básicas para la comunicación con los clientes y un registro físico para controlar el inventario, lo cual le resulta poco eficiente. Se enfrenta a dificultades como la falta de centralización de la información, lo que le consume tiempo y genera confusión tanto para él como para los clientes. Braython busca un software de gestión que le permita organizar citas, controlar inventarios, hacer seguimientos de los trabajos y mejorar la comunicación con los clientes mediante recordatorios automáticos. Prefiere un modelo de suscripción mensual que sea sencillo de usar y accesible, sin complicaciones adicionales. Estaría dispuesto a probar una versión beta de un software que cumpla con estas necesidades.                                                                           |  
 
 **Entrevista 3**
 
 | **Datos del entrevistado**                                                             |
 |----------------------------------------------------------------------------------------|
 | **Nombre:** Josue Arrunategui                                                          |
-| **Edad:**                                                                              |  
-| **Género:**                                                                            |  
-| **Distrito:**                                                                          |
-| **Ocupación:**                                                                         |  
-| **Estado Civil:**                                                                      |  
-| **Inicio de la entrevista:**                                                           |  
-| **Duración de la entrevista:**                                                         |  
-| ![Imagen Entrevista 1]()                                                               | 
-| **Resumen:**                                                                           |  
+| **Edad:** 28                                                                           |  
+| **Género:** Masculino                                                                  |  
+| **Distrito:** SJL                                                                      |
+| **Ocupación:** Técnico en reparación de electrodomesticos                              |  
+| **Estado Civil:** Soltero                                                              | 
+| **Link de la entrevista:**  [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EVjvWFhAE5pEsBwhMZFUOo4BPuxo-onDmizq_2cMY9g_Sw?e=GzuCxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                              |
+| **Inicio de la entrevista:** 12:02                                                     |  
+| **Duración de la entrevista:** 08 minutos                                              |  
+| ![Imagen Entrevista 3]()                                                               | 
+| **Resumen:** Josue Arrunategui, un técnico de reparación de electrodomésticos, realiza alrededor de 20 trabajos al mes, incluyendo reparaciones de refrigeradores, lavadoras y microondas. Actualmente, gestiona las reparaciones y la comunicación con los clientes de manera manual, utilizando aplicaciones básicas y hojas de cálculo para controlar el inventario de repuestos. Josue busca un software que centralice todo el proceso, desde la gestión de citas hasta el seguimiento de trabajos y repuestos, para mejorar la eficiencia y reducir errores. Prefiere un modelo de suscripción mensual que sea fácil de usar y accesible.                                                                           |  
 
 #### **Segmento Objetivo: Usuarios con dispositivos dañados** 
 
@@ -132,46 +135,49 @@
 
 | **Datos del entrevistado**                                                             |
 |----------------------------------------------------------------------------------------|
-| **Nombre:** Josue Arrunategui                                                          |
-| **Edad:**                                                                              |  
-| **Género:**                                                                            |  
-| **Distrito:**                                                                          |
-| **Ocupación:**                                                                         |  
-| **Estado Civil:**                                                                      |  
-| **Inicio de la entrevista:**                                                           |  
-| **Duración de la entrevista:**                                                         |  
+| **Nombre:** Ana Lucia Aguilar                                                          |
+| **Edad:** 32                                                                           |  
+| **Género:** Femenino                                                                   |  
+| **Distrito:** Jesús María                                                              |
+| **Ocupación:** Ingeniera Quimica                                                       |  
+| **Estado Civil:** Casada                                                               |  
+| **Link de la entrevista:** [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EVjvWFhAE5pEsBwhMZFUOo4BPuxo-onDmizq_2cMY9g_Sw?e=GzuCxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                               |
+| **Inicio de la entrevista:** 20:01                                                           |  
+| **Duración de la entrevista:** 08 minutos                                                        |  
 | ![Imagen Entrevista 1]()                                                               | 
-| **Resumen:**                                                                           |  
+| **Resumen:** Ana Lucia Aguilar, ingeniera química de 32 años, recientemente utilizó un servicio de reparación para su coche. Encontró al proveedor a través de una recomendación de un amigo y recibió actualizaciones sobre el progreso de la reparación mediante mensajes de texto. Aunque la comunicación fue clara, Ana Lucia se sintió frustrada por la falta de detalles específicos y el tiempo de respuesta entre los mensajes. Esto no la haría más propensa a elegir ese servicio nuevamente, ya que valora la transparencia y la eficiencia en la comunicación. Prefiere recibir actualizaciones a través de notificaciones en una aplicación móvil. Aunque está dispuesta a pagar un poco más por un servicio que ofrezca mayor transparencia, el mayor quebradero de cabeza que ha enfrentado con los servicios de reparación ha sido la falta de seguimiento claro y constante. Ana Lucia está abierta a ser contactada para más detalles.                                                                           |  
 
 **Entrevista 2**
 
 | **Datos del entrevistado**                                                             |
 |----------------------------------------------------------------------------------------|
-| **Nombre:** Josue Arrunategui                                                          |
-| **Edad:**                                                                              |  
-| **Género:**                                                                            |  
-| **Distrito:**                                                                          |
-| **Ocupación:**                                                                         |  
-| **Estado Civil:**                                                                      |  
-| **Inicio de la entrevista:**                                                           |  
-| **Duración de la entrevista:**                                                         |  
-| ![Imagen Entrevista 1]()                                                               | 
-| **Resumen:**                                                                           |  
+| **Nombre:** Elizabeth Quispe                                                           |
+| **Edad:** 33                                                                           |  
+| **Género:** Femenino                                                                   |  
+| **Distrito:** Lince                                                                    |
+| **Ocupación:** Analista Programador                                                    |  
+| **Estado Civil:** Soltera                                                              | 
+| **Link de la entrevista:**  [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EVjvWFhAE5pEsBwhMZFUOo4BPuxo-onDmizq_2cMY9g_Sw?e=GzuCxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                              |
+| **Inicio de la entrevista:** 29:03                                                     |  
+| **Duración de la entrevista:**  10 minutos                                             |  
+| ![Imagen Entrevista 2]()                                                               | 
+| **Resumen:** Elizabeth Quispe, analista programador de 33 años, utilizó recientemente un servicio de reparación para su ordenador. Encontró al proveedor a través de una búsqueda en línea y recibió actualizaciones sobre el progreso de la reparación a través de correo electrónico. Aunque la comunicación fue adecuada, Elizabeth se sintió frustrada por la falta de detalles técnicos sobre las reparaciones realizadas. Esto no la haría más propensa a elegir ese servicio nuevamente, ya que prefiere una comunicación más clara y directa. Preferiría recibir las actualizaciones a través de notificaciones en una aplicación para mayor comodidad. Aunque no está dispuesta a pagar más por transparencia, su mayor quebradero de cabeza con los servicios de reparación ha sido la falta de información detallada durante el proceso. Elizabeth está dispuesta a ser contactada para más detalles.                                                                          |  
 
 **Entrevista 3**
 
 | **Datos del entrevistado**                                                             |
 |----------------------------------------------------------------------------------------|
-| **Nombre:** Josue Arrunategui                                                          |
-| **Edad:**                                                                              |  
-| **Género:**                                                                            |  
-| **Distrito:**                                                                          |
-| **Ocupación:**                                                                         |  
-| **Estado Civil:**                                                                      |  
-| **Inicio de la entrevista:**                                                           |  
-| **Duración de la entrevista:**                                                         |  
-| ![Imagen Entrevista 1]()                                                               | 
-| **Resumen:**                                                                           |  
+| **Nombre:** Marjori Chaparro                                                           |
+| **Edad:**  23                                                                          |  
+| **Género:** Femenino                                                                   |  
+| **Distrito:** SJL Lima                                                                 |
+| **Ocupación:** Diseñador Grafico                                                       |  
+| **Estado Civil:** Soltera                                                              |  
+| **Link de la entrevista:**  [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EVjvWFhAE5pEsBwhMZFUOo4BPuxo-onDmizq_2cMY9g_Sw?e=GzuCxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)                                                              |
+| **Inicio de la entrevista:** 40:00                                                     |  
+| **Duración de la entrevista:** 10 minutos                                              |  
+| ![Imagen Entrevista 3]()                                                               | 
+| **Resumen:** Su nombre es Marjori tiene 23 años y vive en SJL Lima, solicito un servicio de reparacion hace 2 meses para su celular busco en google reseñas y vio las mas cercana con una mayor calificacion, al pasar por el proceso de reparacion recibio notificaciones via whatsapp sobre las ctulizaciones, le hubiera gustado saber mas sobre el proceso tipo notificaciones sobre la llegada de los repuestos o que ya lo habian recibido, ya que la reparacion demoro mas de lo que le habian indicado, le gustaria un servicio tranpasarente con el proceso, adicional a eso le gustaria recibir actualizaciones mediante la app, pagaria mas por la transparencia, nos indica que el mayor problema de la reparacion fue la fata de informacion y la incertirudmbre sobre cuanto tiempo demoraria.                                                                          |  
 
 ### 2.2.3. Análisis de entrevistas.
 
