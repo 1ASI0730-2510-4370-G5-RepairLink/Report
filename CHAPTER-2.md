@@ -187,26 +187,13 @@ El análisis de las entrevistas reveló que los usuarios valoran una comunicaci�
 
 ### 2.3.1. User Personas.
 
-#### **User Persona: Freelancer / Dueño de negocio pequeño de Reparaciones IT**
+#### **User Persona: Técnico**
 
-- **Objetivos**:  
-  1. Agilizar reparaciones in situ.  
-  2. Minimizar trabajo administrativo.  
+ ![Imagen Entrevista 3](images/Braython.png)  
 
-- **Puntos débiles**:  
-  1. Canales de comunicación dispersos.  
-  2. Falta de software asequible.  
+#### **User Persona: Cliente**
 
-#### **User Persona: Cliente Regular**
-
-- **Objetivos**:  
-  1. Encontrar técnicos calificados.  
-  2. Seguimiento en tiempo real.  
-
-- **Puntos débiles**:  
-  1. Desconfianza en técnicos nuevos.  
-  2. Comunicación lenta.  
-
+![Imagen Entrevista 3](images/AnaLucia.png)
 
 ### 2.3.2. User Task Matrix.
 
