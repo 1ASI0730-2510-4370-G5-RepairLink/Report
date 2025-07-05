@@ -542,6 +542,31 @@ El objetivo de esta sección es entender las frustraciones, necesidades y puntos
 
 ## 2.4. Ubiquitous Language.
 
-### **Lenguaje Ubicuo para la Aplicación**  
+## Ubiquitous Language – RepairLink
+
+Este glosario recoge los términos esenciales utilizados en el dominio del negocio de RepairLink, relacionados al sector de servicios técnicos a domicilio y la gestión digital de dichos servicios. El objetivo es establecer un lenguaje común que facilite la comunicación efectiva entre los miembros del equipo y los stakeholders.
+
+| Término (EN)        | Término (ES)            | Definición |
+|---------------------|--------------------------|------------|
+| **Customer**        | Cliente                  | Persona que requiere un servicio técnico (reparación, mantenimiento u otro) y realiza una solicitud mediante la plataforma RepairLink. |
+| **Technician**      | Técnico                  | Profesional o trabajador calificado que ofrece servicios técnicos y ejecuta tareas solicitadas por los clientes a través de RepairLink. |
+| **Job Request**     | Solicitud de trabajo     | Pedido que realiza un cliente en la plataforma describiendo el problema o servicio requerido. Incluye detalles como tipo de servicio, fecha y dirección. |
+| **Booking**         | Reserva                  | Confirmación de un servicio entre un cliente y un técnico. Puede tener un estado pendiente, confirmado, cancelado o completado. |
+| **Service Category**| Categoría de servicio    | Clasificación general del tipo de servicios ofrecidos (ej. plomería, electricidad, gasfitería). |
+| **Home Visit**      | Visita domiciliaria      | Desplazamiento físico del técnico al domicilio del cliente para realizar la evaluación o ejecución del servicio. |
+| **Quotation**       | Cotización               | Estimación del costo que el técnico entrega al cliente antes de realizar un servicio, con base en la revisión del problema. |
+| **Repair History**  | Historial de reparaciones| Registro de trabajos anteriores realizados por el técnico o recibidos por el cliente. Facilita el seguimiento y la trazabilidad. |
+| **Skill Profile**   | Perfil de habilidades     | Conjunto de conocimientos, especialidades y experiencia declarada por un técnico en su cuenta. Visible para los clientes. |
+| **Verification Status** | Estado de verificación | Nivel de confiabilidad asignado a un técnico, basado en validación de documentos, referencias y calificaciones de usuarios. |
+| **Rating**          | Calificación             | Valoración numérica o por estrellas que los clientes otorgan a los técnicos luego de completar un servicio. |
+| **Feedback**        | Reseña / Opinión         | Comentario textual que acompaña una calificación y permite conocer la experiencia del cliente. |
+| **Issue**           | Incidencia               | Problema o complicación detectada durante un servicio o proceso, que puede requerir atención o resolución por soporte. |
+| **Schedule**        | Agenda / Calendario      | Vista organizada de las fechas y horas disponibles o programadas para que un técnico atienda servicios. |
+| **Support Ticket**  | Solicitud de soporte     | Comunicación formal enviada por un usuario (cliente o técnico) al equipo de soporte de RepairLink para resolver un problema. |
+| **Platform Fee**    | Comisión de plataforma   | Porcentaje o monto fijo que RepairLink cobra a los técnicos por el uso de la plataforma al concretar un servicio. |
+| **Matching Algorithm** | Algoritmo de emparejamiento | Lógica automatizada que selecciona al técnico más adecuado según la ubicación, especialidad, calificación y disponibilidad. |
+| **Trust Profile**   | Perfil de confianza       | Indicador que resume la confiabilidad del técnico basado en verificaciones, cumplimiento y comentarios positivos. |
+| **No-show**         | Inasistencia             | Situación en la que el técnico o cliente no se presenta a la hora acordada para el servicio. |
+
 
 
