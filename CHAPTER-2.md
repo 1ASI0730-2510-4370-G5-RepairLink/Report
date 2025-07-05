@@ -532,27 +532,13 @@ El objetivo de esta sección es entender las frustraciones, necesidades y puntos
 
 ### 2.3.5. As-is Scenario Mapping.
 
-#### Técnico IT
+### As-is Scenario Mapping – Técnico
 
-| **Stages**          | **Actions**               | **Tools Used**       | **Pain Points**       | **Consequences**          |**Opportunities**          |
-|---------------------|---------------------------|----------------------|-----------------------|----------------------------| ----------------------------|
-| **Consulta de clientes** | Llamadas telefónicas, mensajes de WhatsApp   | Excel, WhatsApp      | Llamadas perdidas     | Pérdida de clientes a la competencia  |Integración de reservas online|
-| **Gestión de inventario** | Hojas de cálculo manuales, llamadas telefónicas       | Excel, WhatsApp   | Exceso de existencias/retrasos por errores humanos Retrasos en reparaciones,  | clientes descontentos | Escaneado de códigos de barras + alertas automáticas  |
-| **Ejecución de reparaciones** | Actualizaciones verbales a recepción, formularios en papel o excel      | carpetas físicas, Excel   | Falta de comunicación entre técnicos y clientes | Los clientes se quejan de la falta de actualizaciones |Actualizaciones de estado en tiempo real a través de la app|
-| **Comunicación con el cliente** | SMS/Mensajes por Whatsapp /llamadas para actualizaciones    | Herramientas básicas de SMS, Whatsapp   | Mensajes lentos y que pueden pasarse de largo | Se percibe falta de profesionalidad | Plantillas automatizadas de SMS/correo electrónico  |
-| **Post-Servicio** | Pagos en efectivo/crédito/débito/aplicaciones de transferencia como Yape o Plin    | Herramientas básicas de SMS, Whatsapp   | Retrasos en los pagos, pérdida de recibos | Errores contables, problemas fiscales  | Facturación digital + pasarela de pagos  |
+ ![Imagen Journey Map](images/BraythonASIS.png  
 
+### As-is Scenario Mapping – Cliente
 
-#### Usuario
-
-| **Stages**          | **Actions**               | **Tools Used**       | **Pain Points**       | **Consequences**  | **Opportunities** |
-|---------------------|---------------------------|----------------------|-----------------------|----------------------------|----------------------------|
-| **Identificación de Necesidad** | - Nota que su laptop/iPhone no funciona.<br>- Busca síntomas en Google.       | Google, grupos de Facebook          | Información contradictoria o técnica.       | Ansiedad por no entender el problema.      | Guías con explicación de cómo funcionan las principales reparaciones para que el cliente sepa qué esperar |
-| **Búsqueda de técnicos** | - Busca "reparación iPhone Lima" en Google.<br>- Compara talleres en Maps y redes sociales       | Google Maps, Facebook, Instagram          | -Reseñas falsas o poco detalladas.       | Elige talleres por proximidad, no por calidad.      | Filtros inteligentes (certificaciones, valoraciones reales, disponibilidad en tiempo real, ubicación).|
-| **Comunicación Inicial** | - - Llama o envía WhatsApp para consultar precios y plazos.<br>- Describe el problema verbalmente      | Llamadas, WhatsApp, correo, SMS          | -Malentendidos al explicar el problema.<br>- Demoras en respuestas.      | Citas mal programadas o presupuestos inexactos.     | Formularios de diagnóstico con fotos/vídeos en la app. |
-| **Seguimiento de Reparación** | - Llama repetidamente para preguntar "¿Está listo?".<br>- Revisa correos/SMS sin actualizaciones.     | Llamadas, WhatsApp, correo, SMS          | -Falta de transparencia en el progreso.<br>-Frustración por falta de actualizaciones.  | Pérdida de tiempo y desconfianza.     | Panel de seguimiento en tiempo real con notificaciones automáticas |
-| **Pago y Feedback** | - Recibe una factura impresa o digital   | - Efectivo, tarjeta, aplicaciones de pago.<br>- Google Reviews o Facebook  | -Facturas poco claras o con cargos sorpresa.  | Desconfianza post-servicio y poca fidelización.     |- Facturas digitales con desglose<br>- Reseñas anónimas en la app.|
-
+ ![Imagen Journey Map](images/AnaluciaASIS.png)  
 
 ## 2.4. Ubiquitous Language.
 
