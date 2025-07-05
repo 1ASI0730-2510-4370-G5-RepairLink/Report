@@ -521,33 +521,14 @@ El objetivo de esta sección es entender las frustraciones, necesidades y puntos
 
 ### 2.3.4. Empathy Mapping.
 
-#### Técnico IT
+### Modelo de Empathy Mapping– Técnico
 
-| **Say**                          | **Thinks**                     | **Feels**                      | **Does**                     |
-|----------------------------------|--------------------------------|--------------------------------|------------------------------|
-| “El proceso es muy tedioso”      | “Necesito ahorrar tiempo y energías en mantener este sistema” | Frustrado por tener que mantenerse al tanto de las notificaciones a los clientes y las actualizaciones en su inventario   | Revisa las notificaciones que le proporciona la aplicación para realizar estas tareas de la forma más rápida posible |
+ ![Imagen Journey Map](images/BraythonEmphatyMap.png)  
 
-Puntos débiles:
-* Escepticismo de los clientes sobre el servicio.
-* Pérdida de tiempo en el inventario manual.
+### Modelo de Empathy Mapping – Cliente
 
-Ventajas:
-* La transparencia genera confianza.
-* La automatización libera tiempo para el trabajo práctico.
+ ![Imagen Journey Map](images/AnaluciaEmphatyMap.png)  
 
-
-#### Usuario
-
-| **Say**                          | **Thinks**                     | **Feels**                      | **Does**                     |
-|----------------------------------|--------------------------------|--------------------------------|------------------------------|
-| "No sé si este técnico es confiable" | "¿Me cobrarán de más?"        | Ansiedad por perder tiempo o dinero    | Busca reseñas en Google y redes sociales como Facebook    |
-| “¿Cuándo estará listo mi teléfono o equipo?” | “Ojalá pueda recuperar mis datos.”        | Aliviado cuando recibe actualizaciones claras.    | Envía mensajes preguntando “¿Ya está listo?”.   |
-
-Pain Points:
-* Falta de claridad en precios y plazos.
-* Comunicación lenta o inexistente durante la reparación.
-
----
 
 ### 2.3.5. As-is Scenario Mapping.
 
