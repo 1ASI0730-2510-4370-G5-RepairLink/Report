@@ -534,7 +534,7 @@ El objetivo de esta sección es entender las frustraciones, necesidades y puntos
 
 ### As-is Scenario Mapping – Técnico
 
- ![Imagen Journey Map](images/BraythonASIS.png  
+ ![Imagen Journey Map](images/BraythonASIS.png)  
 
 ### As-is Scenario Mapping – Cliente
 
@@ -543,49 +543,5 @@ El objetivo de esta sección es entender las frustraciones, necesidades y puntos
 ## 2.4. Ubiquitous Language.
 
 ### **Lenguaje Ubicuo para la Aplicación**  
-Glosario de términos clave para garantizar comunicación clara y consistente.
 
----
 
-#### **Términos Principales**  
-| Término (ES)               | Término (EN)           | Definición                                                                 | Relevancia              |  
-|-----------------------------|-------------------------|-----------------------------------------------------------------------------|-------------------------|  
-| **Reparación en curso**     | Repair in Progress      | Reparación activa siendo trabajada por un técnico.                         | Técnicos y clientes     |  
-| **Actualización de estado** | Status Update           | Notificación automática (ej: "Diagnóstico completado") con foto/vídeo.    | Clientes                |  
-| **Inventario de repuestos** | Parts Inventory         | Sistema para gestionar componentes IT (pantallas, placas base, SSD).      | Técnicos                |   
-| **Certificación técnica** | Technician Certification         | Badge que valida habilidades específicas (ej: "Especialista en MacBooks").      | Clientes                |   
-| **Tiempo estimado (ETA)** | Estimated Time	         | Predicción digitada manualmente o  basada en IA del tiempo restante (ej: "ETA: 1h30m").      | Clientes                |    
-
----
-
-#### **Ejemplos de Uso**  
-**Para técnicos**:  
-Actualicé el **inventario de repuestos** y el sistema generó un **ETA** de 3 horas. El cliente recibió una **actualización de estado** con foto del proceso"*  
-
-**Para clientes**:  
- *"Mi **reparación en curso** muestra un **ETA** de 2h."*  
-
----
-
-#### **Reglas de Implementación**  
-1. **Consistencia**:  
-   Usar siempre los términos cuando correspondan
-
-2. **Contextualización**:  
-   Explicar conceptos *"ETA"* como "Tiempo Estimado de Reparación" en el pie de página.  
-
-3. **Validación**:  
-   Asegurar que todos entienden los términos utilizados.  
-
----
-
-#### **Glosario Técnico Adicional**  
-| Término (ES)               | Definición                                  |  
-|-----------------------------|---------------------------------------------|  
-| **Modo offline**           | Funcionalidad para trabajar sin conexión.  |  
-| **Plantilla de reparación**| Secuencia predefinida para fallos comunes. |  
-
----
-
-**Impacto**:  
-Este lenguaje unificado reducirá errores de comunicación y alineará expectativas entre técnicos, clientes y desarrolladores.
