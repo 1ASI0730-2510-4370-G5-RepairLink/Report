@@ -1,42 +1,314 @@
 # Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1. Competidores.
+
+<h2><li>MaintainX:</li></span></h2><br>
+Descripción:MaintainX es una plataforma digital centrada en la gestión de mantenimiento, inspecciones y operaciones de primera línea. Su aplicación móvil permite a los equipos registrar, ejecutar y dar seguimiento a órdenes de trabajo en tiempo real. Está orientada principalmente a sectores industriales, manufactureros, hospitalarios y de instalaciones, con un enfoque en eficiencia operativa y cumplimiento de normativas. <br>
+<h3><li>Modelo de negocio:</li></span></h3><br> MaintainX opera bajo un modelo SaaS (Software as a Service), con planes de suscripción mensual por usuario. Ofrece diferentes niveles de funcionalidad (básico a empresarial) y está enfocado en empresas que requieren digitalizar procesos de mantenimiento preventivo, correctivo y predictivo, a través de dispositivos móviles y en la nube..<br>
+<h2><li>OpenRMA:</li></span></h2><br>
+Descripción: OpenRMA es un software de gestión para servicios técnicos que permite controlar el flujo completo de órdenes de reparación, inventario, clientes y facturación. Está diseñado para talleres y centros de servicio que manejan productos en garantía o fuera de garantía. Su enfoque es facilitar el proceso de retorno y mantenimiento de productos a través de una interfaz clara y funcional.<br>
+<h3><li>Modelo de negocio:</li></span></h3><br> OpenRMA combina un modelo de licencia de pago único para su versión de escritorio (Windows) con una alternativa en la nube mediante suscripción mensual. Esta estructura híbrida permite a pequeñas empresas elegir entre una solución económica sin pagos recurrentes o una plataforma en línea con respaldo y actualizaciones continuas.<br>
+<h2><li>Repero</li></span></h2><br>
+Descripción: Repero es una plataforma especializada en la gestión de servicios técnicos y reparaciones, que permite registrar tickets, gestionar inventario, seguir el estado de las reparaciones y emitir reportes personalizados. Está orientado a negocios de reparación de electrónica, electrodomésticos o tecnología, facilitando una atención rápida y organizada al cliente final. <br>
+<h3><li>Modelo de negocio:</li></span></h3><br>Repero funciona como software en la nube con acceso bajo suscripción. Su modelo SaaS permite a los usuarios acceder desde cualquier dispositivo con conexión a internet, y escalar el servicio según el volumen de órdenes o número de técnicos, con herramientas específicas para talleres de reparación pequeños y medianos.<br><br>
+
 ### 2.1.1. Análisis competitivo.
 
-| **Competitive Analysis Landscape**                                                                 |
-|----------------------------------------------------------------------------------------------------|
-| **¿Por qué llevar a cabo este análisis?**                                                          |
-| **¿Qué aspecto le falta a las alternativas en el mercado que podamos cubrir en nuestra aplicación?** |
+<table>
+  <thead>
+    <tr>
+      <th colspan="6" style="text-align: center">
+        <h2>Competitive Analysis Landscape</h2>
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" rowspan="2" align="center">¿Por qué llevar a cabo este análisis?</td>
+      <td colspan="4" align="center">
+        ¿Quiénes son nuestros principales competidores?
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center">
+        Este análisis permite conocer el ecosistema competitivo, identificando fortalezas y debilidades de plataformas similares. Nos brinda la posibilidad de tomar decisiones estratégicas y posicionar nuestro producto de forma diferenciada en el mercado.
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3" align="center">Perfil</td>
+      <td align="center">Overview</td>
+      <td align="center">RepairLink<br><img src="./images/repairlink.png" alt="Logo RepairLink" width="40%"></td>
+      <td align="center">MaintainX<br><img src="./images/maintainx.png" alt="Logo MaintainX" width="40%"></td>
+      <td align="center">OpenRMA<br><img src="./images/openrma.png" alt="Logo OpenRMA" width="40%"></td>
+      <td align="center">Repero<br><img src="./images/repero.png" alt="Logo Repero" width="40%"></td>
+    </tr>
+    <tr>
+      <td align="center">Descripción</td>
+      <td align="center">
+        Plataforma integral que conecta técnicos con clientes, permite gestionar perfiles, habilidades técnicas, agendamiento de servicios y control de usuarios en tiempo real.
+      </td>
+      <td align="center">
+        Plataforma móvil y web para gestión de mantenimiento preventivo, órdenes de trabajo e inspecciones.
+      </td>
+      <td align="center">
+        Software RMA para gestión de reparaciones, inventario y tickets en talleres técnicos.
+      </td>
+      <td align="center">
+        Herramienta en la nube para registrar reparaciones, clientes, inventario y generar reportes.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Modelo de negocio</td>
+      <td align="center">
+        SaaS con acceso gratuito básico y planes premium escalables para técnicos y empresas.
+      </td>
+      <td align="center">SaaS (suscripción mensual por usuario)</td>
+      <td align="center">Licencia de pago único (desktop) o suscripción (cloud)</td>
+      <td align="center">Suscripción mensual basada en la nube</td>
+    </tr>
+    <tr>
+      <td rowspan="2" align="center">Perfil de marketing</td>
+      <td align="center">Mercado objetivo</td>
+      <td align="center">
+        Técnicos independientes, empresas de mantenimiento, hogares y oficinas.
+      </td>
+      <td align="center">
+        Empresas industriales, hospitales y fábricas.
+      </td>
+      <td align="center">
+        Talleres técnicos, servicios postventa.
+      </td>
+      <td align="center">
+        Técnicos de electrónica y electrodomésticos.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Estrategias de marketing</td>
+      <td align="center">
+        <ul>
+          <li>Landing page con validación de técnicos</li>
+          <li>Marketing digital dirigido</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Inbound B2B</li>
+          <li>SEO y demos</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Presencia en software directories</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Publicidad en buscadores</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="3" align="center">Perfil del producto</td>
+      <td align="center">Productos & Servicios</td>
+      <td align="center">
+        Autenticación, perfiles de usuario, agenda de servicios, panel para técnicos y clientes.
+      </td>
+      <td align="center">
+        Órdenes de trabajo, mantenimiento, inspecciones, reportes.
+      </td>
+      <td align="center">
+        Gestión de reparaciones, inventario y tickets.
+      </td>
+      <td align="center">
+        CRM básico con control de inventario y tickets.
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Precios & Costos</td>
+      <td align="center">
+        <ul>
+          <li>Plan gratuito para usuarios</li>
+          <li>Desde S/. 19.90 para técnicos</li>
+          <li>Planes empresariales desde S/. 99.90</li>
+        </ul>
+      </td>
+      <td align="center">USD 16–99/usuario/mes</td>
+      <td align="center">Desde USD 149 (único) o suscripción mensual</td>
+      <td align="center">Desde USD 12/usuario/mes (aprox.)</td>
+    </tr>
+    <tr>
+      <td align="center">Canales de distribución</td>
+      <td align="center">Web (Vue + .NET API); futura app móvil</td>
+      <td align="center">App móvil y web</td>
+      <td align="center">Software desktop o cloud</td>
+      <td align="center">Web responsive</td>
+    </tr>
+    <tr>
+      <td rowspan="4" align="center">Análisis SWOT</td>
+      <td align="center">Fortalezas</td>
+      <td align="center">
+        <ul>
+          <li>Validación de técnicos</li>
+          <li>Arquitectura moderna</li>
+          <li>Agenda inteligente</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Móvil y escalable</li>
+          <li>Interfaz moderna</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Sin pagos mensuales (versión desktop)</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Simple para pymes</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Debilidades</td>
+      <td align="center">
+        <ul>
+          <li>Marca nueva</li>
+          <li>No está aún en stores</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Costo elevado para pymes</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Diseño poco moderno</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Poca diferenciación</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Oportunidades</td>
+      <td align="center">
+        <ul>
+          <li>Integración con IA</li>
+          <li>Mercado desatendido en LATAM</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Expansión a nuevos sectores</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Mejorar UI/UX</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Agregar más funcionalidades</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Amenazas</td>
+      <td align="center">
+        <ul>
+          <li>Competencia consolidada como OpenRMA o Fiverr</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Alta competencia en mantenimiento</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Falta de actualizaciones</li>
+        </ul>
+      </td>
+      <td align="center">
+        <ul>
+          <li>Apps gratuitas similares</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-|           | **RepairLink**                                                                 | **MaintainX**                          | **OpenRMA**                          | **Repero**                          |
-|-----------|-------------------------------------------------------------------------------------|----------------------------------------|--------------------------------------|-------------------------------------|
-| **Perfil**    | Plataforma impulsada por IA para empresas de reparación informática/electrónica. Diseñada para talleres, autónomos y empresas, especializada en nichos como IoT y electrónica antigua. | Aplicación para seguimiento de mantenimiento reactivo y preventivo. | Tracking para negocios en reparación de computadoras, con notificaciones por email/SMS. | Aplicación usada por pequeñas tiendas de reparación con soluciones IT y plan gratuito. |
-| **Ventaja Competitiva** | Herramientas a medida para flujos de trabajo, plazos predictivos, seguimiento de componentes, gestión de garantías. | Automatización simplificada del flujo de trabajo. | Gestión de talleres de reparación con actualizaciones en tiempo real. | Seguimiento simplificado de reparaciones e inventario. |
-| **Mercado objetivo** | Talleres de reparación informática, autónomos de electrónica, empresas tecnológicas especializadas. | Pequeños y medianos talleres de reparación informática y autónomos. | Pequeños talleres de reparación de informática/electrónica. | Pequeños y medianos talleres de reparación (bicicletas, electrónica, automoción). |
-| **Estrategias de marketing** | Modelo freemium, sistema de referidos, colaboraciones con proveedores de hardware. | Modelo freemium, marketing de contenidos (guías técnicas). | Actualizaciones frecuentes del producto. | Modelo freemium, testimonios de clientes, boletines de noticias. |
-| **Productos & Servicios** | Flujos de trabajo específicos por dispositivo, gestión de inventario con escaneo de códigos de barras, portal del cliente. | Gestión de tickets de reparación, diseño móvil. | Gestión de órdenes de reparación, herramientas de TPV. | Seguimiento de reparaciones, carga de fotos, facturas personalizadas. |
-| **Precios & Costos** | Modelo freemium (hasta $30/mes). | Modelo freemium (hasta €50/mes). | Modelo freemium (hasta €60/mes). | Modelo freemium (hasta €60/mes). |
-| **Canales de distribución** | Web y móvil. | Web y móvil. | Escritorio (Windows) y móvil. | Web y móvil. |
-
-
-
-| **Categoría**         | **RepairLink**          | **MaintainX**                 | **OpenRMA**                  | **Repero**                  |
-|-----------------------|-------------------------------|--------------------------------|------------------------------|-----------------------------|
-| **Fortalezas**        | - Interfaz ágil, sencilla y que motive la gamificación a los usuarios.<br>- Precios escalables: Resulta atractiva para reparadores individuales y equipos informáticos de empresas. <br>-Diseño remoto: Para empresas de reparación híbridas o remotas.  | - Interfaz fácil de usar: Elogiada por su diseño intuitivo, que reduce el tiempo de incorporación <br>- Escalabilidad: Se adapta a empresas con más de 10-100 técnicos.<br>-Rentable: El modelo freemium atrae a startups y autónomos | - Especialización en electrónica<br>- Plantillas predefinidas | - Entrada a bajo coste: El plan gratuito atrae a nuevas empresas y microempresas<br>.-Facilidad de uso: Interfaz intuitiva para usuarios no tecnológicos.<br>-Atractivo global: Soporte multilingüe y precios eurocéntricos.  |
-| **Debilidades**       | - Falta actual de  plantillas específicas de dispositivos (por ejemplo, reparaciones de videoconsolas). <br>- Integración limitada de IA. <br>- Poco presupuesto actual para Marketing | - Flujos de trabajo genéricos: Carece de plantillas específicas de dispositivos (por ejemplo, reparaciones de videoconsolas).<br>- Integración limitada de la IA: Depende de la introducción manual de datos para los plazos de reparación<br>.- | - Diseño desktop-centric<br>- Falta de herramientas remotas | - Escalabilidad limitada<br>- Funciones básicas |
-| **Oportunidades**     | - Adopción de la IA: Integrar modelos de mantenimiento predictivo para prever fallos en los dispositivos informáticoss<br>- Asociaciones con freelancers y pequeños negocios que siguen usando herramientas tradicionales y no especializadas | - Adopción de la IA: Integrar modelos de mantenimiento predictivo para prever fallos en los dispositivos informáticos.<br>-Expansión global: Añadir soporte multilingüe para dirigirse a mercados emergentes como India y LATAM | - Dirigirse a nichos de mercados emergentes (por ejemplo, reparación de dispositivos médicos).<br>-- Desarrollar plantillas intersectoriales | - Dirigirse a mercados emergentes (por ejemplo, reparación de dispositivos médicos). <br>-Integración de IA y herramientas de mantenimiento predictivo |
-| **Amenazas**          | - Competidores establecidos<br>- Amenazas de cyberseguridad.<br>- Auge de las herramientas SaaS «todo en uno» (por ejemplo, Shopmonkey RepairDesk). | - Amenazas de cyberseguridad.<br>- Auge de las herramientas SaaS «todo en uno» (por ejemplo, Shopmonkey RepairDesk). | - Amenazas de cyberseguridad.<br>- Auge de las herramientas SaaS «todo en uno» (por ejemplo, Shopmonkey RepairDesk). <br>- Precios muy elevados en determinados paises | - Amenazas de cyberseguridad.<br>- Auge de las herramientas SaaS «todo en uno» (por ejemplo, Shopmonkey RepairDesk).<br>- Precios muy elevados en determinados paises |
----
 
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
-- **Enfoque Local**: Actualmente nuestros principales competidores se enfocan en el mercado Angloparlante y negocios grandes, incluyendo multinacionales y franquicias. Esto hace que sus funcionalidades puedan resultar muy complejas para pequeños y medianos negocios que son la mayoría en el Perú y al mismo tiempo que no se promocionen apropiadamente al punto de que varios talleres optan por herramientas no especializadas como es el caso de excel. Nuestra propuesta va dirigida a promocionarse entre estos pequeños y medianos talleres, ajustando tanto los precios, una interfaz más sencilla para sus necesidades y marketing enfocado en este sector.
+En base al análisis competitivo efectuado anticipadamente, se logró identificar con exactitud las fortalezas, oportunidades, debilidades y amenazas destacadas de los competidores. Dicha información resulta ser clave para trazar estrategias y tácticas de superación hacia la competencia, cuando el servicio entre al mercado (lanzamiento rentable). A continuación, se brindará una serie de estrategias y tácticas trazadas para alcanzar esta meta:
 
-- **UX Dinámica y gamificación**: Las alternativas en el mercado se enfocan principalmente en la experiencia de web y de escritorio además de tener muchas funcionalidades que pueden hacerlas confusas para negocios que no las van a utilizar. Nos enfocaremos en brindar una experiencia movil rápida y dinámica sin descuidar la experiencia de escritorio, nos enfocaremos en los procesos importantes y en que la interfaz guie paso a paso a los clientes para que hagan el mínimo de esfuerzo posible para mantenerse al día con sus operaciones 
-- **Dinámica Cliente-Negocio**: Las alternativas del mercado se enfocan principalmente en la gestión de operaciones por parte del negocio. Nuestra aplicación busca implementar una dinámica de Marketplace en la que adicionalmente a la gestión de operaciones los negocios puedan mantener contacto con sus potenciales clientes y que al mismo tiempo los clientes puedan encontrar a los negocios dentro de la aplicación y recibir las actualizaciones de sus reparaciones mediante notificaciones en la misma.
-- **Networking**: Inicialmente podemos ofrecer nuestro software a pequeños negocios que no cuenten con herramientas especializadas, mientras vamos perfeccionando nuestros sistemas y herramientas para cumplir con las necesidades de esa clientela inicial podemos posteriormente usar un programa de referidos para que esos primeros clientes tengan un incentivo en recomendar el servicio a negocios afines.
+### Afrontando las fortalezas de los competidores
+- Fortalezas detectadas en la competencia:
+MaintainX: amplia funcionalidad en órdenes de trabajo, escalabilidad y experiencia en grandes industrias.
+OpenRMA: solución madura con buena gestión de tickets y control de inventario.
+Repero: herramienta simple para técnicos, con funcionalidades de CRM y reportes rápidos.
+- Fortalezas propias de RepairLink:
+Validación de técnicos, permitiendo confianza para los clientes.
+Agenda inteligente y moderna adaptada a servicios a domicilio o corporativos.
+Arquitectura tecnológica escalable (frontend Vue.js + backend .NET).
+- Estrategia:
+Enfatizar el valor de conectar técnicos confiables con clientes a través de una interfaz moderna y verificada.
+- Tácticas:
+Integrar dashboards visuales para técnicos y clientes, con estadísticas claras de desempeño y disponibilidad.
+Promocionar la seguridad del sistema de validación mediante casos de éxito.
+Destacar la usabilidad como elemento diferenciador frente a interfaces más rígidas de competidores.
 
----
+### Superando las debilidades de los competidores
+- Debilidades detectadas en la competencia:
+OpenRMA tiene una interfaz antigua y poco intuitiva.
+Repero carece de diferenciadores y cobra por funciones comunes.
+MaintainX es costoso para pequeñas empresas.
+- Debilidades reconocidas en RepairLink:
+Aún no está disponible en tiendas de aplicaciones móviles.
+Marca emergente en etapa inicial de posicionamiento.
+- Estrategia:
+Corregir proactivamente errores, mantener una plataforma estable y enfocarse en la experiencia de usuario.
+- Tácticas:
+Crear un sistema de soporte integrado para el reporte de errores.
+Ofrecer tutoriales interactivos y documentación accesible para usuarios nuevos.
+Liberar una versión progresiva de la app móvil con funcionalidades clave.
+
+### Aprovechando las oportunidades del mercado
+- Oportunidades en el entorno competitivo:
+Bajo enfoque en LATAM por parte de los competidores actuales.
+Falta de personalización en servicios de mantenimiento técnico general.
+Demanda creciente de plataformas que conecten técnicos con hogares u oficinas.
+- Oportunidades propias de RepairLink:
+Ser pionero en el enfoque local y personalizado en Perú y LATAM.
+Ofrecer una solución digital con doble cara: para técnicos y clientes.
+- Estrategia:
+Posicionar RepairLink como una plataforma confiable, accesible y adaptada a la realidad latinoamericana.
+- Tácticas:
+Aplicar pruebas de usabilidad con técnicos locales y recopilar feedback en tiempo real.
+Diseñar la interfaz con principios de accesibilidad y estética moderna.
+Incluir secciones informativas para construir confianza y educar al cliente final.
+
+### Enfrentando las amenazas externas
+- Amenazas comunes detectadas:
+MaintainX domina grandes cuentas empresariales con presupuesto alto.
+Repero y OpenRMA ya tienen usuarios establecidos.
+La competencia puede reaccionar con mejoras similares si detecta el crecimiento de RepairLink.
+- Amenazas internas identificadas:
+Alta competencia en el sector técnico/servicios.
+Posible lentitud en la adopción por parte de técnicos tradicionales.
+- Estrategia:
+Diferenciarse por funcionalidad orientada a técnicos independientes y pymes, con precios accesibles y soporte inmediato.
+- Tácticas:
+Mantener iteraciones frecuentes de producto y mejoras constantes.
+Organizar webinars, demostraciones y campañas educativas.
+Crear alianzas con instituciones técnicas o ferias del sector para obtener usuarios de forma orgánica.
 
 ## 2.2. Entrevistas.
 ### 2.2.1. Diseño de entrevistas.
