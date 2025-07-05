@@ -506,31 +506,18 @@ Las **diferencias** principales radican en el hecho de que los técnicos son act
 
 ### 2.3.3. User Journey Mapping.
 
-#### Técnico IT
+## User Journey Mapping – RepairLink
 
-#### Técnico IT
+A continuación, se presentan los User Journey Maps desarrollados para los segmentos clave de RepairLink: **Técnico** y **Cliente**.  
+El objetivo de esta sección es entender las frustraciones, necesidades y puntos de contacto** que existen en su experiencia actual, para así diseñar una solución que resuelva los puntos críticos.
 
-| Stage        | Touchpoints   | Actions   | Emotions   | Pain Points | Opportunities |
-|--------------------------------|----------------------------------|-----------------------------|------------------------------|--------------------------------|----------------------------------|
-| Awareness    | Grupos de freelancers y dueños de negocios | Buscar herramientas para gestionar sus operaciones | Molestos por las alternativas tan caras del mercado | Funcionalidades limitadas | Anuncios pagados en redes sociales (en especial Facebook) |
-| Sign-Up      | Descargar aplicación | Elegir el plan gratuito con funcionalidades básicas | Optimista por poder ahorrar tiempo | Miedo de costos ocultos | Aclarar por adelantado "No se necesita tarjeta de crédito" |
-| Onboarding   | Tutorial con interfaz mobil | Enlaza el calendario, establece los métodos de pago | Estresado por términos demasiado técnicos | Pasos confusos | Agregar un tutorial rápido y sencillo de cómo utilizar la aplicación |
-| Daily Use    | Aplicación móbil | Configuración y actualización de las reparaciones | Aliviado por un flujo sencillo | Pobre señal | Habilitar las funcionalidades offline |
-| Post-Job     |                  |               |                |                 |                  |
+### Modelo de User Journey Map – Técnico
 
-#### Regular Client 
+ ![Imagen Journey Map](images/BraythonJourneyMap.png)  
 
-**Goal**: Encuentre rápidamente reparaciones técnicas fiables y realice un seguimiento transparente del progreso.
+### Modelo de User Journey Map – Cliente
 
-| Stage         | Touchpoints   | Actions   | Emotions     | Pain Points | Opportunities |
-|---------------------------------|----------------------------------|-----------------------------|--------------------------------|-------------------------------|----------------------------------|
-| Need Identification | Portátil/smartphone roto | Googlea «reparación de Teléfonos cerca de mí» | Estresado por la urgencia | Plazos de reparación poco claros | Mostrar filtros "Servicio el mismo día" |
-| Search & Booking | Filtros de búsqueda en aplicaciones y sitios web | Compara técnicos, reserva cita | Esperanza de transparencia | Dificultad para seleccionar a los técnicos | Añadir distintivos de "Técnico certificado" |
-| Drop-Off      | Diagnóstico en persona o a distancia | Comparte el problema del dispositivo a través del chat de la aplicación | Preocupados por los costos | Explicaciones manuales del problema | Activar la carga de fotos/vídeos para diagnósticos |
-| Tracking      | Notificaciones push, panel de control de la aplicación | Comprobación del estado de la reparación y de la hora prevista de llegada | Tranquilos con las actualizaciones | Retraso en las notificaciones | Añadir "Medidor de confianza de reparación" (por ejemplo, 90% de puntualidad) |
-| Post-Repair   | Pago y reseñas | Paga a través de la aplicación, servicio de tarifas | Satisfecho con la velocidad | No hay incentivos para dejar opiniones | Ofrecer puntos de fidelidad por las opiniones |
----
-
+ ![Imagen Journey Map](images/AnaluciaJourneyMap.png)  
 
 ### 2.3.4. Empathy Mapping.
 
