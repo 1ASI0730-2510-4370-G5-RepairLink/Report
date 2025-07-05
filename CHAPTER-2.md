@@ -469,12 +469,41 @@ El análisis de las entrevistas reveló que los usuarios valoran una comunicaci�
 
 ### 2.3.2. User Task Matrix.
 
+## User Task Matrix – RepairLink
 
-| Persona                                | Tareas                                                                 | Features                                                                                     | Prioridad | Notes                                      |
-|----------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------|-----------|--------------------------------------------|
-| Freelancer / Dueño de negocio pequeño de Reparaciones IT | 1. Actualice el estado de los trabajos sobre la marcha.<br>2. Enviar facturas y procesar pagos.<br>3. Comunicar el progreso de la reparación a los clientes. | - Interfaz móvil<br>- Facturación y procesamiento de pagos automatizados<br>- Chat en la aplicación y notificaciones por SMS | Alta      | Priorizar la UX móvil y los precios rentables para autónomos. |
-| Usuario Regular                        | 4. Encontrar técnicos calificados y cercanos.<br>5. Seguir el progreso de la reparación en tiempo real.<br>6. Verificar confiabilidad del técnico.<br>7. Comunicarse fácilmente con el técnico.<br>8. Pagar y dejar reseñas post-servicio. | - **Búsqueda con filtros** (ubicación, especialización, precios, valoraciones).<br>- **Disponibilidad en tiempo real**.<br>- **Notificaciones automáticas** (SMS/app).<br>- **Panel de seguimiento** con fotos/vídeos.<br>- **Reseñas verificadas** (solo clientes reales).<br>- **Certificaciones visibles** (ej: Apple Certified).<br>- **Chat integrado** con opción de enviar fotos del dispositivo.<br>- **Pasarela de pago integrada** (Bizum, PayPal, tarjeta).<br>- **Formulario de reseñas** con puntuación. | Alta      | Priorizar integración con proveedores de repuestos.<br>Funcionalidad móvil crítica para talleres sin oficina fija. |
+En esta sección se presenta el **User Task Matrix**, que concentra las tareas que los **User Persona** realizan para cumplir sus objetivos dentro del ecosistema de RepairLink.  
+En este caso, se han considerado dos segmentos principales:
+
+- **Técnico**: persona encargada de brindar el servicio técnico y registrar su progreso.
+- **Cliente**: usuario que solicita y gestiona los servicios desde la plataforma.
+
+
+| Task                                     | Técnico - FREQUENCY   | Técnico - IMPORTANCE   | Cliente - FREQUENCY  | Cliente - IMPORTANCE   |
+|------------------------------------------|-----------------------|------------------------|----------------------|------------------------|
+| Ver servicios agendados                  | Always                | High                   | Sometimes            | Medium                 |
+| Confirmar/rechazar un servicio           | Always                | High                   | -                    | -                      |
+| Consultar detalles del cliente/técnico   | Often                 | High                   | Often                | Medium                 |
+| Registrar estado del servicio            | Always                | High                   | -                    | -                      |
+| Editar perfil/disponibilidad             | Sometimes             | Medium                 | Rarely               | Low                    |
+| Revisar historial de servicios           | Sometimes             | Medium                 | Sometimes            | Medium                 |
+| Recibir notificaciones                   | Always                | High                   | Always               | Medium                 |
+| Calificar a la otra parte                | Sometimes             | Low                    | Sometimes            | Medium                 |
+| Reportar incidencias                     | Sometimes             | High                   | Rarely               | Medium                 |
+| Solicitar un nuevo servicio              | -                     | -                      | Always               | High                   |
+| Seleccionar tipo de servicio y fecha     | -                     | -                      | Always               | High                   |
+| Cancelar o reagendar servicio            | -                     | -                      | Sometimes            | Medium                 |
+| Consultar soporte o pagos                | Rarely                | Low                    | Rarely               | Medium                 |
+
 ---
+
+###  Análisis
+
+Las tareas con **mayor frecuencia e importancia** para los técnicos están enfocadas en la gestión diaria de los servicios: confirmar, registrar avances y comunicarse con los clientes.  
+Para los clientes/administradores, destacan tareas como **solicitar servicios, seleccionar fechas y técnicos**, además de mantenerse informados mediante notificaciones y revisiones de historial.
+
+Una **coincidencia** clara entre ambos segmentos es la necesidad de **consultar información y recibir notificaciones**, lo cual resalta la importancia de tener flujos de comunicación bien diseñados.  
+Las **diferencias** principales radican en el hecho de que los técnicos son activos durante la ejecución del servicio, mientras que los clientes lo son en la **planificación** y **evaluación** posterior.
+
 ### 2.3.3. User Journey Mapping.
 
 #### Técnico IT
