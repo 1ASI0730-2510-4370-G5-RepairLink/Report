@@ -98,19 +98,23 @@ Abril 2025
       <td style="border-right: 1px solid black;"><strong>Trabaja en equipo para proporcionar liderazgo en forma conjunta</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
-          <p><strong>TB1</strong></p>
+          <p><strong>TF1</strong></p>
+          <li><strong>Karen Stephanie Ramos Carpio:</strong> Colaboró en el desarrollo del código para la aplicación web, contribuyendo a la implementación de las funcionalidades clave del sistema.</li>
+          <li><strong>Joel Prudencio Alcántara:</strong> Elaboró el informe y realizó los arreglos necesarios en los capítulos 2, 4 y 5, asegurando que el contenido estuviera alineado con los objetivos del proyecto.</li>
         </ul>
-          <td> </td>
-      <br>
+      </td>
+      <td>El trabajo en equipo y la distribución clara de responsabilidades fueron esenciales para el éxito del proyecto. Cada miembro contribuyó de manera significativa a las tareas técnicas y organizativas, lo que permitió cumplir con los objetivos planteados y entregar un producto de calidad.</td>
      </tr>
       <tr style="border-bottom: 1px solid black;">
       <td style="border-right: 1px solid black;"><strong>Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos.</strong></td>
       <td style="border-right: 1px solid black;">
         <ul>
-          <p><strong>TB1</strong></p>
+          <p><strong>TF1</strong></p>
+          <li><strong>Karen Stephanie Ramos Carpio:</strong> Utilizó herramientas como GitHub y Trello para coordinar las tareas del equipo, asegurando que cada tarea fuera completada en tiempo y forma. Además, proporcionó soporte en la integración de funcionalidades clave dentro del código.</li>
+          <li><strong>Joel Prudencio Alcántara:</strong> Organizó las tareas de documentación y realización de ajustes en los capítulos, asegurando que el equipo estuviera alineado y trabajando de manera eficiente para cumplir con los objetivos.</li>
         </ul>
-	        <td> </td>
-      <br>
+      </td>
+      <td>El enfoque colaborativo e inclusivo permitió que cada miembro del equipo pudiera expresar sus ideas y asumir responsabilidades de acuerdo con sus habilidades. La planificación clara y el cumplimiento de las metas fueron clave para asegurar el progreso del proyecto y alcanzar los objetivos establecidos.</td>
      </tr>
   </tbody>
 </table>
