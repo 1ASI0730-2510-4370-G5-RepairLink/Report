@@ -251,63 +251,63 @@ Para el proyecto RepairLink, utilizaremos una fuente sans serif que garantiza un
 
 ### 4.1.2. Web Style Guidelines
 
-Las guías de estilo web de **Psymed** han sido desarrolladas con el objetivo de ofrecer una experiencia óptima y coherente en todos los dispositivos. 
-Nuestra plataforma está diseñada bajo los principios del **Web Responsive Design**, lo que garantiza que cada elemento de la interfaz se adapte fluidamente a distintos tamaños de pantalla, desde teléfonos móviles hasta monitores de escritorio.
+Las guías de estilo web de RepairLink están diseñadas para ofrecer una experiencia fluida y coherente en todo tipo de dispositivos.
+Nuestra plataforma se basa en los principios de Diseño Web Responsivo, garantizando que cada componente se ajuste perfectamente desde teléfonos móviles hasta pantallas de escritorio.
 
-Uno de los pilares visuales de nuestra interfaz es la implementación del **patrón de diseño en forma de Z**, el cual guía de manera intuitiva la mirada del usuario a lo largo de la página. 
-Este flujo comienza en la esquina superior izquierda, atraviesa el contenido principal y finaliza en la esquina inferior derecha. 
+Un aspecto clave de nuestra interfaz es la aplicación del patrón de diseño en forma de Z, que dirige de forma natural la atención del usuario desde la esquina superior izquierda, atravesando el contenido principal, hasta la esquina inferior derecha.
 
-Este recorrido natural permite que la navegación sea clara y eficiente, facilitando el acceso a información clave como diagnósticos, citas médicas y seguimientos de síntomas.
-El diseño adaptable y el uso estratégico del patrón en Z aseguran que, sin importar el dispositivo utilizado, la experiencia de usuario sea constante y centrada en las necesidades de los profesionales como de los pacientes. 
-Estas directrices no solo definen la estética de **Psymed**, sino que también refuerzan nuestro compromiso con un entorno digital accesible, humano y orientado al bienestar mental.
+Este recorrido facilita una navegación intuitiva, permitiendo a los usuarios encontrar rápidamente información esencial como la descripción del problema, técnicos disponibles y presupuestos.
+El diseño adaptable junto con el patrón en Z aseguran que la experiencia sea consistente y centrada tanto en quienes requieren reparaciones como en los técnicos que las ofrecen.
+
+Estas pautas visuales no solo definen la identidad de RepairLink, sino que también reflejan nuestro compromiso con una plataforma accesible, confiable y enfocada en la economía circular y la sostenibilidad.
 ## 4.2. Information Architecture
 
 ### 4.2.1. Organization Systems
 
-- Sistemas de Organización Visual:
-    - Organización secuencial: Se utilizará este tipo de sistema, ya que sirve para explicar la información sobre la plataforma web de forma consecutiva. Asi el usuario podrá ir conociendo paso a paso el funcionamiento de la aplicación a través del Landing Page. Esto dirigiendolo a cada sección en orden para ir conociendo poco a poco la aplicación siendo esto desde la introducción de la aplicación web, el equipo que conforma el statup, nuestros planes con sus beneficios hasta un video de la aplicación con su uso adecuado y la manera de contactarnos para resolver dudas de los usuarios.
-- Esquemas de Categorización de Contenido:
-    - Por tópicos: El diseño de la Landing Page se divide por tópicos que se utiliza para distribuir los diferentes temas a tratar de nuestra plataforma, presentando cada tópico de manera individual en una sección donde se explicará con más detalle, la información necesaria para el uso de la plataforma en diferentes aspectos. Esto permitirá que los usuarios deban buscar el tópico que necesitan saber, en el que tienen dudas o directamente buscar la sección donde puede realizar estas mismas consultas directamente.
+-Sistemas de Organización Visual:
+
+  -Organización secuencial: Se utiliza este sistema para guiar al usuario paso a paso a través del sitio web de RepairLink. La información se presenta de forma ordenada en la Landing Page, comenzando con la bienvenida, seguido por las opciones para ingresar como cliente o técnico, la creación de cuenta y otros recursos. Esto facilita que el usuario entienda progresivamente cómo funciona la plataforma.
+
+-Esquemas de Categorización de Contenido:
+  -Por tópicos: La Landing Page y las secciones del sitio están organizadas por temas específicos. Cada tópico está claramente separado para que el usuario pueda encontrar la información o funcionalidad que necesita, ya sea registrarse, ingresar como cliente o técnico, o conocer más sobre el servicio.
 
 ### 4.2.2. Labeling Systems
 
-En la Landing Page, se ha hecho uso de etiquetas con un lenguaje sencillo, que indican de manera clara al usuario, la funcionalidad de cada una. Siendo estas etiquetas las siguientes:
+En la Landing Page de RepairLink, se utilizan etiquetas con un lenguaje sencillo y directo que facilitan la navegación del usuario, indicando claramente la función de cada sección:
 
-- Inicio: Este apartado muestra al usuario la información principal y resumida de nuestra aplicación web, indicando de manera breve los servicios que brindamos.
-- Nosotros: Este apartado nos presenta ante los usuarios, explicándoles quienes forman parte del proyecto y cuáles son nuestras metas con esta plataforma web.
-- Planes: En este apartado, se le mostrará al usuario, los planes que ofrecemos a los usuarios con sus características principales.
-    - Suscribirse: Este botón Call to action que está dentro de la sección de "Planes", mandará al usuario a nuestra aplicación para que pueda registrarse y hacer uso de la plataforma.
-- Servicios: Este apartado explicará los servicios que proporciona nuestra aplicación mostrando las principales características de las mismas.
-- Ingresar: Este es un botón Call to action, que permitirá a los usuarios ingresar a la aplicación web para el registro, logueo y uso de la misma.
+- Inicio: Muestra al usuario un resumen general de la plataforma, destacando los principales servicios que ofrecemos para atención domiciliaria.
+- Nosotros: Presenta al equipo detrás de RepairLink y las metas que perseguimos con esta plataforma, generando confianza en los usuarios.
+- Servicios: Detalla los servicios que ofrecemos, resaltando las funcionalidades principales de la plataforma.
+- Ingresar: Botón Call to Action que permite a los usuarios iniciar sesión o registrarse para comenzar a usar RepairLink.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
 **Landing Page:**
 - Title: PsyMed
 - Meta Tags: Para la búsqueda eficiente de nuestra plataforma usamos las siguientes tags:
-    - Description: Plataforma de gestión médica en salud mental para profesionales de salud mentals y pacientes.
-    - Keywords: profesionales de salud mentals, Plataforma, Tratamientos mentales, Pacientes, Salud mental, Citas médicas, Psicología, Psiquiatría, Gestión médica
-    - Author: OpenGG
+    - Description: Plataforma de atención domiciliaria para servicios técnicos rápidos y confiables.
+    - Keywords: atención domiciliaria, técnicos a domicilio, reparación, servicios técnicos, reparación rápida, servicio confiable, cliente, técnico
+    - Author: RepairLink Team
 
 ### 4.2.4. Searching Systems
 
-**Web Applications:** Los usuarios que estén registrados y utilice uno de nuestros planes en la plataforma web, tendrá acceso a diferentes tipos de búsqueda que les permitirá tanto a los pacientes como a los profesionales de salud mentals, buscar la información que necesiten.
-- profesionales de salud mentals:
-    - Filtrado de búsquedas por fechas: Estas incluyen
-        - Búsqueda de notas
+**Web Applications:** Los usuarios registrados en la plataforma RepairLink, ya sean clientes o técnicos, podrán utilizar diferentes tipos de búsqueda para facilitar el acceso a la información que necesitan.
+- Clientes:
+    - Filtrado de búsquedas por nombre o fecha, incluyendo:
+        - Búsqueda de órdenes de servicio
+        - Búsqueda de técnicos disponibles
+        - Búsqueda de historial de reparaciones
+- Técnicos:
+    - Filtrado de búsquedas por fechas o estado de servicio, incluyendo:
+        - Búsqueda de órdenes asignadas
         - Búsqueda de citas programadas
-        - Búsqueda de preinscripciones
-        - Búsqueda de citas realizadas
-- Pacientes:
-    - Filtrado de búsquedas por nombre: Estas incluyen
-        - Búsqueda de medicamentos
-        - Búsqueda de tareas asignadas
+        - Búsqueda de clientes atendidos
 
 ### 4.2.5. Navigation Systems
 
-**Landing Page:** Los usuarios que ingresen a la web estática(landing page) se les proporcionara opciones de navegación para la información que les interese sobre nuestra plataforma web.
-- Un header con una serie de botones que los redirigirá a la sección con la información que buscan.
-- Durante la vista de la web estática, se le mostrará un título que resalte la información que van a ver como los planes, servicios, nosotros o un resumen.
+**Landing Page:** Los usuarios que visiten la página estática (Landing Page) de RepairLink encontrarán opciones claras para navegar y conocer la plataforma:
+- Cada sección muestra un título destacado que guía al usuario sobre la información que podrá encontrar, facilitando la navegación y comprensión de la plataforma.
+  
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
 ![Landing_Page_Wireframe](assets/Landing_Page_wireframe.png)
