@@ -28,10 +28,7 @@ Producto: RepairLink
 
 |          Integrantes           |   Código   |
 | :----------------------------: | :--------: |
-|      Sebastian Cordova Valdivia       | U20..... |
-|      Stanley Jeremy Gutierrez Tume       | U202118152 |
-|      Edson Diego Llamozas Diaz          | U20..... |
-|      José Luis Martinez Valdivia       | U20...... |
+|      Joel Prudencio Alcántara      | U20241d689 |
 |      Karen Stephanie Ramos Carpio          | U20201e493 |
 
 Abril 2025
@@ -55,11 +52,8 @@ Abril 2025
       <td>Abril</td>
       <td>
         <ul>
-            <li>Sebastian Cordova Valdivia</li> 
-            <li>Stanley Jeremy Gutierrez Tume</li> 
-            <li>Edson Diego Llamozas Diaz</li> 
-            <li>José Luis Martinez Valdivia</li> 
-            <li>Karen Stephanie Ramos Carpio</li> 
+            <li>Joel Prudencio Alcántara</li>
+            <li>Karen Stephanie Ramos Carpio</li>
         </ul>
       </td>
       <td>
