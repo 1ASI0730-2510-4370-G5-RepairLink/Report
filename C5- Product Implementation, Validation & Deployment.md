@@ -391,9 +391,13 @@ A continuación se presentan informacion de los commits del FrontedEnd con el us
 
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
-Durante este sprint se completaron importantes avances en la ejecución del Front-End de **RepairLink** utilizando **Vue.js**. Se implementaron vistas clave como el registro e inicio de sesión tanto para usuarios como técnicos, la creación del perfil profesional del técnico, la vista principal del cliente, su panel de servicios y el perfil del usuario cliente.
+Gestión de Usuarios: Permite el registro e inicio de sesión tanto para usuarios como para técnicos, facilitando la autenticación y la administración de cuentas en la plataforma.
 
-Estas funcionalidades consolidan la base operativa de la plataforma, permitiendo una experiencia inicial completa para ambas partes del sistema: usuarios que buscan servicios de reparación y técnicos que los ofrecen.
+Gestión de Perfiles Profesionales: Permite la creación y gestión del perfil profesional del técnico, asegurando que los usuarios tengan acceso a información relevante sobre los técnicos y sus especialidades.
+
+Gestión de Servicios de Reparación: Los usuarios tienen acceso al panel de servicios, donde pueden ver los tipos de reparaciones disponibles y elegir el servicio adecuado.
+
+Gestión de Paneles de Usuario: Cada usuario cliente puede acceder a su perfil y visualizar su historial de reparaciones, servicios solicitados y próximos pasos en el proceso.
 
 **Link del proyecto:** https://github.com/1ASI0730-2510-4370-G5-RepairLink/Frontend
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review
@@ -457,6 +461,54 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
 
 
 #### 5.2.3.3.Sprint Backlog 3.
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 3</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Backlog</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2025-06-01</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">21:00</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Todos los miembros de RepairLink</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">El objetivo del Sprint 3 es completar el backend de la organización al 100% y conectarlo al FrontEnd. Verificar los endpoints y los datos brindados en estos.</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Velocity</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>14</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>14</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+
 #### 5.2.3.4.Development Evidence for Sprint Review.
 
 Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
