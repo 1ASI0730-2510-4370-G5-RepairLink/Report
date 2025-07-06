@@ -380,7 +380,9 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EWoBly3W
 ### 4.6.1.Software Architecture Context Diagram.
  El diagrama de contexto nos muestra los tipos de usuario que interactuan con el aplicativo web, y a la vez los servicios y/o con los que la plataforma interactua.  <br>
     ![Alt Text](images/DDD-ContextDiagram.png)
-
+    
+ **CONTEXT PROFILE:** <br>
+  ![Alt Text](images/contexProfile.jpeg)
 ### 4.6.2.Software Architecture Container Diagrams. <br>
  Este diagram nos permite tener una vision enfocada al desarrollo. Se muestra la forma en la que los usuarios interactuan con la Landing Page, Web App y Mobile App.
  A la vez que se muestra como estas plataformas interactuan con los servicios externos vinculados. <br>
@@ -390,7 +392,6 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EWoBly3W
 En esta seccion se muestra los diagramas de comppnentes de cada uno de los bounded contexts definidos. <br>
  **APIRest - Component:** <br>
     ![Alt Text](images/DDD-APIRest.png)
-
  **Booking - Component:** <br>
     ![Alt Text](images/DDD-Booking.png)
 
