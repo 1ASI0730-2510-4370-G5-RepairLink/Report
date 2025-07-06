@@ -163,43 +163,24 @@ Enlace para acceder al Frontend: https://repairlink.netlify.app/
 <br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
-
-La implementación de la solución digital se realizó bajo una arquitectura distribuida basada en servicios, en concordancia con los lineamientos definidos durante la etapa de diseño. Esta sección documenta el proceso de desarrollo, pruebas, documentación técnica y despliegue de los componentes clave: Landing Page, Servicios Web (RESTful API) y la Aplicación Web Frontend.
-
-Para asegurar una experiencia de usuario consistente e intuitiva, se diseñaron las interfaces en Figma, utilizando un enfoque centrado en el usuario. Este prototipo de alta fidelidad sirvió como guía visual durante el desarrollo, asegurando la alineación entre lo diseñado y lo implementado. El prototipo puede consultarse en el siguiente enlace:
-
- https://www.figma.com/design/VMTUTmSN9k1qX1JiXnVIgR/App-Web?node-id=6-14359
-
-El desarrollo se organizó en sprints conforme a un enfoque ágil, permitiendo iterar y validar avances progresivamente con base en el Product Backlog. A continuación, se detallan los avances realizados por sprint, incluyendo las tareas ejecutadas, funcionalidades implementadas, pruebas realizadas y despliegues correspondientes.
-
 ### 5.2.1. Sprint 1
 #### 5.2.1.1. Sprint Planning 1
-SPRINT 1:
 
-SPRINT PLANNING BACKGROUND
-
-Date: 06-04-2025
-
-Time: 8:00 pm
-
-Location: Via virtual por Google Meet
-
-Prepared By: Karen Stephanie Ramos Carpio
-
-Attendees (to planning meeting): Sebastian Cordova Valdivia,Stanley Jeremy Gutierrez Tume,Edson Diego Llamozas Diaz,José Luis Martinez Valdivia,Karen Stephanie Ramos Carpio.
-
-Sprint 1 - Review Summary: Durante la primera reunión del Sprint, el equipo se enfocó en definir las tareas y responsabilidades de cada miembro, asegurando que todos estuvieran alineados con los objetivos del informe a desarrollar y cualquier duda acerca del desarrollo hacernoslo saber por nuestro chat de whatsapp.
-
-Sprint 1– Retrospective Summary: En esta retrospectiva, el equipo discutió cómo se llevó a cabo la planificación del Sprint y la distribución de tareas.Todos los participantes lograron hacer su parte del trabajo , ya que corregimos algunos puntos que nos parecían que se podían mejorar.
-
-Sprint Goal & User Stories: -
-
-Sprint 1 goal: Diseñar e implementar el Landing Page con el objetivo de concretar nuestra propuesta de valor.
-
+### SPRINT PLANNING BACKGROUND
+Fecha: 06/04/2025
+Hora: 8:00 p.m.
+Ubicación: Virtual, vía Google Meet
+Preparado por: Karen Stephanie Ramos Carpio
+Asistentes:
+Sebastian Córdova Valdivia, Stanley Jeremy Gutiérrez Tume, Edson Diego Llamozas Díaz, José Luis Martínez Valdivia, Karen Stephanie Ramos Carpio.
+Sprint 1 – Review Summary:
+Durante la primera reunión del Sprint, el equipo se enfocó en definir las tareas y responsabilidades de cada miembro, asegurando que todos estuvieran alineados con los objetivos del informe a desarrollar. Se acordó que cualquier duda sobre el desarrollo sería comunicada por el chat grupal de WhatsApp.
+Sprint 1 – Retrospective Summary:
+En esta retrospectiva, el equipo discutió cómo se llevó a cabo la planificación del Sprint y la distribución de tareas. Todos los participantes cumplieron con sus entregables, y se corrigieron algunos puntos que se consideró podían ser mejorados para optimizar la calidad del trabajo final.
+Sprint Goal & User Stories
+Sprint 1 Goal: Diseñar e implementar la Landing Page, con el objetivo de comunicar claramente nuestra propuesta de valor.
 Sprint 1 Velocity: 12
-
-Sum of Story Points:12
-
+Total de Story Points: 12
 
 #### 5.2.1.2. Sprint Backlog 1
 En esta sección se muestran los tasks que se realizaron en el presente sprint:
@@ -207,10 +188,10 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint:
 | Story ID | Título                        | Descripción breve                                              | Estimación (Story Points) | Estado      | Responsable                         |
 |----------|-------------------------------|-----------------------------------------------------------------|----------------------------|-------------|-------------------------------------|
 | US-001   | Landing Page - Home           | Página inicial con descripción y botón de acción.              | 3                          | Completado  | Karen Ramos                         |
-| US-002   | Sección - Reparaciones        | Información visual sobre tipos de reparaciones disponibles.    | 2                          | Completado  | Sebastián Córdova                   |
-| US-003   | Sección - Reseñas             | Mostrar testimonios y calificaciones de clientes.              | 2                          | Completado  | Stanley Gutiérrez                   |
-| US-004   | Sección - Sé un Técnico       | Explicación sobre cómo registrarse como técnico.                | 2                          | Completado  | Edson Llamozas                      |
-| US-005   | Sección - Contacto            | Formulario de contacto para dudas y comentarios.               | 3                          | Completado  | José Luis Martínez                  |
+| US-002   | Sección - About Us       | Información visual sobre el equipo de RepairLink.    | 2                          | Completado  | Sebastián Córdova                   |
+| US-003   | Sección - Our Services            | Información visual sobre los servicios que ofrece RepairLink| 2                          | Completado  | Stanley Gutiérrez                   |
+| US-004   | Sección - Contact Us    | Informacion de Contacto                | 2                          | Completado  | Edson Llamozas                      |
+| US-005   | Sección - Reviews            | Mostrar testimonios y calificaciones de clientes.               | 3                          | Completado  | José Luis Martínez                  |
 
 **Sprint Goal:** Diseñar e implementar el Landing Page con el objetivo de concretar nuestra propuesta de valor.  
 **Sprint Velocity:** 12 puntos  
@@ -220,10 +201,15 @@ En esta sección se muestran los tasks que se realizaron en el presente sprint:
 
 #### 5.2.1.3. Development Evidence for Sprint Review
 
-En este apartado se presentará la documentación que respalda el desarrollo y los avances del software. Se describirán las funcionalidades concretas implementadas en el sprint en curso, haciendo hincapié en los logros más destacados alcanzados en la plataforma.
-
-![PARTICIPACION](images/PARTICIPACION.PNG)
-
+| Repository       | Branch         | Commit Id | Commit Message                          | Commit Message Body                             | Committed on (Date) |
+|------------------|----------------|-----------|------------------------------------------|--------------------------------------------------|---------------------|
+| https://github.com/1ASI0730-2510-4370-G5-RepairLink/LandingPage| LandingPage| 7a15871| feat: add images for logo and illustrations| feat: add images for logo and illustrations| 22/04/2025|
+|                   | LandingPage| 8664d3f| feat: update be-a-tech.html| feat: update be-a-tech.html| 22/04/2025|
+|                   | LandingPage| a108a01| feat: update style.css| feat: update style.css| 22/04/2025|
+|                   | LandingPage| 5d4dc04| fix(be-a-tech): correct image paths for all images| fix(be-a-tech): correct image paths for all images| 22/04/2025|
+|                   | LandingPage| 1745ad6| feat(reparations): add reparations section| feat(reparations): add reparations section| 22/04/2025|
+|                   | LandingPage| 351eb3c| feat(reviews): completed the Reviews section| feat(reviews): completed the Reviews section| 21/04/2025|
+|                   | LandingPage| af10600| feat(reviews): added aria labels| feat(reviews): added aria labels| 21/04/2025|
 
 #### 5.2.1.4. Execution Evidence for Sprint Review
 
@@ -239,28 +225,7 @@ Durante este Sprint, se completó la implementación del diseño y la estructura
 
 #### 5.2.1.5. Services Documentation Evidence for Sprint Review
 
-Con el objetivo de documentar adecuadamente la implementación de los servicios, se utilizaron herramientas de diseño y desarrollo enfocadas en la creación de la Landing Page de RepairLink.
-
-Herramientas utilizadas:
-
-Figma: Utilizado para la elaboración del prototipo de alta fidelidad de la Landing Page, documentando tanto la estructura visual como las interacciones básicas.
-
-HTML y CSS: Empleados para implementar el diseño de forma estructurada y estilizada, asegurando buenas prácticas de codificación y adaptabilidad responsive.
-
-Evidencias de documentación:
-
-Prototipo en Figma: Se desarrolló un prototipo navegable que refleja la organización y el flujo de navegación de la Landing Page.
-
-Enlace al prototipo en Figma: https://www.figma.com/design/VMTUTmSN9k1qX1JiXnVIgR/App-Web?node-id=6-14359&t=MIHuxbVO7Yhjmu4I-1
-
-Tipografía :
-
-En RepairLink se seleccionó una tipografía que equilibra elegancia y funcionalidad, reforzando la identidad visual de la aplicación. La fuente principal utilizada es Roboto, reconocida por su excelente legibilidad en dispositivos móviles y su estilo moderno y profesional. Para generar contraste en los textos y resaltar información relevante, se incorporó la fuente Roboto Slab, que aporta un aspecto llamativo y ayuda a captar la atención del usuario.
-
-Espaciados y márgenes consistentes para mejorar la experiencia de usuario.
-
-Estilos de botones y formularios acorde al diseño.
-
+ Para este primer sprint no fue contemplada la evidencia de documentación de los servicios
 
 #### 5.2.1.6. Software Deployment Evidence for Sprint Review
 
