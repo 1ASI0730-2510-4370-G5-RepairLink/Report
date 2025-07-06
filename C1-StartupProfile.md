@@ -16,7 +16,7 @@ Esta sección proporciona una visión integral de la startup, incluyendo una des
 | **Integrantes** | **Descripción** | **Conocimientos** |
 |-----------------|------------------|---------------------|
 | **Karen Ramos Carpio - U20201E493**<br>![Foto Karen](images/fotoKaren.JPG) | Cuento con gran capacidad de autoaprendizaje, esto me permite alcanzar mejores índices de productividad para la empresa de forma individual como en trabajo en equipo para poder llegar a los objetivos definidos por la empresa. Tengo un alto sentido del compromiso y la responsabilidad, por lo que puedo garantizar que la tarea que me sea asignada será gestionada con diligencia. | Desarrollador entusiasta de resolución de problemas de .NET con experiencia en C#, JavaScript, TypeScript, Golang, C++, HTML, CSS. Además de .NET, .Net Core, Angular, React y Kendo UI. Trabaja bien tanto individualmente como en un ambiente de equipo. Como profesional de TI, me dedico a administrar mis proyectos hasta su finalización, asegurándome de que se completen en el plazo establecido. |
-| **Joel Prudencio - U20201E493**<br>![Foto Joel](images/Joel.png) 
+| **Joel Prudencio - U20241d689**<br>![Foto Joel](images/Joel.png) 
 | Soy una persona autodidacta, con enfoque en resultados y compromiso. Trabajo bien tanto de manera autónoma como en equipo, siempre buscando cumplir los objetivos de la empresa con responsabilidad y eficiencia. | Desarrollador con experiencia en .NET, C#, JavaScript, TypeScript, Golang, C++, HTML, CSS, y frameworks como .NET Core, Angular, React y Kendo UI. Me enfoco en entregar proyectos dentro del tiempo y con altos estándares de calidad. |
 
 
