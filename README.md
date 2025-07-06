@@ -228,7 +228,9 @@ Usado en fondos suaves o áreas de separación para mantener un aspecto ordenado
 
 **Typography: Sans Serif**
 
-Para el proyecto Psymed, utilizaremos una fuente sans serif, que asegura una lectura clara y moderna. Dentro de esta categoría, emplearemos las variaciones de DM Sans y Spartan, ambas conocidas por su simplicidad y elegancia, ideales para mantener una estética limpia y profesional en todos los elementos textuales del sistema.
+Para el proyecto RepairLink, utilizaremos una fuente sans serif que garantiza una lectura clara y moderna. Emplearemos las familias tipográficas DM Sans y Spartan, reconocidas por su simplicidad y elegancia, ideales para mantener una estética limpia, profesional y amigable en toda la plataforma, facilitando la experiencia tanto de usuarios como de técnicos.
+
+
 
 - **DM Sans - Sans Serif**
 <p align="center">
@@ -242,18 +244,9 @@ Para el proyecto Psymed, utilizaremos una fuente sans serif, que asegura una lec
 
 **Icon:**
 <p align="center">
-  <img src="images/download (7).png" style="width:300px; height:auto;">
+  <img src="images/logo-producto.png" style="width:300px; height:auto;">
 </p>
 
-El ícono de **Psymed** representa el perfil de una persona visto de lado, con un cerebro esquemático en su interior y una cruz médica integrada.
-Esta combinación transmite de forma clara el objetivo de nuestra plataforma: la salud mental, la atención especializada y el enfoque humano del tratamiento.
-
-<p align="center">
-  <img src="assets/chapter04/colors/10BEAE.png" style="width:500px; height:auto;">
-</p>
-
-La silueta del perfil simboliza el enfoque personalizado hacia cada paciente. 
-El cerebro representa el núcleo de nuestro trabajo: el bienestar cognitivo y emocional. La cruz, inspirada en el símbolo universal de la salud y refuerza nuestro compromiso con la atención médica confiable y profesional.
 
 
 ### 4.1.2. Web Style Guidelines
