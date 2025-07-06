@@ -629,6 +629,120 @@ Estos endpoints permiten que la plataforma RepairLink pueda ofrecer una experien
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1 Sprint Planning 4
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 4</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Backlog</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2025-07-06</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">21:00</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Todos los miembros de RepairLink</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 4 Goal</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Realizar el despliegue del backend y corregir las indicaciones de los capítulos 2, 4 y 5 basadas en los comentarios recibidos.</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 4 Velocity</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>10</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>10</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.2 Sprint Backlog 4
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Task ID</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Title</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Description</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Story Points</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Status</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Assigned To</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">TS001</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Despliegue del backend</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Realizar el despliegue del backend en el entorno de producción.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Joel Prudencio</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">TS002</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Corregir capítulo 2</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Corregir las indicaciones del capítulo 2, especialmente las de arquitectura y modelado.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">TS003</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Corregir capítulo 4</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Corregir las indicaciones del capítulo 4, realizando ajustes en el frontend y la UI/UX.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Joel Prudencio</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.3 Development Evidence for Sprint Review
+
+Se presentan los commits realizados en el repositorio de GitHub, en el cual se puede observar el trabajo realizado por cada integrante del equipo.
+
+- **Repositorio Backend:** [https://github.com/1ASI0730-2510-4370-G5-RepairLink/Backend.git](https://github.com/1ASI0730-2510-4370-G5-RepairLink/Backend.git)
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Repository</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Branch</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Commit ID</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Commit Message</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Commit Message Body</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Committed on (Date)</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">RepairLink/Backend</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">develop</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">joel5871</td>
+      <td style="border
+
+
+
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 ### 5.3.2. Registro de Entrevistas.
