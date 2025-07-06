@@ -123,7 +123,7 @@ Esta sección describe el estilo y las convenciones del código fuente que se ob
 
 En esta sección se detalla el proceso de despliegue de los productos digitales desarrollados para la solución. A partir de los repositorios de código fuente en GitHub, el despliegue de cada componente se realizará de la siguiente manera:
 
-*Landing Page:
+### Landing Page Deployment:
 HTML: sirve de referencia del software que interactúa con la elaboración de páginas web en sus diferentes versiones.
 
 Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenidorealizado en su rama individual.
@@ -149,6 +149,18 @@ Evidencia de deployment:
 
 ![HTML](images/desplieguelandin.png)
 Enlace para acceder a la landing page: https://1asi0730-2510-4370-g5-repairlink.github.io/LandingPage/
+
+### Front End Web Application deployment
+
+Para poder desplegar el Front End Web Application resulta necesario contar con una serie de requisitos, entre ellos, es necesario contar con una cuenta personal, una organización y un repositorio al cual cargar los documentos. A partir de lo anterior, es posible comenzar el despliegue de la landing page. A continuación se enuncian los pasos a seguir:
+
+![Netlify](images/Netlify.png)
+
+![HTML](images/desplieguefront.png)
+
+Enlace para acceder al Frontend: https://repairlink.netlify.app/
+
+<br>
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
