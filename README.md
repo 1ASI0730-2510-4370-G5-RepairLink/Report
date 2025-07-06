@@ -189,20 +189,20 @@ Los colores transmiten una sensación de tecnología amigable, profesionalismo y
 Este tono amarillo suave se utiliza como fondo del panel izquierdo en la pantalla de bienvenida. Transmite una sensación de calidez, amabilidad y accesibilidad, generando un ambiente acogedor que invita a los usuarios a interactuar con la plataforma desde el primer contactorio.
 
 <p align="center">
-  <img src="assets/chapter04/colors/10BEAE.png"  style="width:500px; height:auto;">
+  <img src="images/download (2).pn"  style="width:500px; height:auto;">
 </p>
 
 **#90B5FF (Azul Claro – Destacado):**  
 Color aplicado en los títulos principales y en los botones de ingreso para clientes. Este azul claro aporta frescura y confianza, destacando elementos claves para guiar al usuario y reforzar la identidad visual con una vibra moderna y profesional.
 
 <p align="center">
-  <img src="assets/chapter04/colors/4A90E2.png"  style="width:500px; height:auto;">
+  <img src="images/download (3).png"  style="width:500px; height:auto;">
 </p>
 
 **#2C3E50 (Azul Grisáceo Oscuro – Secundario):**  
 Utilizado en los botones de ingreso para técnicos y en algunos bordes, este tono transmite estabilidad, profesionalismo y seriedad, balanceando la calidez del amarillo con un aire de autoridad y confianza.
 <p align="center">
-  <img src="assets/chapter04/colors/A29BFE.png"  style="width:500px; height:auto;">
+  <img src="images/download (4).png"  style="width:500px; height:auto;">
 </p>
 
 #### Achromatic Colors
@@ -211,19 +211,19 @@ Utilizado en los botones de ingreso para técnicos y en algunos bordes, este ton
 Este blanco limpio se utiliza como fondo en el panel derecho y en los botones, generando claridad y amplitud visual. Facilita la lectura y ofrece un espacio neutro que permite que los colores destacados brillen.
 
 <p align="center">
-  <img src="images/download (2).png"  style="width:500px; height:auto;">
+  <img src="images/download (5).png"  style="width:500px; height:auto;">
 </p>
 
 **#000000 (Negro Absoluto – Texto Importante)**  
 Presente en algunos textos y elementos gráficos, proporciona el máximo contraste y legibilidad, asegurando que la información crucial se perciba con claridad y autoridad.
 <p align="center">
-  <img src="images/download (3).png"  style="width:500px; height:auto;">
+  <img src="images/download (6).png"  style="width:500px; height:auto;">
 </p>
 
 **#F0F0F0 (Gris Muy Claro – Fondo Secundario):**  
 Usado en fondos suaves o áreas de separación para mantener un aspecto ordenado y fresco sin sobrecargar la vista del usuario.
 <p align="center">
-  <img src="images/download (4).png"  style="width:500px; height:auto;">
+  <img src="images/download (7).png"  style="width:500px; height:auto;">
 </p>
 
 **Typography: Sans Serif**
