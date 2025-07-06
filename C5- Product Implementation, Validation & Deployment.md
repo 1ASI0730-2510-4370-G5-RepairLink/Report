@@ -127,16 +127,13 @@ En esta sección se detalla el proceso de despliegue de los productos digitales 
 HTML: sirve de referencia del software que interactúa con la elaboración de páginas web en sus diferentes versiones.
 
 Evidencia: Archivos HTML, el principal es index.html donde todos los integrantes juntaron el contenidorealizado en su rama individual.
-
  ![HTML](images/HTML.PNG)
-
 
 Css: Es aquel que nos ayudó con el diseño gráfico para que el Landing Page sea agradable e interactiva.
 
 Evidencia: Se presenta el file styles.css, donde el grupo implemento el diseño de toda la estructura realizada con html.
 
 ![CSS](images/CSS.PNG)
-
 
 Todo el despliegue fue gracias a las siguientes herramientas:
 
@@ -150,7 +147,8 @@ Evidencia de deployment:
 
 ![DEPLOYMENT](images/deployment.PNG)
 
-
+![HTML](images/desplieguelandin.png)
+Enlace para acceder a la landing page: https://1asi0730-2510-4370-g5-repairlink.github.io/LandingPage/
 
 ## 5.2. Landing Page, Services & Applications Implementation
 
