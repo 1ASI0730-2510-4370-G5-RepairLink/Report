@@ -623,50 +623,59 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
 
 - Repositorio Backend: https://github.com/1ASI0730-2510-4370-G5-RepairLink/Backend.git
 
-
-<br>
-
-<table  align="left" border="1" width="100%">
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
     <tr>
-        <th>Repository</th>
-        <th>Branch</th>
-        <th>Commit ID</th>
-        <th>Commit Message</th>
-        <th>Commit Message Body</th>
-        <th>Commited on (Date)</th>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Repository</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Branch</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Commit ID</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Commit Message</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Commit Message Body</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Committed on (Date)</strong></td>
     </tr>
     <tr>
-        <td rowspan=6> </td>
-        <td></td>
-        <td> </td>
-        <td>  </td>
-        <td>-</td>
-        <td> </td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">RepairLink/Backend</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">develop</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">hmongus</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">chore: added bounded contexts</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Se agregaron los contextos limitados para mejorar la estructura de la aplicación.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2025-06-06</td>
     </tr>
     <tr>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td>-</td>
-        <td> </td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">RepairLink/Backend</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">develop</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">hmongus</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">chore: added initial commit</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Commit inicial con la estructura básica del proyecto en el repositorio.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2025-06-06</td>
+    </tr>
     <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">RepairLink/Backend</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">develop</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">hmongus</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">chore: refactor authentication service</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Refactorización del servicio de autenticación para mejorar la seguridad.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2025-06-06</td>
+    </tr>
     <tr>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td>-</td>
-        <td> </td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">RepairLink/Backend</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">develop</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">hmongus</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">chore: update user model</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Actualización del modelo de usuario para agregar nuevos atributos.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2025-06-06</td>
+    </tr>
     <tr>
-    <tr>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-        <td>-</td>
-        <td> </td>
-    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">RepairLink/Backend</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">develop</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">hmongus</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">chore: add initial route for user registration</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Se creó la ruta inicial para registrar a nuevos usuarios en la plataforma.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2025-06-06</td>
+    </tr>
+  </tbody>
 </table>
 
-<br>
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
