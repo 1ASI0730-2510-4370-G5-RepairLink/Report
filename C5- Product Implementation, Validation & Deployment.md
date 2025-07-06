@@ -739,9 +739,39 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">RepairLink/Backend</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">develop</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">joel5871</td>
-      <td style="border
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Despliegue Backend</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Realización del despliegue del backend en producción.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2025-07-06</td>
+    </tr>
+    <!-- Aquí puedes agregar más filas según sea necesario -->
+  </tbody>
+</table>
+
+---
 
 ## 5.3. Validation Interviews.
-### 5.3.1. Diseño de Entrevistas.
-### 5.3.2. Registro de Entrevistas.
-### 5.3.3. Evaluaciones según heurísticas.
+
+### 5.3.1. Diseño de Entrevistas
+
+Se realizó un diseño para las entrevistas basadas en las necesidades del cliente, considerando los siguientes aspectos:
+
+- **Objetivos de la entrevista:** Obtener retroalimentación sobre las funcionalidades del sistema y la usabilidad de la interfaz de usuario.
+- **Público objetivo:** Usuarios clave del sistema y partes interesadas del proyecto.
+- **Metodología:** Entrevistas semiestructuradas con preguntas abiertas y cerradas para permitir tanto respuestas directas como detalladas.
+
+### 5.3.2. Registro de Entrevistas
+
+Las entrevistas fueron registradas con la aprobación de los participantes, utilizando grabaciones de audio y notas detalladas para su posterior análisis.
+
+- **Métodos de registro:** Grabaciones de audio, notas escritas y observaciones directas.
+- **Herramientas utilizadas:** Google Forms para preguntas cerradas y Google Meet para entrevistas virtuales.
+
+### 5.3.3. Evaluaciones según heurísticas
+
+Se realizaron evaluaciones de usabilidad basadas en heurísticas de diseño para identificar posibles problemas en la interfaz de usuario del sistema. Las principales heurísticas evaluadas fueron:
+
+- **Visibilidad del estado del sistema:** El sistema debe mantener informado al usuario sobre lo que está sucediendo.
+- **Coincidencia entre el sistema y el mundo real:** El sistema debe usar términos y conceptos familiares al usuario.
+- **Control y libertad del usuario:** Los usuarios deben poder deshacer acciones fácilmente.
+- **Consistencia y estándares:** El sistema debe seguir convenciones estándar en términos de diseño.
+
