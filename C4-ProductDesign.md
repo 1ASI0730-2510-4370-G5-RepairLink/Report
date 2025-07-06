@@ -383,6 +383,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EWoBly3W
     
  **CONTEXT PROFILE:** <br>
   ![Alt Text](images/contexProfile.jpeg)
+  
 ### 4.6.2.Software Architecture Container Diagrams. <br>
  Este diagram nos permite tener una vision enfocada al desarrollo. Se muestra la forma en la que los usuarios interactuan con la Landing Page, Web App y Mobile App.
  A la vez que se muestra como estas plataformas interactuan con los servicios externos vinculados. <br>
