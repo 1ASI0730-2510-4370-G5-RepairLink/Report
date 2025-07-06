@@ -738,7 +738,7 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
     <tr>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">RepairLink/Backend</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">develop</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">joel5871</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">KarenRamos2</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Despliegue Backend</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Realización del despliegue del backend en producción.</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2025-07-06</td>
