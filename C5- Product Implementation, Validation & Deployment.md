@@ -278,27 +278,65 @@ Cada miembro del equipo contribuyó activamente con tareas específicas relacion
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
-| **Sprint 2**      | **Sprint Planning Background**                                                                                                          |
-|-------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| **Fecha**         | 01-05-2025                                                                                                                                 |
-| **Hora**          | 7:00 pm                                                                                                                                   |
-| **Ubicación**     | Via virtual por Google Meet                                                                                                             |
-| **Preparado por** | Karen Stephanie Ramos Carpio                                                                                                            |
-| **Asistentes**    | Sebastián Cordova Valdivia, Stanley Jeremy Gutierrez Tume, Edson Diego Llamozas Diaz, José Luis Martinez Valdivia, Karen Stephanie Ramos Carpio |
-
-| **Sprint 2 - Review Summary**                                                                                                                                               |
-|-------------------------------------------------------------------------------------------------------------------------|
-| Durante la primera reunión del Sprint, el equipo se enfocó en definir las tareas y responsabilidades de cada miembro, asegurando que todos estuvieran alineados con los objetivos del informe a desarrollar y cualquier duda acerca del desarrollo hacernoslo saber por nuestro chat de whatsapp. |
-
-| **Sprint 2 - Retrospective Summary**                                                                                                                                            |
-|-------------------------------------------------------------------------------------------------------------------------|
-| En esta retrospectiva, el equipo discutió cómo se llevó a cabo la planificación del Sprint y la distribución de tareas. Todos los participantes lograron hacer su parte del trabajo, ya que corregimos algunos puntos que nos parecían que se podían mejorar. |
-
-| **Sprint Goal & User Stories**                                                                                           |
-|-------------------------------------------------------------------------------------------------------------------------|
-| **Sprint 2 goal**: Diseñar e implementar el FrontEnd del Aplicativo Web                                                   |
-| **Sprint 1 Velocity**: 12                                                                                                 |
-| **Sum of Story Points**: 31                               
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 2</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Background</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">01-05-2025</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">7:00 pm</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Via virtual por Google Meet</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Stephanie Ramos Carpio</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sebastián Cordova Valdivia, Stanley Jeremy Gutierrez Tume, Edson Diego Llamozas Diaz, José Luis Martinez Valdivia, Karen Stephanie Ramos Carpio</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint 2 - Review Summary</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">Durante la primera reunión del Sprint, el equipo se enfocó en definir las tareas y responsabilidades de cada miembro, asegurando que todos estuvieran alineados con los objetivos del informe a desarrollar y cualquier duda acerca del desarrollo hacernoslo saber por nuestro chat de whatsapp.</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint 2 - Retrospective Summary</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2">En esta retrospectiva, el equipo discutió cómo se llevó a cabo la planificación del Sprint y la distribución de tareas. Todos los participantes lograron hacer su parte del trabajo, ya que corregimos algunos puntos que nos parecían que se podían mejorar.</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal & User Stories</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 2 goal</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Diseñar e implementar el FrontEnd del Aplicativo Web</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Velocity</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>12</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>31</strong></td>
+    </tr>
+  </tbody>
+</table>
+                           
 #### 5.2.2.2. Sprint Backlog 2
 
 En esta sección se muestran los tasks que se realizaron en el presente sprint:
