@@ -451,7 +451,7 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente registrarse en la plataforma proporcionando datos básicos.</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen</td>
     </tr>
     <tr>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US002</td>
@@ -459,7 +459,7 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente ingresar a su cuenta existente.</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sebastián Córdova</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Joel Prudencio</td>
     </tr>
     <tr>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US003</td>
@@ -467,7 +467,7 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite a los técnicos crear su perfil, incluyendo experiencia y especialidades.</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Stanley Gutiérrez</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen</td>
     </tr>
     <tr>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US004</td>
@@ -475,7 +475,7 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">El cliente puede ver la lista de técnicos disponibles en su área.</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Edson Llamozas</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Joel Prudencio</td>
     </tr>
     <tr>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US005</td>
@@ -483,7 +483,7 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente verificar si un técnico está disponible en tiempo real.</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">José Luis Martínez</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen</td>
     </tr>
     <tr>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US006</td>
@@ -491,7 +491,7 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente agendar una cita con un técnico según su disponibilidad.</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Joel Prudencio</td>
     </tr>
     <tr>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US007</td>
@@ -499,7 +499,7 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al técnico generar y enviar un presupuesto al cliente.</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sebastián Córdova</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen</td>
     </tr>
     <tr>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US008</td>
@@ -507,7 +507,7 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente confirmar si acepta o no la reparación propuesta por el técnico.</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Stanley Gutiérrez</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Joel Prudencio</td>
     </tr>
     <tr>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US009</td>
@@ -515,18 +515,18 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente realizar el pago de la reparación.</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td>
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Edson Llamozas</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen</td>
     </tr>
   </tbody>
 </table>
+
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
 
  |Team Member | GitHub Username |  Delegating Responsibilities <br> Leader (L) / Collaborator (C) | Merging Branches <br>Leader (L) /Collaborator (C)| Correcting Mistakes <br> Leader (L) /Collaborator (C)|
 |-------------|--------------|------------|----------|----------|
-| Jose Luis Martinez Validiva | hmongus  |    L   |    C     | L  |
-| Sebastian Cordova Valdivia 		 | Sevas04  |  C     |   L      |  C  |
-| Karen Stephanie Ramos Carpio | KarenRamos2  |   C    |    C     |   C   |
+| Joel Prudencio Alcantara | joel5871  |    C   |    C     | C  |
+| Karen Stephanie Ramos Carpio | KarenRamos2  |   L   |    C     |   L   |
 
 
 #### 5.2.3.3.Sprint Backlog 3.
