@@ -741,8 +741,6 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
       <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">joel5871</td>
       <td style="border
 
-
-
 ## 5.3. Validation Interviews.
 ### 5.3.1. Diseño de Entrevistas.
 ### 5.3.2. Registro de Entrevistas.
