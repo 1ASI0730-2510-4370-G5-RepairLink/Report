@@ -436,19 +436,88 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
 #### 5.2.3.1.Sprint Planning 3.
 
 <table style="border-collapse: collapse; width: 100%;">
-<tbody>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 3</strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Backlog</strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2025-06-01</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">21:00</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Todos los miembros de RepairLink</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal &amp; User Stories</strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"> El objetivo del Sprint 3 es completar el backend de la organizacion al 100% y conectarlo al FrontEnd. Verificar los endpoints y los datos brindados en estos.</td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Velocity</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>14</strong></td></tr>
-<tr><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td><td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>14</strong></td></tr>
-</tbody>
+  <tbody>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Story ID</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Title</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Description</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Story Points</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Status</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Assigned To</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US001</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Registrar usuario cliente</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente registrarse en la plataforma proporcionando datos básicos.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US002</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Login usuario cliente</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente ingresar a su cuenta existente.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sebastián Córdova</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US003</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear perfil técnico</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite a los técnicos crear su perfil, incluyendo experiencia y especialidades.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Stanley Gutiérrez</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US004</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Visualización de técnicos disponibles</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">El cliente puede ver la lista de técnicos disponibles en su área.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Edson Llamozas</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US005</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Verificar disponibilidad de técnicos</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente verificar si un técnico está disponible en tiempo real.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">José Luis Martínez</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US006</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Agendar cita con técnico</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente agendar una cita con un técnico según su disponibilidad.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US007</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Generar presupuesto</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al técnico generar y enviar un presupuesto al cliente.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sebastián Córdova</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US008</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Confirmación de reparación</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente confirmar si acepta o no la reparación propuesta por el técnico.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Stanley Gutiérrez</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">US009</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Registro de pago</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente realizar el pago de la reparación.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Edson Llamozas</td>
+    </tr>
+  </tbody>
 </table>
 
 #### 5.2.3.2. Aspect Leaders and Collaborators.
@@ -461,52 +530,7 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
 
 
 #### 5.2.3.3.Sprint Backlog 3.
-<table style="border-collapse: collapse; width: 100%;">
-  <tbody>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint #</strong></td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Sprint 3</strong></td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Planning Backlog</strong></td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Date</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2025-06-01</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Time</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">21:00</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Location</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Google Meet</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Prepared By</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen Ramos</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Attendees</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Todos los miembros de RepairLink</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;" colspan="2"><strong>Sprint Goal & User Stories</strong></td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 1 Goal</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">El objetivo del Sprint 3 es completar el backend de la organización al 100% y conectarlo al FrontEnd. Verificar los endpoints y los datos brindados en estos.</td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sprint 3 Velocity</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>14</strong></td>
-    </tr>
-    <tr>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Sum of Story Points</td>
-      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>14</strong></td>
-    </tr>
-  </tbody>
-</table>
+
 
 
 #### 5.2.3.4.Development Evidence for Sprint Review.
