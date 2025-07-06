@@ -278,33 +278,31 @@ Cada miembro del equipo contribuyó activamente con tareas específicas relacion
 
 ### 5.2.2. Sprint 2
 #### 5.2.2.1. Sprint Planning 2
-<br>
-SPRINT 2:
+<div style="border: 2px solid black; padding: 10px; background-color: #f4f4f4;">
+  <h1>SPRINT 2</h1>
 
-SPRINT PLANNING BACKGROUND
+  <h2>SPRINT PLANNING BACKGROUND</h2>
+  <ul>
+    <li><strong>Date:</strong> 01-05-2025</li>
+    <li><strong>Time:</strong> 7:00 pm</li>
+    <li><strong>Location:</strong> Via virtual por Google Meet</li>
+    <li><strong>Prepared By:</strong> Karen Stephanie Ramos Carpio</li>
+    <li><strong>Attendees (to planning meeting):</strong> Sebastián Cordova Valdivia, Stanley Jeremy Gutierrez Tume, Edson Diego Llamozas Diaz, José Luis Martinez Valdivia, Karen Stephanie Ramos Carpio</li>
+  </ul>
 
-Date: 01-05-2025
+  <h3>Sprint 2 - Review Summary</h3>
+  <p>Durante la primera reunión del Sprint, el equipo se enfocó en definir las tareas y responsabilidades de cada miembro, asegurando que todos estuvieran alineados con los objetivos del informe a desarrollar y cualquier duda acerca del desarrollo hacernoslo saber por nuestro chat de whatsapp.</p>
 
-Time: 7:00 pm
+  <h3>Sprint 2– Retrospective Summary</h3>
+  <p>En esta retrospectiva, el equipo discutió cómo se llevó a cabo la planificación del Sprint y la distribución de tareas. Todos los participantes lograron hacer su parte del trabajo, ya que corregimos algunos puntos que nos parecían que se podían mejorar.</p>
 
-Location: Via virtual por Google Meet
-
-Prepared By: Karen Stephanie Ramos Carpio
-
-Attendees (to planning meeting): Sebastian Cordova Valdivia,Stanley Jeremy Gutierrez Tume,Edson Diego Llamozas Diaz,José Luis Martinez Valdivia,Karen Stephanie Ramos Carpio.
-
-Sprint 2 - Review Summary: Durante la primera reunión del Sprint, el equipo se enfocó en definir las tareas y responsabilidades de cada miembro, asegurando que todos estuvieran alineados con los objetivos del informe a desarrollar y cualquier duda acerca del desarrollo hacernoslo saber por nuestro chat de whatsapp.
-
-Sprint 2– Retrospective Summary: En esta retrospectiva, el equipo discutió cómo se llevó a cabo la planificación del Sprint y la distribución de tareas.Todos los participantes lograron hacer su parte del trabajo , ya que corregimos algunos puntos que nos parecían que se podían mejorar.
-
-Sprint Goal & User Stories: -
-
-Sprint 2 goal: Diseñar e implementar el FrontEnd del Aplicativo Web.
-
-Sprint 1 Velocity: 12
-
-Sum of Story Points:31
-<br>
+  <h3>Sprint Goal & User Stories</h3>
+  <ul>
+    <li><strong>Sprint 2 goal:</strong> Diseñar e implementar el FrontEnd del Aplicativo Web.</li>
+    <li><strong>Sprint 1 Velocity:</strong> 12</li>
+    <li><strong>Sum of Story Points:</strong> 31</li>
+  </ul>
+</div>
 #### 5.2.2.2. Sprint Backlog 2
 
 En esta sección se muestran los tasks que se realizaron en el presente sprint:
