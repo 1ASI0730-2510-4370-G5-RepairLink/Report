@@ -678,6 +678,23 @@ Se presentan los commits realizados en el repositorio de GitHub, en el cual se p
 
 
 #### 5.2.3.5.Execution Evidence for Sprint Review.
+## Evidencia de los Endpoints de la API Implementados en el Sprint 3
+
+Durante el Sprint 3, se implementaron una serie de **endpoints RESTful** esenciales para el funcionamiento de la plataforma **RepairLink**. Estos endpoints permiten la interacción entre el **frontend** y el **backend**, y son fundamentales para las funcionalidades de registro, inicio de sesión, gestión de usuarios, citas de reparación, y más.
+
+Algunos de los principales endpoints implementados fueron:
+
+- **POST /api/users/register**: Endpoint para registrar nuevos usuarios en la plataforma.
+- **POST /api/users/login**: Endpoint para realizar el inicio de sesión de usuarios registrados.
+- **GET /api/technicians/{id}/profile**: Recupera el perfil de un técnico específico mediante su ID.
+- **GET /api/users/{id}/profile**: Recupera el perfil de un cliente específico mediante su ID.
+- **POST /api/appointments**: Endpoint para registrar nuevas citas de reparación.
+- **GET /api/appointments/{id}**: Recupera los detalles de una cita específica mediante su ID.
+- **PUT /api/technicians/{id}/update**: Permite actualizar la información del perfil de un técnico.
+- **GET /api/technicians**: Lista todos los técnicos disponibles en la plataforma.
+
+Estos endpoints permiten que la plataforma RepairLink pueda ofrecer una experiencia completa de gestión para usuarios y técnicos, facilitando operaciones clave como el registro, la creación de citas, la consulta de perfiles y más.
+
 #### 5.2.3.6.Services Documentation Evidence for Sprint Review.
 #### 5.2.3.7.Software Deployment Evidence for Sprint Review.
 #### 5.2.3.8.Team Collaboration Insights during Sprint.
