@@ -414,7 +414,7 @@ En esta seccion se muestra los diagramas de comppnentes de cada uno de los bound
  **ServiceCatalog - Component:** <br>
     ![Alt Text](images/DDD-ServiceCatalog.png)
 
- **UserManagement - Component:** <br>
+ **IAM - Component:** <br>
     ![Alt Text](images/DDD-UserManagement.png)
 
 ## 4.7.Software Object-Oriented Design.
@@ -440,12 +440,12 @@ En esta seccion se muestra los diagramas de comppnentes de cada uno de los bound
  **ServiceCatalog:** <br>
     ![Alt Text](images/ClassDiagram-ServiceCatalog.png)
 
- **UserManagement:** <br>
+ **IAM:** <br>
     ![Alt Text](images/ClassDiagram-UserManagement.png)
 
  
 ### 4.7.2.Class Dictionary
- ### 1.**User Management Context**
+ ### 1.**IAM Context**
 
 #### `User`
 - **Descripción**: Representa a un usuario registrado en la plataforma (cliente, técnico o administrador).
