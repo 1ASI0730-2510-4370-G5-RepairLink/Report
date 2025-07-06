@@ -530,6 +530,90 @@ El equipo mantuvo una comunicación activa y efectiva durante todo el sprint, ut
 
 
 #### 5.2.3.3.Sprint Backlog 3.
+<table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Task ID</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Title</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Description</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Story Points</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Status</strong></td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;"><strong>Assigned To</strong></td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">TS001</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Registrar usuario cliente</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente registrarse en la plataforma proporcionando datos básicos.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">TS002</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Login usuario cliente</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente ingresar a su cuenta existente.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Joel Prudencio</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">TS003</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Crear perfil técnico</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite a los técnicos crear su perfil, incluyendo experiencia y especialidades.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">TS004</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Visualización de técnicos disponibles</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">El cliente puede ver la lista de técnicos disponibles en su área.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Joel Prudencio</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">TS005</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Verificar disponibilidad de técnicos</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente verificar si un técnico está disponible en tiempo real.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">TS006</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Agendar cita con técnico</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente agendar una cita con un técnico según su disponibilidad.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">3</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Done</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Joel Prudencio</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">TS007</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Generar presupuesto</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al técnico generar y enviar un presupuesto al cliente.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">5</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">In Progress</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">TS008</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Confirmación de reparación</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente confirmar si acepta o no la reparación propuesta por el técnico.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">4</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Joel Prudencio</td>
+    </tr>
+    <tr>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">TS009</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Registro de pago</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Permite al cliente realizar el pago de la reparación.</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">2</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">To Do</td>
+      <td style="border:1pt solid #000000;padding:5pt;vertical-align:top;">Karen</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
