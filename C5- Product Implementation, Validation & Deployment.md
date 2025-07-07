@@ -733,6 +733,73 @@ Se realizó un diseño para las entrevistas basadas en las necesidades del clien
 - **Objetivos de la entrevista:** Obtener retroalimentación sobre las funcionalidades del sistema y la usabilidad de la interfaz de usuario.
 - **Público objetivo:** Usuarios clave del sistema y partes interesadas del proyecto.
 - **Metodología:** Entrevistas semiestructuradas con preguntas abiertas y cerradas para permitir tanto respuestas directas como detalladas.
+  
+## Preguntas para Técnicos de Reparación
+
+### Validación de la Landing Page
+
+- ¿Qué te transmite esta página en los primeros segundos?
+- ¿Qué crees que ofrece este servicio?
+- ¿Te queda claro que está dirigido a técnicos de reparación?
+- ¿Qué sección o mensaje te pareció más relevante?
+- ¿Te interesaría registrarte como técnico? ¿Por qué?
+
+### Validación del Prototipo / Aplicación
+
+- ¿Puedes registrar un nuevo trabajo de reparación desde la app?
+- ¿Te resulta fácil hacer seguimiento del estado de los trabajos?
+- ¿Pudiste encontrar fácilmente las funciones que necesitas?
+- ¿Cómo calificarías la experiencia de uso (1 a 5)? ¿Por qué?
+- ¿Qué herramientas usas actualmente y cómo se comparan con esta?
+- ¿Qué es lo que más te gustó de esta app?
+- ¿Qué mejorarías o qué no te convenció?
+
+### Percepción de Valor y Barreras
+
+- ¿Esta herramienta resolvería problemas reales que enfrentas hoy?
+- ¿Pagarías por este tipo de software? ¿Bajo qué condiciones?
+- ¿Qué funciones adicionales te gustaría tener?
+- ¿Qué te haría dudar en cambiar de tus herramientas actuales?
+- ¿Qué errores cometen otros softwares similares que deberíamos evitar?
+
+### Cierre
+
+- ¿Estarías dispuesto a participar en una prueba beta?
+- ¿Puedo contactarte para seguir recibiendo tu feedback?
+
+---
+
+## Preguntas para Clientes de Servicios de Reparación
+
+### Validación de la Landing Page
+
+- ¿Qué entiendes que ofrece este servicio?
+- ¿A quién crees que va dirigido?
+- ¿Te generaría confianza como cliente?
+- ¿Qué sección te pareció más clara o atractiva?
+- ¿Te motivaría a usar este servicio en el futuro?
+
+### Validación del Prototipo / Aplicación
+
+- ¿Puedes simular pedir una reparación desde la app?
+- ¿Pudiste ver fácilmente el estado del servicio?
+- ¿Recibiste notificaciones o actualizaciones de forma clara?
+- ¿Cómo prefieres recibir actualizaciones (app, email, SMS)?
+- ¿Fue fácil navegar o te resultó confuso en algún momento?
+- ¿Qué te gustó y qué te frustró de la experiencia?
+
+### Percepción de Valor y Barreras
+
+- ¿Te sentirías más cómodo usando esta plataforma que llamando por teléfono o WhatsApp?
+- ¿Pagarías más por mayor transparencia y seguimiento del servicio?
+- ¿Cuál es el mayor problema que has tenido antes con servicios de reparación?
+- ¿Qué funciones crees que faltan en esta app?
+- ¿Qué haría que no la uses?
+
+### Cierre
+
+- ¿Te interesaría probar esta app cuando esté disponible?
+- ¿Podemos contactarte para más validaciones o pruebas?
 
 ### 5.3.2. Registro de Entrevistas
 
