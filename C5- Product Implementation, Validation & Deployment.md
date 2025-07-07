@@ -808,6 +808,100 @@ Las entrevistas fueron registradas con la aprobación de los participantes, util
 - **Métodos de registro:** Grabaciones de audio, notas escritas y observaciones directas.
 - **Herramientas utilizadas:** Google Forms para preguntas cerradas y Google Meet para entrevistas virtuales.
 
+#### Segmento Objetivo: Técnicos y reparadores independientes
+Entrevista 1
+
+| **Datos del entrevistado**                                                             |
+|----------------------------------------------------------------------------------------|
+| **Nombre:** Víctor Hugo Rivas                                                        |
+| **Edad:** 25                                                                           |  
+| **Género:** Masculino                                                                  |  
+| **Distrito:** Lince                                                                    |
+| **Ocupación:** Técnico en reparaciones generales                                       |  
+| **Estado Civil:** Soltero                                                              |  
+| **Link de la entrevista:** [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EVjvWFhAE5pEsBwhMZFUOo4BPuxo-onDmizq_2cMY9g_Sw?e=GzuCxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+|Inicio de la entrevista: 13:12|
+|Duración de la entrevista: 07 minutos     |
+Resumen: Víctor comentó que la landing page le pareció clara y profesional desde el primer vistazo, aunque no estaba seguro si estaba dirigida a técnicos hasta leer el segundo bloque de texto. Le gustó la sección donde se explica cómo pueden gestionar sus trabajos. En el prototipo, pudo registrar un trabajo fácilmente y entendió cómo hacer seguimiento al estado. Dijo que actualmente usa WhatsApp y una libreta para registrar clientes, lo cual es desordenado. Le gustó que esta app centraliza todo, pero comentó que le gustaría que se puedan guardar fotos del trabajo. Pagaría por un plan mensual si es económico y tiene soporte técnico. Dudaría en cambiar si requiere mucho tiempo de adaptación. Está dispuesto a participar en la beta.
+
+Entrevista 2
+
+| **Datos del entrevistado**                                                             |
+|----------------------------------------------------------------------------------------|
+| **Nombre:** Luis Alberto Huamán                                                       |
+| **Edad:** 40                                                                           |  
+| **Género:** Masculino                                                                  |  
+| **Distrito:** El Agustino                                                                   |
+| **Ocupación:** Técnico automotriz independiente                                       |  
+| **Estado Civil:** Soltero                                                              |  
+| **Link de la entrevista:** [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EVjvWFhAE5pEsBwhMZFUOo4BPuxo-onDmizq_2cMY9g_Sw?e=GzuCxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+|Inicio de la entrevista: 13:12|
+|Duración de la entrevista: 07 minutos     |
+Resumen: Luis encontró la landing muy clara y le gustó que le hablen directamente como profesional independiente. Le interesó la parte donde dice que puede controlar sus trabajos y clientes en un solo lugar. En la app, logró simular el registro de un trabajo y dijo que la navegación fue sencilla. Le gustó especialmente que haya seguimiento de los estados, pero le gustaría que pueda ver un historial por cliente. Usa Excel y agenda, lo cual le hace perder tiempo. Cree que esta app le resolvería eso. Pagaría si el sistema es estable y no muy caro. Cambiaría solo si no pierde información. Está dispuesto a seguir colaborando.
+
+Entrevista 3
+| **Datos del entrevistado**                                                             |
+|----------------------------------------------------------------------------------------|
+| **Nombre:** Anderson Castañeda                                                     |
+| **Edad:** 30                                                                          |  
+| **Género:** Masculino                                                                  |  
+| **Distrito:** Independencia                                                                  |
+| **Ocupación:** Técnico en reparación de celulares                                       |  
+| **Estado Civil:** Soltero                                                              |  
+| **Link de la entrevista:** [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EVjvWFhAE5pEsBwhMZFUOo4BPuxo-onDmizq_2cMY9g_Sw?e=GzuCxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+|Inicio de la entrevista: 09:30|
+|Duración de la entrevista: 06 minutos|
+Resumen: Anderson dijo que la landing le pareció útil, pero al inicio pensó que era solo para clientes, no para técnicos. Le llamó la atención la sección de beneficios. En el prototipo, pudo usar sin problemas la opción de registrar un nuevo trabajo. Lo que más valoró fue poder actualizar el estado y que se notifique al cliente. Dijo que hoy en día todo lo maneja por WhatsApp y en hojas, y que esto le parece una gran mejora. Dudaría solo si hay costos ocultos o si la app es complicada. Quiere un sistema simple, visual, y que pueda usar desde el celular. Participaría sin problema en la versión beta.
+
+#### Segmento Objetivo: Clientes de servicios de reparación
+Entrevista 1
+
+| **Datos del entrevistado**                                                             |
+|----------------------------------------------------------------------------------------|
+| **Nombre:** Sofía Morales                                                    |
+| **Edad:** 29                                                                          |  
+| **Género:** Femenino                                                                  |  
+| **Distrito:** Surquillo                                                                  |
+| **Ocupación:** Administradora                                    |  
+| **Estado Civil:** Soltero                                                              |  
+| **Link de la entrevista:** [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EVjvWFhAE5pEsBwhMZFUOo4BPuxo-onDmizq_2cMY9g_Sw?e=GzuCxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+|Inicio de la entrevista: 16:12|
+|Duración de la entrevista: 08 minutos|
+Resumen: Sofía comentó que la landing page le pareció moderna y clara. Entendió que el servicio conecta clientes con técnicos de reparación y dijo que le generó confianza. En el prototipo, logró simular una solicitud de reparación fácilmente y pudo ver el estado del servicio. No recibió notificaciones en la prueba, pero mencionó que prefiere recibir actualizaciones por notificación en la app. Le gustó el diseño visual y la rapidez, pero le gustaría que se pueda chatear directamente con el técnico. Sí pagaría un poco más por transparencia.
+
+Entrevista 2
+
+| **Datos del entrevistado**                                                             |
+|----------------------------------------------------------------------------------------|
+| **Nombre:** Cristian Vega                                                  |
+| **Edad:** 29                                                                          |  
+| **Género:** Masculino                                                                  |  
+| **Distrito:** Magdalena del Mar                                                                 |
+| **Ocupación:** Diseñador UX/UI                                   |  
+| **Estado Civil:** Soltero                                                              |  
+| **Link de la entrevista:** [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EVjvWFhAE5pEsBwhMZFUOo4BPuxo-onDmizq_2cMY9g_Sw?e=GzuCxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+|Inicio de la entrevista: 18:40|
+|Duración de la entrevista: 09 minutos|
+Resumen: Cristian entendió que la plataforma ayuda a gestionar servicios de reparación desde el primer momento. Le pareció bien pensada la interfaz. En la validación de la app, simuló pedir una reparación y encontró todo intuitivo. Le gustó ver el estado actualizado del trabajo, aunque comentó que le gustaría ver una línea de tiempo visual. Prefiere actualizaciones por SMS y notificaciones push. No pagaría más por transparencia, pero sí usaría la app si es gratuita. Lo que más valora es saber en qué estado exacto está su solicitud.
+
+Entrevista 3
+
+| **Datos del entrevistado**                                                             |
+|----------------------------------------------------------------------------------------|
+| **Nombre:** Melissa Taipe                                                 |
+| **Edad:** 29                                                                          |  
+| **Género:** Femenino                                                                  |  
+| **Distrito:** San Juan de Miraflores                                                                 |
+| **Ocupación:** Diseñador UX/UI                                   |  
+| **Estado Civil:** Soltero                                                              |  
+| **Link de la entrevista:** [Link Entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20201e493_upc_edu_pe/EVjvWFhAE5pEsBwhMZFUOo4BPuxo-onDmizq_2cMY9g_Sw?e=GzuCxI&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+|Inicio de la entrevista: 14:15|
+|Duración de la entrevista: 07 minutos|
+Resumen: Melissa entendió que se trataba de un servicio para pedir técnicos fácilmente. Le pareció confiable. En la app, pudo solicitar una reparación y hacer seguimiento. Recibió notificaciones claras y rápidas. Prefiere actualizaciones por app, no por correo. Se sintió frustrada con servicios anteriores por no saber cuándo venían o si ya habían terminado. Pagaría más por claridad. Le gustaría poder calificar al técnico al finalizar.
+
+### Análisis de entrevistas.
+El análisis de las entrevistas revela una necesidad común en ambos segmentos por mayor organización, transparencia y facilidad de uso en los procesos de reparación. Los técnicos valoraron positivamente la posibilidad de registrar trabajos, dar seguimiento al estado y notificar a los clientes desde una sola plataforma, lo cual representaría una mejora significativa frente a su gestión actual basada en WhatsApp, agendas físicas o Excel. Las funciones más deseadas fueron: historial por cliente, almacenamiento de fotos, recordatorios automáticos y facilidad de uso móvil. Los clientes, por su parte, destacaron la importancia de una comunicación clara y en tiempo real durante el proceso de reparación. Prefieren recibir actualizaciones por app o notificaciones push, y estarían dispuestos a pagar más por un servicio transparente, con seguimiento detallado y calificación del técnico. Ambos segmentos mostraron disposición a probar una versión beta, siempre que la herramienta sea intuitiva, económica y confiable. Estos hallazgos validan tanto la propuesta de valor como el enfoque funcional de la solución planteada.
+
 ### 5.3.3. Evaluaciones según heurísticas
 
 Se realizaron evaluaciones de usabilidad basadas en heurísticas de diseño para identificar posibles problemas en la interfaz de usuario del sistema. Las principales heurísticas evaluadas fueron:
