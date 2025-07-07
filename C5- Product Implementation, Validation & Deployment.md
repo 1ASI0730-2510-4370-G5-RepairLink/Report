@@ -904,10 +904,38 @@ El análisis de las entrevistas revela una necesidad común en ambos segmentos p
 
 ### 5.3.3. Evaluaciones según heurísticas
 
-Se realizaron evaluaciones de usabilidad basadas en heurísticas de diseño para identificar posibles problemas en la interfaz de usuario del sistema. Las principales heurísticas evaluadas fueron:
+ Evaluación de User Experience según Heurísticas  
+ UX Heuristics & Principles Evaluation 
+ Usability – Inclusive Design – Information Architecture 
+ CARRERA Ingeniera de Software
+ CURSO  Aplicaciones Web
+ NRC 4370  
+ PROFESORES Alberto Sanchez
+ AUDITOR  Karen Ramos
+ CLIENTE(S) : Víctor Hugo Rivas,Luis Alberto Huamán,Anderson Castañeda,Sofía Morales,Cristian Vega,Melissa Taipe   
 
-- **Visibilidad del estado del sistema:** El sistema debe mantener informado al usuario sobre lo que está sucediendo.
-- **Coincidencia entre el sistema y el mundo real:** El sistema debe usar términos y conceptos familiares al usuario.
-- **Control y libertad del usuario:** Los usuarios deben poder deshacer acciones fácilmente.
-- **Consistencia y estándares:** El sistema debe seguir convenciones estándar en términos de diseño.
+| #  | Heurística Evaluada                                   | Descripción del Cumplimiento / Problema Detectado                                                                                          | Severidad (0-4) | Recomendación                                                                                  |
+|----|--------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|------------------|-----------------------------------------------------------------------------------------------|
+| 1  | Visibilidad del estado del sistema                    | Se muestra el estado del trabajo, pero falta retroalimentación visual al enviar formularios o cambiar estados.                          | 2                | Incluir indicadores de carga y confirmaciones visuales (ej. “Trabajo registrado exitosamente”).|
+| 2  | Relación entre el sistema y el mundo real             | Lenguaje claro, pero algunos términos técnicos pueden confundir a usuarios no especializados.                                             | 1                | Usar lenguaje más cercano al usuario, como “Reparación en curso” en vez de “Job in progress”. |
+| 3  | Control y libertad del usuario                        | No es siempre claro cómo cancelar una acción o volver atrás (ej. durante el registro de trabajo).                                        | 2                | Agregar botones de “Cancelar” o navegación más intuitiva.                                     |
+| 4  | Consistencia y estándares                             | La interfaz es coherente, pero hay diferencias visuales entre la landing y la app (tipografías, colores de botones).                     | 1                | Unificar estilos visuales y branding entre páginas.                                            |
+| 5  | Prevención de errores                                 | Falta validación clara en formularios, se pueden enviar con campos vacíos sin mensajes.                                                  | 3                | Validaciones en tiempo real y mensajes claros de error.                                        |
+| 6  | Reconocimiento antes que recuerdo                     | Algunos íconos no tienen etiquetas, lo que puede generar confusión.                                                                      | 2                | Incluir tooltips o textos breves bajo íconos.                                                  |
+| 7  | Flexibilidad y eficiencia de uso                      | No hay funciones rápidas para técnicos que hacen múltiples registros al día.                                                             | 2                | Añadir accesos rápidos o botones de repetición.                                                |
+| 8  | Diseño estético y minimalista                         | La interfaz es limpia y clara, pero algunos espacios vacíos son excesivos, especialmente en pantallas pequeñas.                          | 1                | Optimizar márgenes y jerarquía visual.                                                         |
+| 9  | Ayudar a diagnosticar y recuperarse de errores        | No hay mensajes de error específicos; los errores son silenciosos o muy generales.                                                       | 3                | Mostrar mensajes claros como “Falta completar el campo de correo”.                            |
+| 10 | Ayuda y documentación                                 | No se incluye tutorial ni guía para el primer uso.                                                                                       | 2                | Añadir onboarding inicial o una sección de ayuda dentro de la app.                             |
+
+---
+
+## Leyenda de Severidad
+
+- **0**: No es un problema de usabilidad  
+- **1**: Problema cosmético  
+- **2**: Problema menor de usabilidad  
+- **3**: Problema importante de usabilidad  
+- **4**: Problema crítico, debe resolverse sí o sí
+
+---
 
